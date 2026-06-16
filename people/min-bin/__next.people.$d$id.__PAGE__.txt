@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+10:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+11:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+3:T1a65,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：战车 · 孟彬">
+
+<defs>
+  <linearGradient id="minbin_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#365B66"/><stop offset=".58" stop-color="#B88745"/><stop offset="1" stop-color="#1E3035"/>
+  </linearGradient>
+  <linearGradient id="minbin_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#E0BE68"/>
+  </linearGradient>
+  <radialGradient id="minbin_glow" cx=".5" cy=".45" r=".62">
+    <stop offset="0" stop-color="#FFEFC0" stop-opacity=".48"/><stop offset="1" stop-color="#FFEFC0" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="minbin_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="minbin_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="minbin_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  
+  <g id="minbin_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+<g clip-path="url(#minbin_win)">
+<rect x="58" y="100" width="304" height="470" fill="url(#minbin_sky)"/>
+<circle cx="210" cy="318" r="154" fill="url(#minbin_glow)"/>
+
+  <g>
+    <rect x="58" y="468" width="304" height="102" fill="#18495D"/>
+    <path d="M58 498 q40 13 86 0 t86 0 t86 0 t86 0" stroke="#DCEAF1" stroke-opacity=".55" stroke-width="3" fill="none"/>
+    <path d="M58 532 q40 11 86 0 t86 0 t86 0 t86 0" stroke="#DCEAF1" stroke-opacity=".38" stroke-width="2.4" fill="none"/>
+  </g>
+
+  <g>
+    <rect x="58" y="450" width="304" height="120" fill="#2B211A"/>
+    <rect x="72" y="424" width="276" height="52" fill="#806044" stroke="#4A3525" stroke-width="1.5"/>
+    <rect x="82" y="426" width="18" height="24" fill="#6D4C34"/><rect x="114" y="426" width="18" height="24" fill="#6D4C34"/><rect x="146" y="426" width="18" height="24" fill="#6D4C34"/><rect x="178" y="426" width="18" height="24" fill="#6D4C34"/><rect x="210" y="426" width="18" height="24" fill="#6D4C34"/><rect x="242" y="426" width="18" height="24" fill="#6D4C34"/><rect x="274" y="426" width="18" height="24" fill="#6D4C34"/>
+    <path d="M188 476 v-22 q0 -20 22 -20 q22 0 22 20 v22 z" fill="#2B211A" stroke="#C49A5A" stroke-width="1"/>
+    <line x1="58" y1="424" x2="362" y2="424" stroke="#C49A5A" stroke-opacity=".5"/>
+    
+  </g>
+
+  <g transform="translate(288,486) scale(0.92)">
+    <rect x="-28" y="-10" width="56" height="13" rx="4" fill="#333338" stroke="#121218" stroke-width="1.2" transform="rotate(-12)"/>
+    <circle cx="-18" cy="12" r="8" fill="#4A3424" stroke="#21150F" stroke-width="1"/>
+    <circle cx="22" cy="12" r="8" fill="#4A3424" stroke="#21150F" stroke-width="1"/>
+    <path d="M30 -18 q14 -6 24 2" stroke="#FFD36A" stroke-width="3" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <g>
+    <line x1="248" y1="462" x2="284" y2="332" stroke="#ECE6D4" stroke-width="5" stroke-linecap="round"/><rect x="240" y="452" width="28" height="7" rx="2" fill="#E9C46A" stroke="#A8772B"/>
+    <path d="M180 556 L186 452 Q210 438 234 452 L240 556 Z" fill="#6A3D27" stroke="#4A1A14" stroke-width="1.5"/>
+    <path d="M190 470 Q210 462 230 470" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 488 Q210 480 230 488" stroke="#E9C46A" stroke-width="2" fill="none" opacity=".85"/>
+    <path d="M190 464 Q172 478 166 496" stroke="#6A3D27" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="164" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <path d="M230 464 Q248 478 254 496" stroke="#6A3D27" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="256" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="204" y="423" width="12" height="12" fill="#E9BA8E"/>
+    <circle cx="210" cy="405" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="195" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <rect x="195" y="386" width="30" height="8" rx="2" fill="#E9C46A" stroke="#A8772B"/><polygon points="201,386 219,386 212,352 208,352" fill="url(#minbin_gold)" stroke="#A8772B"/><use href="#minbin_star" x="210" y="346" fill="#FFF6DC"/>
+    <path d="M202 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M212 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    
+    <path d="M206 415 q4 3 8 0" stroke="#6E4226" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <path d="M202 417 q8 8 16 0 q-3 10 -8 10 q-5 0 -8 -10z" fill="#2A1710" opacity=".55"/>
+  </g>
+</g>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#minbin_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#minbin_kan" transform="translate(34,34)"/>
+<use href="#minbin_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#minbin_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#minbin_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#minbin_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#minbin_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">VII</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7.0">战车</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#minbin_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5.0">孟彬</text>
+  <text x="210" y="649" font-size="11" letter-spacing="1.4" fill="#F3E5C3" opacity=".9">MIN BIN · 妙乌王朝 · 1531–1554</text>
+  <text x="210" y="677" font-size="13" letter-spacing="1.8" fill="#D8B56A">「石墙、炮火与海，围成黄金时代」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1531 – 1554"}],["$","h1",null,{"children":"孟彬"}],["$","p",null,{"className":"person-hero__role","children":["若开黄金时代的缔造者",["$","span",null,{"className":"person-hero__alt","children":[" · ","Min Bin / 明宾"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"石墙、炮火与海"}],["$","p",null,{"className":"person-hero__summary","children":"他以一座边城的隐忍，等来了一个王座；他用石墙与潮汐之壕，把都城筑成铜墙铁壁；他借葡萄牙人的火炮，铸起一支称霸孟加拉湾的舰队；他挥师远征孟加拉、直入达卡，自命为转轮圣王。当东吁的惊涛拍向妙乌的城下，他只消打开一道水闸，便让来犯的大军，淹没…"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","妙乌",{"children":"妙乌"}],["$","span","若开",{"children":"若开"}],["$","span","黄金时代",{"children":"黄金时代"}],["$","span","火炮",{"children":"火炮"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["等待的王子",null]}],[["$","p","0",{"className":"has-dropcap","children":"约 1493 年，一个名叫“孟巴”（Min Pa）的男婴，生于妙乌（Mrauk-U）。他便是日后的孟彬（Min Bin），又称孟巴基（Min Ba-Gyi）。"}],["$","p","1",{"children":"他是妙乌太子敏拉扎（Raza）与公主苏南迪（Saw Nandi）之子；父母本是堂亲（其母乃父之舅父之女）。1502 年，祖父萨灵伽都（Salingathu）驾崩，父亲敏拉扎继位为王。新王登基后，另立了三位新后，把孟彬的生母降为了低阶王妃。数年之后，国王委孟彬为军中一将——这位日后的雄主，自幼便在刀光剑影里习练。"}],["$","p","2",{"children":"然而宫廷的风云，旋即把他抛进了一段漫长的蛰伏。1513 年，父亲敏拉扎被另一个庶出之子加扎波帝（Gazapati）篡夺。论年齿、论法统，孟彬本远在加扎波帝之上，可他却选择了韬光养晦、不露锋芒。此后八年，妙乌的王座上走马灯般换了三位君主——加扎波帝、绍乌（Saw O）、塔扎塔（Thazata）——而孟彬竟在这一轮轮的宫廷倾轧与权力厮杀里，安然幸存了下来。1521 年，塔扎塔死，其弟明康（Minkhaung）夺得了王位；孟彬又一次与王座失之交臂，却谋得了一个要紧的位子——丹兑（Thandwe，即三道卫／檀兑）总督，那是若开举足轻重的第二大城。"}],["$","p","3",{"children":"一个本该登基的王子，就这样把自己，放逐到了一座边城。可他知道，等待，有时正是最锋利的武器。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["丹兑的十年磨剑",null]}],[["$","p","0",{"className":"has-dropcap","children":"在丹兑，孟彬开始了他蓄势待发的十年。"}],["$","p","1",{"children":"他没有怨望，也没有妄动。他在这座第二大城里，不动声色地培植着忠于自己的人马，一件一件地囤积着兵器甲胄。他像一个耐心的猎手，静静地擦亮自己的刀，等着那个最恰当的时刻。十年光阴，足以让一个被边缘化的王子，悄悄攒下一支足以问鼎天下的力量。"}],["$","p","2",{"children":"十年之后，1531 年，时机终于成熟。孟彬举兵，水陆并进，挥师直扑妙乌。在都城之下，他的军队击溃了明康王的大军；他将明康处死，登上了那张他等了大半生的王座。1531 年 5 月 27 日，孟彬即位，奉“提利·图利亚·桑达·摩诃·达摩·亚扎”（Thiri Thuriya Sanda Maha Dhamma Yaza）之尊号，孟加拉方面则称他为“扎布克沙”（Zabuk Shah）。"}],["$","p","3",{"children":"那个曾被命运一再推开的王子，终于凭着自己的隐忍与铁腕，亲手夺回了本该属于他的一切。而一个若开历史上前所未有的黄金时代，也将由他这双手，亲自开启。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["石墙与潮汐之壕",null]}],[["$","p","0",{"className":"has-dropcap","children":"孟彬深知，自己是以武力夺位的——一个以刀剑登基的人，最懂得刀剑的可畏。"}],["$","p","1",{"children":"登基伊始，他便颁下诏令：倾全力加固妙乌的城防。在此后的十年里，这座都城渐渐被武装成一座固若金汤的要塞——巨大的石砌城墙层层环绕，深阔的护城壕里，灌满了随潮汐涨落的海水。更要紧的是，城内遍凿水库与沟渠，一旦强敌压境，便可开闸放水、化平地为泽国。这套精妙的防御，日后又被推及全国——因为自 1532 年起，若开漫长的海岸线，已屡屡遭到葡萄牙海盗的劫掠，处处都需要坚城利壕。"}],["$","p","2",{"children":"他也雷厉风行地巩固着自己的权柄，竟无人敢于抗命。1531 年 9 月 16 日，全国的领主齐聚妙乌新宫，在加冕大典上向他宣誓效忠。然而据编年史，典礼之上有一个意味深长的缺席者——吉大港（Chittagong）。这座港城，曾向若开历代雄主（如 1459 至 1482 年在位的巴绍标、1482 至 1492 年在位的多利亚）纳贡称臣；如今却不再前来。孟彬由此立下宏愿：他要恢复“祖先理应拥有的疆土”——而在他口中，那疆土，远不止一个吉大港，而是整个孟加拉。"}]]]}]]}],["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["远征孟加拉",null]}],[["$","p","0",{"className":"has-dropcap","children":"孟彬“全孟加拉自古属若开”的宣称，于史无据；可这并不妨碍他以此为旗号，去攫取一个正在衰落的邻邦。彼时的孟加拉苏丹国，因连年与德里苏丹国、阿洪王国（Ahom）交战而国势日蹙，正是可乘之机。"}],["$","p","1",{"children":"1532 年 10 月 7 日，孟彬亲率一支水陆并进的大军——三路陆师约一万一千人，外加一支载兵千人的战船队——挥师攻入孟加拉。据若开编年史， 联军先击破孟加拉一万守军、夺取吉大港，继而长驱直入，于 12 月 1 日逼近达卡（Dhaka）。孟加拉军在达卡城外作最后的死战，仍告溃败；苏丹的防线就此崩解。12 月 11 日，若开大军兵不血刃，开进了达卡。次年 2 月 8 日，孟彬在达卡接受孟加拉各地领主的朝贡，并纳一位十六岁的孟加拉王族公主为后；3 月 26 日，他亲赴佛陀成道之地菩提伽耶（Bodh Gaya）朝圣；4 月班师，5 月委任新附之地的总督。"}],["$","p","2",{"children":"孟彬的武功，背后是一架令人生畏的军事机器。据若开编年史， 他统领着一支高度组织、层级分明的大军——四万王家卫士、两万宫廷亲军、一万由多敏普（Thado Min Hpu）、大比（Da Byi）等悍将统率的精锐；他更立志要攻取孟加拉的十二座城池，遣大臣大比领五万之众远征，并欲于瓦塞山（Wa-thaik）之巅，立一座佛塔以志武功。然而须指出：他对吉大港以远的孟加拉，控制其实相当虚浮——他在那里铸造钱币、以苏丹自居，可实际的号令，鲜能贯彻；一如他之前历代的孟加拉苏丹，他也始终未能根除北方“特里普拉（Tripura）部族”的袭扰。征服孟加拉当年，他便不得不遣五千之众驰援达卡御敌；1533 年雨季后，更亲征驱逐，方于次年 2 月凯旋。可这特里普拉之患，终其一生，未能尽除。"}],"$La"]]}]]}],"$Lb","$Lc","$Ld","$Le"]}]}],"$Lf"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","属信史（与权威学术资料相符者）：孟彬（本名孟巴，又称孟巴基）约生于 1493 年、卒于 1554 年 1 月 11 日；为妙乌太子敏拉扎之子，1513 年父被加扎波帝篡位后韬晦自保，历经三朝而幸存，1521 年任丹兑总督；1531 年举兵攻妙乌、杀明康王而即位（5 月 27 日），随即大修城防（石墙与潮汐护壕，并推及全国）；1532 年 10 月远征孟加拉，取吉大港、入达卡、纳孟加拉公主为后、朝圣菩提伽耶；1535 年击退来犯妙乌的葡萄牙雇佣军，其后招募葡兵、引入火器，建强大水陆之师；自命转轮圣王，1535 年 11 月动工兴建谢德当寺（八万佛寺）以志征孟之功，1534—42 年重修安多登戒堂",{"children":"属信史（与权威学术资料相符者）：孟彬（本名孟巴，又称孟巴基）约生于 1493 年、卒于 1554 年 1 月 11 日；为妙乌太子敏拉扎之子，1513 年父被加扎波帝篡位后韬晦自保，历经三朝而幸存，1521 年任丹兑总督；1531 年举兵攻妙乌、杀明康王而即位（5 月 27 日），随即大修城防（石墙与潮汐护壕，并推及全国）；1532 年 10 月远征孟加拉，取吉大港、入达卡、纳孟加拉公主为后、朝圣菩提伽耶；1535 年击退来犯妙乌的葡萄牙雇佣军，其后招募葡兵、引入火器，建强大水陆之师；自命转轮圣王，1535 年 11 月动工兴建谢德当寺（八万佛寺）以志征孟之功，1534—42 年重修安多登戒堂"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$L10",null,{"href":"/people/min-saw-mon","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"星"}],"孟苏孟"]}]]}],["$","$L10",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$L10",null,{"href":"/people/min-razagyi","children":[["$","span",null,{"children":[["$","em",null,{"children":"世界"}],"孟罗阇基"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+a:["$","p","3",{"children":"尽管如此，这场远征的意义，远不止于一时的军威。吉大港是孟加拉湾东岸最要紧的商港之一，扼此一港，便等于扼住了通往孟加拉、乃至更远的印度与波斯世界的贸易咽喉。孟彬以兵锋打通的，其实是一条财富的动脉——此后百年，正是吉大港的关税与转口之利，源源不断地哺育着妙乌的繁华。他铸于孟加拉、以波斯文标榜其苏丹身份的银币，与其说是宗教或政治的归属，不如说是一个精明的君主，为融入那个以伊斯兰为通用语的孟加拉湾商业世界，而递出的一张通行证。"}]
+b:["$","section","4",{"className":"life-stage","id":"stage-5","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"5"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["葡萄牙人的炮火",null]}],[["$","p","0",{"className":"has-dropcap","children":"就在孟彬纵横孟加拉湾的同时，一股全新的力量，正从海上逼近——葡萄牙人。"}],["$","p","1",{"children":"到孟彬之世，葡萄牙的海员与雇佣兵，已是亚洲海域一支不容小觑的势力：他们自 1510 年据有果阿（Goa）、1511 年夺取马六甲（Malacca），扼住了南亚与东南亚的诸多海上要道。若开的海岸，自然也未能幸免于他们日渐放肆的劫掠。1535 年，葡萄牙人竟把战火，烧到了妙乌的城下。据若开编年史， 一支人数不多却装备精良的葡萄牙雇佣军，于 2 月 22 日登陆，乘船溯卡拉丹河（Kaladan）而上，至 2 月 26 日已抵达离妙乌仅数里之遥的坎达扎（Kandaza）。2 月 27 日，葡军在坎达扎击败一支若开军；28 日，直扑妙乌。"}],["$","p","2",{"children":"危急关头，孟彬亲自督战。凭着坚城之利，若开军硬是把这支装备远胜于己、却人数不多的葡军，逼退了回去。葡军后撤数程，又盘桓了一周，终于在 3 月 7 日，被若开水陆大军合力逐入大海。"}],["$","p","3",{"children":"然而孟彬最高明的一着，是在击退葡军之后下的。他清醒地意识到：葡萄牙人这个麻烦，不会就此消失——与其与之为敌，不如化敌为用。此后数年，他大量招募葡萄牙雇佣兵，引入他们的火器，并借助这股力量，打造出一支兵精械利的水陆雄师。来自西方的炮火，就这样被他收为己用，铸成了妙乌称霸孟加拉湾的利刃。"}],["$","p","4",{"children":"这一抉择，堪称孟彬最具远见的一笔。十六世纪的亚洲，正逢一场由火器掀起的军事变革——谁能率先驾驭舰炮与火枪，谁便能在海陆争雄中占尽先机。孟彬没有像许多固守旧法的君主那样，把葡萄牙人单纯视作蛮夷海盗、一味驱逐；他敏锐地看出了那炮火背后的力量，并果断地把它纳入自家的麾下。若开的战船自此装上了葡式的火炮，若开的军阵里多了一批枪法精准的西洋雇佣兵——正是这支融汇了东方人力与西方火力的军队，让一个滨海小邦，得以在群强环伺的孟加拉湾，挺立百年而不倒。"}]]]}]]}]
+c:["$","section","5",{"className":"life-stage","id":"stage-6","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"6"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["胜利之寺与白伞之主",null]}],[["$","p","0",{"className":"has-dropcap","children":"接连的赫赫武功，让孟彬开始以一个全新的身份自居——“转轮圣王”（cakravartin），一位以正法统御天下的世界征服者。"}],["$","p","1",{"children":"为铭记征服孟加拉的功业，他于 1535 年 11 月 9 日，动工兴建一座宏伟的寺院——这便是日后名垂青史的谢德当寺（Shitthaung Temple，意为“八万佛之寺”，相传可上溯至阿育王）。这座寺院的设计极为独特：它迷宫般的回廊、要塞般的结构，令后世许多外来者误以为是一座城堡；而其造像，则“融汇了缅甸佛教与印度西北晚期佛教的元素，昭示着国王与其宗教的威权”（史家古特曼语）。寺内层层石廊间，密布着以万计的佛像与浮雕——帝王出行、本生故事、异域的纹样，皆刻于石上；它既是供养十方诸佛的圣所，也是一部以石头写就的、孟彬武功与王权的史册。佛与王，法与权，在这座“胜利之寺”里熔铸为一。1534 至 1542 年间，他又重修了安多登戒堂（Andaw-thein）。他更加冕以“白伞之主”（Lord of the White Umbrella）的尊号——那白伞，正是南亚与东南亚君权至高无上的象征。"}],["$","p","2",{"children":"到十六世纪三十年代末，孟彬已把妙乌锻造成一个真正的区域强权：他北控整条若开海岸直抵吉大港，手握一支由众多葡萄牙雇佣兵加持的强大水陆之师。一个滨海小邦，在他手中，俨然已是孟加拉湾上不可一世的霸主。"}]]]}]]}]
+d:["$","section","6",{"className":"life-stage","id":"stage-7","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"7"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["东吁的惊涛",null]}],[["$","p","0",{"className":"has-dropcap","children":"然而，孟彬警惕的目光，始终没有离开东面的缅甸本土。"}],["$","p","1",{"children":"彼时，一个新兴的强权正在那里崛起——东吁（Toungoo）。东吁出人意料地击灭了下缅甸的汉达瓦底，一举掌控了下缅甸。孟彬忧心忡忡地注视着这一切：他绝不愿看到一个强盛而统一的伊洛瓦底江流域——历史上，正是这样的强权，一次次干预过他这个滨海之国。于是，当下缅甸最后的孤臣、卑谬王明康（Minkhaung of Prome）以其妹（汉达瓦底的旧后）相许、前来求盟时，孟彬一口应允。"}],["$","p","2",{"children":"1541 年 11 月，东吁的一万七千大军围攻卑谬。1542 年初，孟彬遣一支五千之众，翻越若开山脉（Arakan Yoma）的帕当山口（Padaung Pass），又遣一支七千人、七百艘战船的水师，循海岸北上，共解卑谬之围。可那支陆师刚一出山口，便一头撞进了东吁名将觉廷瑙拉塔（Kyawhtin Nawrahta，即日后威震东南亚的莽应龙）布下的陷阱，被一支六千人的东吁军全歼。水师虽一度攻取了勃生（Pathein），闻陆师覆没，也只得退兵。"}],["$","p","3",{"children":"这场挫败，反倒印证了孟彬经营城防的远见。1545 年 10 月，东吁四个团（四千人、战马百匹、战象十头）试探性地侵入南若开、扑向丹兑；孟彬遣劲旅将其逐出。这不过是序幕。一年后的 1546 年 10 月 28 日，东吁倾全力水陆并进，以一支远为庞大的军队（一万九千人、战马四百、战象六十、战船与装甲战船一百三十、辎重船十）大举来犯。东吁军迅速荡平南若开，妙乌的水陆之师奋力抵抗，仍挡不住其锋。1547 年 1 月 23 日，东吁军逼近旧都朗益；次日，发起总攻，将若开军逐出朗益，团团围住了坚固的妙乌都城。他们一度攻破了妙乌东面的外围工事——可就在此时，孟彬下令打开城中水库的闸门，滔滔潮水奔涌而出，将攻入的东吁大军，尽数淹没、冲走。东吁王德彬瑞蒂（Tabinshwehti）无意陷入旷日持久的围城，遂于 1 月 30 日与孟彬议和，三日后撤军，并于 3 月 26 日撤离丹兑。一座倾注了他十余年心血的坚城，连同那一道决堤的潮水，救下了整个王国。"}]]]}]]}]
+e:["$","section","7",{"className":"life-stage","id":"stage-8","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"8"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["海洋的遗产",null]}],[["$","p","0",{"className":"has-dropcap","children":"东吁虽退，孟彬对这个强邻的戒惧，却终其余生未曾稍减。他甚至遣三千之众，北上驰援东吁的死敌、阿瓦王悉都觉廷（Sithu Kyawhtin），助其平叛——他要竭尽所能，把东吁北进的势头，挡在上缅甸。"}],["$","p","1",{"children":"1554 年 1 月 11 日，孟彬辞世，享年六十岁，归葬于他亲手缔造的谢德当寺，由长子兼储君孟迪卡（Min Dikkha）继位。"}],["$","p","2",{"children":"而他留下的遗产，将远远地荫蔽后世。他遍筑于全国的坚城利壕，威慑得东吁直到 1580 年才敢再度来犯；他一手缔造的那支舰队，称霸了整个孟加拉湾——在此后的一个世纪里，正是凭着这支水师，若开得以掌控从孙德尔本斯（Sundarbans）直到马都八湾、绵延一千六百公里的漫长海岸。他二十二年的治世，把妙乌锻造成了一个真正的区域强权，而这份强盛，一直维持到了十七世纪的后半叶。"}],["$","p","3",{"children":"在他身后的那个世纪里，妙乌将迎来它真正的全盛：葡萄牙、荷兰的商船云集于若开的港口，吉大港的财富滚滚而来，连远渡重洋的欧洲旅人，都把这座“黄金之城”的繁华，写进了他们的游记。而这一切的根基——那固若金汤的城防、那纵横四海的舰队、那融贯东西的开放气象——皆是孟彬一手奠定。后世若开人追忆的黄金时代，其底色，正是由他这双手，蘸着石墙、炮火与海，亲笔涂就。"}],["$","p","4",{"children":"这便是孟彬的宿命，也是他的功业。他的一生，仿佛由三种意象铸成——石墙、炮火与海。他以一座边城的隐忍，等来了一个王座；他以巨石与潮水，把都城筑成了任谁也攻不破的堡垒；他以异邦的火炮，铸起了一支横行孟加拉湾的舰队，把一个滨海小邦，推上了它历史的巅峰。"}],["$","p","5",{"children":"若说妙乌的开创者孟苏孟，是那粒被风暴卷往异乡、又奇迹般飘回故土生根的种子；那么孟彬，便是让这棵树真正参天蔽日、繁花满枝的人。一个曾被命运一再推开王座的蛰伏者，最终不仅夺回了属于自己的一切，更把整个王朝，带上了它三百五十年国祚中最为璀璨的一段。石墙挡得住刀兵，舰队镇得住海疆，而那道决堤的潮水，则永远地留在了若开人的记忆里——它仿佛在说：真正的强者，从不只靠刀剑取胜，他更懂得，如何让自己脚下的山河，成为自己最忠实的盟友。"}]]]}]]}]
+f:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[null,["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L10","min-saw-mon",{"href":"/people/min-saw-mon","children":[["$","strong",null,{"children":"孟苏孟"}],["$","span",null,{"children":"妙乌王朝开创者"}]]}],["$","$L10","min-razagyi",{"href":"/people/min-razagyi","children":[["$","strong",null,{"children":"孟罗阇基"}],["$","span",null,{"children":"妙乌全盛之巅的君主"}]]}],["$","$L10","maha-thammada",{"href":"/people/maha-thammada","children":[["$","strong",null,{"children":"摩诃达玛达"}],["$","span",null,{"children":"妙乌王朝末代君主"}]]}]]}]]}]]}]
+13:null

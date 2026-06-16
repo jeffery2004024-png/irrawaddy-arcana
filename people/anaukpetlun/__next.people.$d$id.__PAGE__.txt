@@ -1,0 +1,90 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+f:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+10:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+3:T1858,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：战车 · 阿那毕隆">
+<defs>
+  <linearGradient id="anaukpetlun_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#203A5F"/><stop offset=".58" stop-color="#8B3430"/><stop offset="1" stop-color="#151927"/>
+  </linearGradient>
+  <linearGradient id="anaukpetlun_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#E9C46A"/>
+  </linearGradient>
+  <radialGradient id="anaukpetlun_glow" cx=".5" cy=".45" r=".62">
+    <stop offset="0" stop-color="#FFEFC0" stop-opacity=".48"/><stop offset="1" stop-color="#FFEFC0" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="anaukpetlun_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="anaukpetlun_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="anaukpetlun_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  
+  <g id="anaukpetlun_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+<g clip-path="url(#anaukpetlun_win)">
+<rect x="58" y="100" width="304" height="470" fill="url(#anaukpetlun_sky)"/>
+<circle cx="210" cy="318" r="154" fill="url(#anaukpetlun_glow)"/>
+<rect x="58" y="472" width="304" height="98" fill="#173C55"/><path d="M58 500 q42 13 88 0 t88 0 t88 0" stroke="#DCEAF1" stroke-opacity=".55" stroke-width="3" fill="none"/><path d="M58 536 q42 10 88 0 t88 0 t88 0" stroke="#DCEAF1" stroke-opacity=".35" stroke-width="2.4" fill="none"/>
+<g transform="translate(292,492) scale(.82)"><path d="M-46 20 Q-4 38 44 20 L30 42 H-30 Z" fill="#7A3F25" stroke="#3E2117" stroke-width="1.2"/><line x1="-4" y1="18" x2="-4" y2="-52" stroke="#6B4A22" stroke-width="3"/><path d="M0 -46 Q34 -24 12 6 L0 6 Z" fill="#E8D6A3" stroke="#9B7A45"/><path d="M-8 -40 Q-32 -20 -18 8 L-8 8 Z" fill="#C89A50" stroke="#8A6A3C"/></g>
+<g transform="translate(108,510) scale(.82)"><rect x="-28" y="-10" width="56" height="13" rx="4" fill="#333338" stroke="#121218" stroke-width="1.2" transform="rotate(-12)"/><circle cx="-18" cy="12" r="8" fill="#4A3424" stroke="#21150F"/><circle cx="22" cy="12" r="8" fill="#4A3424" stroke="#21150F"/><path d="M30 -18 q14 -6 24 2" stroke="#FFD36A" stroke-width="3" stroke-linecap="round" fill="none"/></g>
+
+  <g>
+    <line x1="246" y1="462" x2="284" y2="332" stroke="#ECE6D4" stroke-width="5" stroke-linecap="round"/><rect x="240" y="452" width="28" height="7" rx="2" fill="#E9C46A" stroke="#A8772B"/>
+    <path d="M180 556 L186 452 Q210 438 234 452 L240 556 Z" fill="#7E2F28" stroke="#321812" stroke-width="1.5"/>
+    <path d="M190 474 Q210 466 230 474" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 492 Q210 484 230 492" stroke="#E9C46A" stroke-width="2.2" fill="none"/>
+    <path d="M190 466 Q172 480 166 498" stroke="#7E2F28" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M230 466 Q248 480 254 498" stroke="#7E2F28" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <circle cx="164" cy="500" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <circle cx="256" cy="500" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="204" y="424" width="12" height="12" fill="#E9BA8E"/>
+    <circle cx="210" cy="405" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="195" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <rect x="195" y="386" width="30" height="8" rx="2" fill="#E9C46A" stroke="#A8772B"/><polygon points="201,386 219,386 212,342 208,342" fill="url(#anaukpetlun_gold)" stroke="#A8772B"/><use href="#anaukpetlun_star" x="210" y="336" fill="#FFF6DC"/>
+    <path d="M202 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M212 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M206 415 q4 3 8 0" stroke="#6E4226" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    
+  </g>
+</g>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#anaukpetlun_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#anaukpetlun_kan" transform="translate(34,34)"/>
+<use href="#anaukpetlun_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#anaukpetlun_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#anaukpetlun_kan" transform="translate(386,686) scale(-1,-1)"/>
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#anaukpetlun_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#anaukpetlun_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">VII</text>
+  <text x="210" y="88" font-size="23" letter-spacing="8" fill="#E9C46A" font-weight="700" dx="-4">战车</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#anaukpetlun_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5.0">阿那毕隆</text>
+  <text x="210" y="649" font-size="10.2" letter-spacing="1.1" fill="#F3E5C3" opacity=".9">ANAUKPETLUN · 东吁中兴 · 1578–1628</text>
+  <text x="210" y="677" font-size="13" letter-spacing="1.2" fill="#D8B56A">「他的剑先指向南方，命运却落在西天」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1578 – 1628"}],["$","h1",null,{"children":"阿那毕隆"}],["$","p",null,{"className":"person-hero__role","children":["中兴东吁统一者",["$","span",null,{"className":"person-hero__alt","children":[" · ","Anaukpetlun / 殁于西方之王"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"西陨之王"}],["$","p",null,{"className":"person-hero__summary","children":"良渊王长子，破卑谬、攻沙廉、诛葡萄牙枭雄德·布里托，重建祖父勃印曩的帝国轮廓，终死于亲子之手，应了“殁于西方之王”的谶名。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","中兴东吁",{"children":"中兴东吁"}],["$","span","沙廉",{"children":"沙廉"}],["$","span","德·布里托",{"children":"德·布里托"}],["$","span","统一者",{"children":"统一者"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["承继父志",null]}],[["$","p","0",{"className":"has-dropcap","children":"公元一五七八年一月，他出生在父亲尚未称王、还只是一方总督的岁月里。当良渊王于一六〇五年深秋殁于掸邦山中，这位二十七岁的长子，顺理成章地接过了那把尚未坐稳的王座。"}],["$","p","1",{"children":"他所继承的，不仅是王位，更是一桩沉甸甸的、未竟的宏图。父亲为他备好了腹心与刀兵，也为他指明了方向，却把最艰难、最血腥的一段路——南下、统一、与据守海港的异邦人正面决战——原封不动地留给了他。展开在这位年轻君主面前的，是一幅支离破碎的舆图：东吁仍由堂亲那信囊（Natshinnaung）割据，卑谬自立门户，而最刺目的，是南方港口沙廉（今丹林）上空那面飘扬的、不属于任何缅人君主的旗帜。他没有迟疑。承父之志，本就意味着要他把这幅碎裂的图卷，一寸一寸地重新拼合成帝国。"}],["$","p","2",{"children":"后世记住他的名字，叫“阿那毕隆”（Anaukpetlun）——这并非他在世时所用的本名，而是一个死后追加的称号，意为“殁于西方之王”。这个名字本身，便是一句被命运预先写下、却要到二十二年之后才骤然应验的谶语。然而在它应验之前，这位君主要先用半生的征伐与杀伐，去把父亲未尽的事业，一桩桩做完。他生而锋锐，承的是父亲的志，握的却是一把比父亲更冷、更直接的剑。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["南征与卜列士之死",null]}],[["$","p","0",{"className":"has-dropcap","children":"他的剑，首先指向南方。"}],["$","p","1",{"children":"一六〇八年，他以一万四千之众的水陆大军围攻卑谬，鏖战八月，终于七月十三日浴血破城。两年之后的一六一〇年，他又从那信囊手中夺取东吁，迫其俯首称臣。然而真正的劲敌，是一个来自里斯本的葡萄牙冒险家——菲利普·德·布里托（Filipe de Brito e Nicote），缅人称之为“鄂辛卡”（Nga Zinga）。"}],["$","p","2",{"children":"此人的一生，本身就是那个大航海时代最斑斓也最凶险的注脚。他出身里斯本的贫寒之家，漂泊东来，先是受雇于若开王充当佣兵，凭一身胆色与三艘战舰、三千之众，为主君攻取了沙廉这座扼守仰光河口的战略要港，并因功受封为总督。然而他的真实野心很快显露：一六〇三年，他背主自立，竟宣布将沙廉献予遥远的葡萄牙王室。他招徕更多葡人前来定居筑垒，俨然在缅地的海岸上，建起了一个属于欧洲人的桥头堡。当东吁与若开联军于一六〇五年来攻时，他甚至俘获了若开的王储明卡冒（Min Khamaung），将其扣为人质，直到对方承认他的独立方才罢休。与他结盟同袍的，是当时缅地一位负有盛名的王子、诗人兼马球好手——东吁的那信囊。"}],["$","p","3",{"children":"更令缅人切齿入骨的，是他对佛门圣物的亵渎。据史册所载，这位枭雄大肆劫掠各地佛寺，将寺中庄严的青铜大钟拆下、熔铸成攻城的火炮。在一个以上座部佛教为立国根本、视佛塔佛钟为至圣的国度，这是一桩永世不可饶恕的渎神之罪，足以让任何一位缅人君主以“护法”之名兴师问罪。当德·布里托进而北上、掳走东吁王那信囊时，阿那毕隆终于尽起阿瓦的舟师与陆军南下。他一面要击退趁火打劫的若开舰队，一面要攻破这座由葡萄牙人、非洲人、印度马拉巴尔人、乃至受雇而来的德干穆斯林炮手共同据守的坚城——那是一场时代缩影般的、混杂着各色人种与新式火器的惨烈攻防。"}],["$","p","4",{"children":"一六一三年，围城两月之后，沙廉终告陷落，德·布里托被擒。这位横行一时的枭雄，被剥去衣裳，押上仰光以西数里的一座山丘，钉在一根铁桩之上——以那个时代最酷烈的“穿刺之刑”处死。相传他在桩上苦苦挣扎了三日方才气绝，死时约五十岁；被掳来的那信囊，也一同被处决。这位渎神者，最终以最缓慢、最痛苦的方式，偿还了他对缅地佛门所欠下的债。"}],["$","p","5",{"children":"而那数百名葡萄牙与欧亚混血的俘虏，则被成批解往阿瓦与勃固。他们的后裔自此世代为缅甸王室充当炮手，被称为“白人吉”（Bayingyi）——一群因征服而被迫留下、却又在异国扎根、世代为缅地之王操持火器的异乡之人。一场护法的圣战，竟意外地为缅甸军队留下了一支延续数代的、掌握西洋火器的精锐。"}],["$","p","6",{"children":"德·布里托的覆灭，也是一幅更为宏大的时代图景中的一个缩影。自十六世纪初葡萄牙人绕过好望角、首度闯入印度洋以来，他们便以印度西海岸的果阿为中枢，沿着印度、锡兰、马六甲直至香料群岛的漫长海岸，编织起一张被称为“印度国”（Estado da Índia）的商站与要塞之网。这些亦商亦盗的武装航海者，凭着坚固的盖伦帆船与犀利的舰炮，在亚洲的港口之间纵横捭阖：时而通商牟利，时而劫掠商旅，时而又受雇于当地的君主充当能征惯战的雇佣兵。德·布里托在沙廉的骤然崛起，正是这股席卷半个亚洲的风潮，涌到缅地海岸时所激起的一朵浪花。"}],["$","p","7",{"children":"然而那张大网的中枢远在天边，葡萄牙王室对这些在万里之外自立门户的冒险家，终究鞭长莫及。沙廉那座名义上“献给葡萄牙”的要塞，实则从未真正得到过里斯本的全力支撑；它孤悬于一片信仰迥异、人口稠密的异邦海岸之上，四面皆敌，迟早要被一只缅人之手连根拔除——德·布里托的桀骜与煊赫，从一开始便建在流沙之上。"}],["$","p","8",{"children":"而火器，则是贯穿这整个时代的另一条无声却致命的暗线。无论是他熔铸佛钟所造的攻城大炮，还是阿瓦水师赖以破城的铳炮，抑或那些被掳之后世代为缅王操炮的“白人吉”，都昭示着同一个事实：缅地的战争，正悄然从象阵、长矛与刀盾的旧时代，迈入火药与铳炮主宰胜负的新纪元。阿那毕隆之所以能将碎裂的疆土重新缝合，他麾下那支及时吸纳了西洋火器之长的军队，正是其中一项最不易察觉、却又至关紧要的凭恃。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["重建帝国",null]}],[["$","p","0",{"className":"has-dropcap","children":"破沙廉、诛渎神者，阿那毕隆的声威至此如日中天。他没有停步，而是循着父亲当年指明的方略，继续将碎裂的疆土一块块地缝合回来。"}],"$La","$Lb","$Lc"]]}]]}],"$Ld"]}]}],"$Le"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","年代、战役（破卑谬、攻沙廉、诛德·布里托、阿瓦陷落）与改革（1635年人口赋役大普查、迁都阿瓦、以委任流官取代世袭土酋、扩充阿木丹服役体系）等，据缅甸编年史与近代学术考订写成。",{"children":"年代、战役（破卑谬、攻沙廉、诛德·布里托、阿瓦陷落）与改革（1635年人口赋役大普查、迁都阿瓦、以委任流官取代世袭土酋、扩充阿木丹服役体系）等，据缅甸编年史与近代学术考订写成。"}],["$","li","凡冠以“相传”“野史”“口碑”者——如瑞光塔仿乳房造型之说、孟人行刺他隆之事——为流传而史据不一者，已与信史区分。",{"children":"凡冠以“相传”“野史”“口碑”者——如瑞光塔仿乳房造型之说、孟人行刺他隆之事——为流传而史据不一者，已与信史区分。"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$Lf",null,{"href":"/people/nyaungyan-min","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"魔术师"}],"良渊王"]}]]}],["$","$Lf",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$Lf",null,{"href":"/people/thalun","children":[["$","span",null,{"children":[["$","em",null,{"children":"节制"}],"他隆"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+a:["$","p","1",{"children":"到一六二〇年代初，他已大体重建了祖父勃印曩帝国的轮廓——惟独暹罗与老挝（澜沧）这两块当年最远的疆土，未能收回。他也并非战无不胜：一六一三至一六一四年间，他曾试图进取土瓦、丹那沙林与清迈，却接连被击退。这一连串的挫败，反而让这位务实的君主清醒地认清了帝国可以企及的真实边界，不再一味好大喜功。一六一七年，他作出一个意味深长的决定：将王都自内陆的阿瓦，南迁回旧都勃固，并在那里自立为“勃固之王”——这是要把统治的重心，从安全的腹地，重新前推、压向那富庶而临海的南方。一六一八年，他与暹罗达成默契：缅甸据守马都八（莫塔马），而将清迈让予暹罗。一道边界，就此清晰划定，两国之间维持了一段难得的平静。"}]
+b:["$","p","2",{"children":"他止步于暹罗与老挝的疆界之外，绝非力有不逮的退缩，而是一种以血的教训换来的清醒。祖父勃印曩当年，正是被那份吞吐八方、永无餍足的雄心所反噬：他把缅人的兵力与粮秣，一次又一次地抛掷进暹罗那遥远而无底的战火之中，疆域固然辽阔到了极致，根基却也被掏空到了极致，终于在他身后骤然崩裂。阿那毕隆亲眼目睹过那座庞大帝国是如何因过度扩张而轰然倒塌的，也亲身尝过进取土瓦、清迈接连受挫的苦头。于是他果断地为自己的野心划定了一道边界：宁可要一个收束有度、攻守得宜、真正攥得住的实在国度，也绝不要一个徒有其表、随时可能再度碎裂的辽阔虚影。这一份知所进退、量力而止的分寸感，恰恰是他那不可一世的祖父穷尽一生、也终究未曾真正学会的东西。"}]
+c:["$","p","3",{"children":"这是一个比勃印曩的旧帝国更小、却也远为可经营、可长久的国度。父亲埋下的那粒种子，在他手中长成了一棵——虽不及当年那般参天遮日，根系却扎得更深、更稳的大树。中兴东吁，至此名副其实：它不再是靠一人威望勉强撑起的虚胖帝国，而是一个收束有度、攻守得宜的实体。统一者的功业，到此已然圆满。"}]
+d:["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["弑父之夜",null]}],[["$","p","0",{"className":"has-dropcap","children":"然而，最终把这位伟大统一者击倒的，不是若开的舰队，不是葡萄牙人的火炮，不是德干的雇佣炮手，也不是暹罗的象阵——而是他自己的血脉。"}],["$","p","1",{"children":"祸根，深埋在重重宫禁之中。他的儿子明耶德拍（Minyedeippa），竟与父王的一位偏妃——景栋土司之女——暗中私通。事发之后，阿那毕隆勃然震怒，将这位王子严加申斥，痛斥他所为乃是十恶不赦的大逆之罪，理当被活活炙烤而死。然而盛怒之下这一句决绝的恫吓，非但没有镇住那走投无路的儿子，反而把他逼向了更极端、更不可回头的一步。缅历九九〇年、公元一六二八年七月九日，在勃固以西之地，明耶德拍先下手为强，弑杀了自己的父亲，篡夺了王位。"}],["$","p","2",{"children":"那个死后追加的名号——“殁于西方之王”——就这样，在毫无预兆之间应验了。一代雄主，殒命于王城之西的旷野，死于亲生骨肉之手。命运仿佛在他出生之时，便已悄悄替他写下了这个结局，只待时辰一到，便冷冷揭晓。"}],["$","p","3",{"children":"而宿命的反讽，并未就此终结。这个弑父的明耶德拍，虽强行胁迫满朝群臣拥立自己为王，却始终只能号令勃固一隅——因为他真正的劲敌，他的两位叔父他隆与明耶觉苏瓦，其时正远在掸邦景栋统军征战，手握重兵。短短两年之内，叔父的大军自上缅甸挥师南下，这个弑父的篡位者终被擒获，押解到他隆面前。他乞求削发出家为僧而不得，终被处死。阿那毕隆以毕生的征伐，缝合了一个分崩离析的帝国，却万万没有料到，最锋利、最致命的那一刀，竟会从自己的卧榻之侧、自己的骨血之中，悄然刺来。这是统一者的荣耀，也是统一者最幽暗的宿命。"}],["$","p","4",{"children":"细想之下，这场悲剧里藏着一重森冷彻骨的因果。阿那毕隆毕生所搏，正是要把一个因人心离散、骨肉相残而轰然崩解的帝国，重新拢聚为一统——而他的祖父勃印曩当年所缔造的赫赫霸业，恰恰便是亡于诸子诸侯之间无休止的猜忌与反叛。他比这世上任何人都更深切地懂得离心离德之祸，也正因如此，才把权力越攥越紧，把王室的纲纪与尊卑立得越来越森严。"}],["$","p","5",{"children":"然而命运偏偏跟他开了一个最为残忍的玩笑：他可以扫平外敌、慑服诸侯、震慑住一切来自疆场之上的明枪明箭，却独独防不住自己枕畔、自己骨血之中悄然滋长的那一缕怨毒。那柄最终结果了他性命的刀，不是从任何一座敌国的城头递来，不是来自若开的舰队、葡人的火炮或暹罗的象阵，而是从他亲手缔造、又以毕生心血悉心守护的这座宫廷的最深处，从他自己亲生儿子的手中，悄无声息地递来。"}],["$","p","6",{"children":"一个用尽一生去缝合裂痕的人，最终却死于自己骨肉之间那一道无人能缝、也无从提防的裂痕——这，或许正是“统一者”这三个字背后，所要默默偿付的、最隐秘也最沉重的代价。他给了这个国家以一统，命运却始终不肯为他自己的家，留下哪怕一寸的安宁。"}]]]}]]}]
+e:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[null,["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lf","nyaungyan-min",{"href":"/people/nyaungyan-min","children":[["$","strong",null,{"children":"良渊王"}],["$","span",null,{"children":"中兴东吁开创者"}]]}],["$","$Lf","thalun",{"href":"/people/thalun","children":[["$","strong",null,{"children":"他隆"}],["$","span",null,{"children":"中兴东吁立制之君"}]]}],["$","$Lf","mahadhammaza-dipadi",{"href":"/people/mahadhammaza-dipadi","children":[["$","strong",null,{"children":"摩诃达玛耶扎底"}],["$","span",null,{"children":"东吁王朝末代君主"}]]}]]}]]}]]}]
+12:null

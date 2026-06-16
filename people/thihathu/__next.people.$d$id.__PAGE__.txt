@@ -1,0 +1,105 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+f:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+10:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+3:T1a6b,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：继承者 · 底哈都">
+
+<defs>
+  <linearGradient id="thihathumd_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#4E2E25"/><stop offset=".58" stop-color="#A75E35"/><stop offset="1" stop-color="#241410"/>
+  </linearGradient>
+  <linearGradient id="thihathumd_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#D9B35E"/>
+  </linearGradient>
+  <radialGradient id="thihathumd_glow" cx=".5" cy=".45" r=".62">
+    <stop offset="0" stop-color="#FFEFC0" stop-opacity=".48"/><stop offset="1" stop-color="#FFEFC0" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="thihathumd_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="thihathumd_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="thihathumd_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  
+  <g id="thihathumd_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+<g clip-path="url(#thihathumd_win)">
+<rect x="58" y="100" width="304" height="470" fill="url(#thihathumd_sky)"/>
+<circle cx="210" cy="318" r="154" fill="url(#thihathumd_glow)"/>
+<rect x="58" y="468" width="304" height="102" fill="#241410"/>
+
+  <g opacity="0.95" transform="translate(210,462) scale(0.78) translate(-210,-468)">
+    <rect x="154" y="452" width="112" height="13" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+    <rect x="166" y="440" width="88" height="12" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+    <rect x="178" y="428" width="64" height="12" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+    <path d="M182 428 Q182 378 210 364 Q238 378 238 428 Z" fill="url(#thihathumd_gold)" stroke="#8A5C18" stroke-width="1"/>
+    <polygon points="204,364 216,364 212,296 208,296" fill="url(#thihathumd_gold)" stroke="#8A5C18" stroke-width=".8"/>
+    <line x1="205" y1="348" x2="215" y2="348" stroke="#8A5C18" stroke-width="1"/>
+    <line x1="206" y1="332" x2="214" y2="332" stroke="#8A5C18" stroke-width="1"/>
+    <line x1="207" y1="316" x2="213" y2="316" stroke="#8A5C18" stroke-width="1"/>
+    <path d="M204 296 H216 L210 286 Z" fill="#E9C46A"/>
+    <line x1="210" y1="286" x2="210" y2="270" stroke="#E9C46A" stroke-width="1.6"/>
+    <use href="#thihathumd_star" x="210" y="264" fill="#FFF6DC"/>
+  </g>
+<g fill="#7A6250" stroke="#3D2E25"><rect x="80" y="438" width="42" height="82"/><rect x="292" y="438" width="42" height="82"/><path d="M122 438 h64 l-18 28 h-46z"/><path d="M234 438 h58 l-12 24 h-46z"/></g>
+<g transform="translate(108,526) rotate(-12)"><path d="M-24 12 L-18 -12 L-5 2 L4 -18 L14 4 L26 -10 L22 12 Z" fill="#C9A45B" stroke="#7B5A22"/><path d="M-4 -2 L4 12" stroke="#7B2D22" stroke-width="2"/></g>
+
+  <g>
+    <g transform="translate(256,462)"><circle cx="0" cy="0" r="15" fill="#D9AE54" stroke="#A4742A"/><ellipse cx="0" cy="0" rx="15" ry="5" fill="none" stroke="#8A5C14"/><use href="#thihathumd_star" x="0" y="-21" fill="#FFF6DC"/></g>
+    <path d="M180 556 L186 452 Q210 438 234 452 L240 556 Z" fill="#6F2C24" stroke="#4A1A14" stroke-width="1.5"/>
+    <path d="M190 470 Q210 462 230 470" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 488 Q210 480 230 488" stroke="#E9C46A" stroke-width="2" fill="none" opacity=".85"/>
+    <path d="M190 464 Q172 478 166 496" stroke="#6F2C24" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="164" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <path d="M230 464 Q248 478 254 496" stroke="#6F2C24" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="256" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="204" y="423" width="12" height="12" fill="#E9BA8E"/>
+    <circle cx="210" cy="405" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="195" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <rect x="195" y="386" width="30" height="8" rx="2" fill="#E9C46A" stroke="#A8772B"/><polygon points="201,386 219,386 212,341 208,341" fill="url(#thihathumd_gold)" stroke="#A8772B"/><use href="#thihathumd_star" x="210" y="336" fill="#FFF6DC"/>
+    <path d="M202 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M212 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    
+    <path d="M206 415 q4 3 8 0" stroke="#6E4226" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    
+  </g>
+</g>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#thihathumd_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#thihathumd_kan" transform="translate(34,34)"/>
+<use href="#thihathumd_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#thihathumd_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#thihathumd_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#thihathumd_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#thihathumd_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">XV</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7.0">继承者</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#thihathumd_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5.0">底哈都</text>
+  <text x="210" y="649" font-size="11" letter-spacing="1.4" fill="#F3E5C3" opacity=".9">THIHATHU · 蒲甘余烬 · 1265–1325</text>
+  <text x="210" y="677" font-size="13" letter-spacing="1.8" fill="#D8B56A">「他挖开王朝的墓，也拾起王冠」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1265 – 1325"}],["$","h1",null,{"children":"底哈都"}],["$","p",null,{"className":"person-hero__role","children":["蒲甘的掘墓人与继承者",["$","span",null,{"className":"person-hero__alt","children":[" · ","Thihathu"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"蒲甘的掘墓人与继承者"}],["$","p",null,{"className":"person-hero__summary","children":"他与两位兄长一同击退了横扫亚洲的蒙古铁骑，又亲手埋葬了蒲甘最后的国王；他穷尽一生攀附那个被他终结的王朝，自封为它唯一的继承人。然而当他闭上双眼时，他亲手缔造的王国，正沿着儿子们之间的裂痕，一分为二。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","敏象",{"children":"敏象"}],["$","span","彬牙",{"children":"彬牙"}],["$","span","白象之主",{"children":"白象之主"}],["$","span","蒲甘掘墓人",{"children":"蒲甘掘墓人"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["敏赛的少年",null]}],[["$","p","0",{"className":"has-dropcap","children":"十三世纪中叶，缅甸的土地上，蒲甘（Pagan）王朝已近黄昏。两百余年间，这个以万千佛塔著称的帝国统御着伊洛瓦底江流域；可到了底哈都出生的年代，王室骄奢，大片良田尽数捐入寺院，王权因此失去了赖以维系的资源，盛世的根基早已被悄悄蛀空。"}],["$","p","1",{"children":"1265 年，底哈都（Thihathu）生于中缅甸的敏赛（Myinsaing）。他的父亲登卡波（Theinkha Bo）出身宾纳卡（Binnaka）酋长之家，因与兄长失和而南迁敏赛，娶了当地一位富有平民银行家之女。底哈都在四个孩子中排行第三，上有两位兄长——阿丁卡耶（Athinkhaya）与耶娑廷甘（Yazathingyan），下有一妹。"}],["$","p","2",{"children":"后世英国殖民时代的史家，曾断言这一家是掸族（Shan）血统，“掸族三兄弟”之说由此流传。然而须加说明的是，当代史学家昂他温（Michael Aung-Thwin）在其著名论文中指出，并无任何史料能确证三兄弟的族属——这一“掸族三兄弟”的标签，更多是殖民史学的想象，而非信史。"}],["$","p","3",{"children":"兄弟三人都入仕于蒲甘末代雄主那罗梯诃波帝（Narathihapate）麾下，循着彼此的足迹，一步步进入这个摇摇欲坠的王朝的核心。他们出身不算显赫，却生逢一个需要刀剑甚于需要血统的时代——一股来自北方草原的力量，正向这片佛塔之国压来。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["击退蒙古的人",null]}],[["$","p","0",{"className":"has-dropcap","children":"那股力量，是忽必烈的蒙古帝国。"}],["$","p","1",{"children":"十三世纪八十年代，蒙古大军南下。缅军在北境节节败退，国王与朝廷一路逃往下缅甸；而留在中缅甸前线、扛起防务的，正是这三兄弟。也正是在这段血火岁月里，他们获得了日后载入史册的官号——阿丁卡耶、耶娑廷甘、底哈都。1287 年，蒙古再度大举入侵，起因是那罗梯诃波帝在沦为蒙古藩属仅半年后便遭刺身亡。三兄弟率缅军迎击，使蒙古人付出惨重伤亡，退守太公（Tagaung）。"}],["$","p","2",{"children":"蒲甘王朝就此土崩瓦解。国土陷入无主的混乱，而三兄弟牢牢握住了皎施（Kyaukse）——蒲甘的粮仓。那罗梯诃波帝之子觉苏瓦（Kyawswa）虽于 1289 年在蒲甘称王，却号令不出都城。真正的权力，已落入兄弟三人之手。"}],["$","p","3",{"children":"1293 年，蒲甘王觉苏瓦试图以官职笼络他们，封三人为皎施一带的总督。可在三兄弟眼中，这位“国王”无足轻重——他们在纪念受封的碑文里直言不讳：自己与国王平起平坐，是他们，击退了蒙古人。"}],["$","p","4",{"children":"三人之中，底哈都最为雄心勃勃，也最不肯掩饰。1295 年，他自称“信标信”（hsinbyushin，意为“白象之王”）；次年，又自号“敏吉”（mingyi，“大君”）。两位兄长或许还能容忍这些僭越的名号，蒲甘王觉苏瓦却终于感到了真切的威胁。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["弑君与围城",null]}],[["$","p","0",{"className":"has-dropcap","children":"1297 年初，走投无路的觉苏瓦，向蒙古求援，并被元朝皇帝铁穆耳（元成宗）册封为蒲甘国王。这一举动，反把他自己推上了绝路。"}],["$","p","1",{"children":"同年 12 月 17 日，三兄弟在太后蒲娑（Pwa Saw）的协助下，发动政变，废黜了觉苏瓦，另立其子苏匿（Saw Hnit）为傀儡。他们原以为蒙古会即刻报复，可报复迟迟未至，胆气便愈发壮了。1299 年，傀儡王苏匿首度临朝两日之后，三兄弟便处死了觉苏瓦及其长子。觉苏瓦的另一个儿子逃往云南，向蒙古乞援。次年初，三兄弟索性主动出击，攻占了蒙古在缅北最南端的几处戍所。"}],["$","p","2",{"children":"报复终于如期而至。1301 年初，约一万两千人的蒙古大军压境，于 1 月将三兄弟据守的敏赛城团团围住；2 月底发动总攻，却在坚城之下铩羽而归。据史载，同年 3 月，三兄弟以重金贿赂蒙古主帅——黄金约三十公斤、白银约八十三公斤——换取退兵。蒙古军受贿撤围。云南方面震怒，将两名擅自撤军的主帅处死；可蒙古终究再未发兵，两年后彻底退出了缅北。"}],["$","p","3",{"children":"横扫欧亚、令无数王国俯首的蒙古铁骑，就这样在伊洛瓦底江畔，被三个敏赛出身的兄弟挡了回去。这是底哈都一生最辉煌的战功，也是他日后僭称王权的底气所在。"}]]]}]]}],["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["彬牙的加冕",null]}],[["$","p","0",{"className":"has-dropcap","children":"蒙古退去后，三兄弟的联合统治维系了数年。可底哈都的野心，注定容不下分享。"}],["$","p","1",{"children":"兄长阿丁卡耶于 1310 年 4 月辞世；二哥耶娑廷甘退居幕后，约在 1312 至 1313 年间去世。命运的舞台上，只剩下最年幼、也最不甘的那一个。"}],["$","p","2",{"children":"1313 年 2 月 7 日，底哈都自立为蒲甘王朝的继承者，建立彬牙王国。他没有选择重返蒲甘故都，而是在皎施粮仓附近另建新都。他曾相中两江交汇处的一块要地——也就是日后阿瓦（Inwa）城的所在——却因相传那里有不祥之兆而作罢，最终选定内陆一处，命名为维阇耶补罗（Wizayapura，意为“胜利之城”）。"}],["$","p","3",{"children":"加冕那日，他急于昭告天下：自己是蒲甘列王的正统继承人。他甚至一反常态，两度恳请太后蒲娑亲临大典。蒲娑在典礼上，将自阿奴律陀（Anawrahta，1044—1077 年在位）一脉相传的金腰带与金盘，授予底哈都。自蒲甘开国君主传下的圣物，如今落入这个平民出身者的手中——他终于，名正言顺地成了蒲甘的继承人。"}],"$La","$Lb"]]}]]}],"$Lc","$Ld"]}]}],"$Le"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","属信史（与权威学术资料相符者）：底哈都约生于 1265 年、卒于 1325 年；为蒲甘末王那罗梯诃波帝麾下臣属，与两位兄长共同抵御 1287 年及 1300—01 年的蒙古入侵；1297 年 12 月废黜并随后处死蒲甘王觉苏瓦，另立傀儡苏匿；1301 年蒙古围攻敏赛、受贿撤兵；1309 年称王，1313 年 2 月 7 日建立彬牙王国，自称蒲甘继承者，由太后蒲娑授予阿奴律陀传下的圣物；娶前朝王后弥苏乌、收养并立其子乌沙那为储；长子苏云于 1315 年出走实皆、自立一方；1325 年去世，彬牙与实皆就此分裂为敌国。以上均见于缅甸编年史（琉璃宫史》《大史》《新史》《历代帝王史》等），并经同时代碑",{"children":"属信史（与权威学术资料相符者）：底哈都约生于 1265 年、卒于 1325 年；为蒲甘末王那罗梯诃波帝麾下臣属，与两位兄长共同抵御 1287 年及 1300—01 年的蒙古入侵；1297 年 12 月废黜并随后处死蒲甘王觉苏瓦，另立傀儡苏匿；1301 年蒙古围攻敏赛、受贿撤兵；1309 年称王，1313 年 2 月 7 日建立彬牙王国，自称蒲甘继承者，由太后蒲娑授予阿奴律陀传下的圣物；娶前朝王后弥苏乌、收养并立其子乌沙那为储；长子苏云于 1315 年出走实皆、自立一方；1325 年去世，彬牙与实皆就此分裂为敌国。以上均见于缅甸编年史（琉璃宫史》《大史》《新史》《历代帝王史》等），并经同时代碑"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$Lf",null,{"href":"/people/yazathingyan","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"隐者"}],"亚扎丁坚"]}]]}],["$","$Lf",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$Lf",null,{"href":"/people/kyawswa-i","children":[["$","span",null,{"children":[["$","em",null,{"children":"命运之轮"}],"觉苏瓦一世"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+a:["$","p","4",{"children":"可正是在这里，他做出了一生中最耐人寻味的抉择。"}]
+b:["$","p","5",{"children":"他的王后弥苏乌（Mi Saw U），是末代蒲甘王那罗梯诃波帝之女，也曾是被他处死的蒲甘王觉苏瓦的妃子。底哈都不仅娶了这位前朝王后，还收养了她与觉苏瓦所生之子乌沙那（Uzana），并立这个“仇王之子”为储君——只因乌沙那的血脉，父母双方皆出自蒲甘王室，比他自己的亲生骨肉更为“纯正”。为了蒲甘正统的名分，他甘愿把江山，许给那个他亲手终结的王朝的血脉。"}]
+c:["$","section","4",{"className":"life-stage","id":"stage-5","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"5"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["实皆的裂痕",null]}],[["$","p","0",{"className":"has-dropcap","children":"这个抉择，埋下了王国分裂的种子。"}],["$","p","1",{"children":"底哈都的长子苏云（Saw Yun），是他与平民出身的王妃耶达那崩（Yadanabon）所生。苏云自认王位本该是他的，却眼睁睁看着养子乌沙那被立为储君，自己只落得二等的身份。"}],["$","p","2",{"children":"1315 年 5 月，年仅十六岁的苏云不再等待。他带着一群追随者，离开彬牙，渡过伊洛瓦底江，前往西岸的实皆（Sagaing），并在那里筑起砖城、招兵买马，得到了一批林居僧人及其信众的支持。"}],["$","p","3",{"children":"起初，底哈都对幼子这场半遮半掩的叛乱不以为意。即便苏云的羽翼日渐丰满、砖城在 1316 年告竣，他的反应也始终三心二意——他先后派乌沙那与另一个儿子各率小队前去讨伐，皆告失败。这位一生厌恶纷争、连对自己兄长都不愿争锋的君主，最终选择放任长子自立。他默许了实皆的半独立，自己虽心知肚明——彬牙与实皆，终将在他死后反目成仇——却也无力回天。"}]]]}]]}]
+d:["$","section","5",{"className":"life-stage","id":"stage-6","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"6"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["一头白象之主",null]}],[["$","p","0",{"className":"has-dropcap","children":"晚年的底哈都，把心力转向了佛法。"}],["$","p","1",{"children":"据编年史记载，他在暮年虔心向佛，并将那些自阿奴律陀传下的圣物，奉入瑞喜宫塔（Shwezigon Pagoda）的舍利室。这个曾经埋葬过一位国王、逼退过一支帝国大军的人，最终在佛塔与香火间，寻求着另一种永恒。"}],["$","p","2",{"children":"1325 年 2 月前后，底哈都辞世，享年五十九岁。王位由养子乌沙那继承。"}],["$","p","3",{"children":"而他生前最深的隐忧，旋即应验。他尸骨未寒，敏赛家族便正式裂为两国：南方的彬牙，在乌沙那治下；北方的实皆，归长子苏云。在此后整整四十年里，这两个本是同根的王国，将在中缅甸彼此攻伐、争夺正统，直至双双被一个新崛起的王朝——阿瓦——所取代。"}],["$","p","4",{"children":"后世的缅甸史册，称底哈都为“达济信”（Tazishin），意即“一头白象之主”。"}],["$","p","5",{"children":"这是一个意味深长的称号。他一生征战，自封“白象之王”，攀附蒲甘的荣光，立志做万邦共主的继承人。可到头来，他真正稳稳握在手里的，不过是“一头”白象的虚名；他穷尽心力缔造的王国，连同他所执着的那个“正统”，都在他闭眼的瞬间，沿着他亲生儿子与养子之间的裂痕，碎成了两半。"}],["$","p","6",{"children":"掘墓人，终究也为自己掘了墓。他继承了蒲甘的名分，却也一并继承了蒲甘分崩离析的宿命。"}]]]}]]}]
+e:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lf","athinkhaya",{"href":"/people/athinkhaya","children":[["$","strong",null,{"children":"阿辛迦耶"}],["$","span",null,{"children":"敏象三兄弟 · 长兄"}]]}],["$","$Lf","yazathingyan",{"href":"/people/yazathingyan","children":[["$","strong",null,{"children":"亚扎丁坚"}],["$","span",null,{"children":"敏象三兄弟 · 沉默之轴"}]]}],["$","$Lf","sawyun",{"href":"/people/sawyun","children":[["$","strong",null,{"children":"苏云"}],["$","span",null,{"children":"他的儿子 · 实皆开创者"}]]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lf","athinkhaya",{"href":"/people/athinkhaya","children":[["$","strong",null,{"children":"阿辛迦耶"}],["$","span",null,{"children":"中缅甸敏象长兄与无冠奠基者"}]]}],["$","$Lf","yazathingyan",{"href":"/people/yazathingyan","children":[["$","strong",null,{"children":"亚扎丁坚"}],["$","span",null,{"children":"敏象三兄弟中的沉默支轴"}]]}],["$","$Lf","kyawswa-i",{"href":"/people/kyawswa-i","children":[["$","strong",null,{"children":"觉苏瓦一世"}],["$","span",null,{"children":"彬牙中兴之主"}]]}],["$","$Lf","sawyun",{"href":"/people/sawyun","children":[["$","strong",null,{"children":"苏云"}],["$","span",null,{"children":"实皆王国开创者"}]]}],["$","$Lf","thihapate",{"href":"/people/thihapate","children":[["$","strong",null,{"children":"底哈帕德"}],["$","span",null,{"children":"实皆王国末代君主"}]]}]]}]]}]]}]
+12:null

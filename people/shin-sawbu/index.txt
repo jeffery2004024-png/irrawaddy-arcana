@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+3:I[39756,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+c:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+e:I[68027,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/irrawaddy-arcana/_next/static/chunks/1lbml8-g762zg.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Noto+Serif+Myanmar:wght@400;500;700&family=Padauk:wght@400;700&display=swap","style"]
+0:{"P":null,"c":["","people","shin-sawbu",""],"q":"","i":false,"f":[[["",{"children":["people",{"children":[["id","shin-sawbu","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/irrawaddy-arcana/_next/static/chunks/1lbml8-g762zg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Noto+Serif+Myanmar:wght@400;500;700&family=Padauk:wght@400;700&display=swap"}]]}],["$","body",null,{"children":["$","div",null,{"className":"site-shell","children":[["$","header",null,{"className":"site-nav","children":[["$","$L2",null,{"className":"site-nav__brand","href":"/","children":[["$","span",null,{"className":"brand-row","children":[["$","svg",null,{"className":"stupa-mark","viewBox":"0 0 24 28","fill":"none","aria-hidden":"true","children":[["$","path",null,{"d":"M6 27 V23 H7.5 V20 H9 C9 13 10.5 14 12 6 C13.5 14 15 13 15 20 H16.5 V23 H18 V27 Z","fill":"currentColor"}],["$","path",null,{"d":"M10.6 7 L12 1 L13.4 7 Z","fill":"currentColor"}],["$","circle",null,{"cx":"12","cy":"0.5","r":"1","fill":"currentColor"}]]}],"伊洛瓦底的王冠"]}],["$","span",null,{"className":"brand-mm","children":"ဧရာဝတီ · မြန်မာ"}]]}],["$","nav",null,{"aria-label":"主导航","children":["$","$L2",null,{"href":"/","children":"人物 · 列传"}]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"notfound","children":[["$","p",null,{"className":"eyebrow","children":"Not Found"}],["$","h1",null,{"children":"这张牌暂时不在牌阵里"}],["$","p",null,{"children":"内容可能尚未加入，或路径已经改变。"}],["$","$L2",null,{"className":"text-link","href":"/","children":"回到人物长廊"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"frieze","aria-hidden":"true"}],["$","p",null,{"className":"site-footer__mm","children":"ပုဂ္ဂိုလ်များ · မြန်မာ"}],["$","p",null,{"className":"site-footer__title","children":"伊洛瓦底的王冠 · 缅甸历史人物列传"}],["$","p",null,{"className":"site-footer__note","children":"四十二位信史可考之人，循其经历分章铺展，按王朝先后排列。"}]]}]]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/irrawaddy-arcana/_next/static/chunks/1lbml8-g762zg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Wni7G7Y7tQdWI_49uASu3"}
+f:[]
+9:"$Wf"
+10:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+11:T2493,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：女皇 · 信修浮">
+<defs>
+  <linearGradient id="s_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE6B8"/><stop offset=".55" stop-color="#F2A988"/><stop offset="1" stop-color="#BC6470"/>
+  </linearGradient>
+  <radialGradient id="s_glow" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#FFF1C8" stop-opacity=".8"/><stop offset="1" stop-color="#FFF1C8" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="s_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#CF9437"/>
+  </linearGradient>
+  <radialGradient id="s_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="s_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="s_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  <g id="s_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+  <g id="s_hin">
+    <path d="M1 -2 Q-8 -4 -11 -11 Q-4 -10 2 -8 Z" fill="#E9C46A" stroke="#A8772B" stroke-width=".6"/>
+    <path d="M0 0 Q2 -10 16 -12 L32 -12 Q40 -12 42 -5 Q40 3 24 4 Q8 4 0 0 Z" fill="#E9C46A" stroke="#A8772B" stroke-width=".8"/>
+    <path d="M12 -8 Q24 -16 34 -11 Q27 -3 14 -3 Z" fill="#C98E2E"/>
+    <path d="M40 -8 Q47 -12 46 -22 Q45 -29 49 -32" stroke="#E9C46A" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <circle cx="50" cy="-33" r="4.5" fill="#E9C46A" stroke="#A8772B" stroke-width=".6"/>
+    <polygon points="54,-34 62,-32 54,-30" fill="#C97B1E"/>
+    <path d="M49 -38 q4 -4 8 -2" stroke="#E9C46A" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <circle cx="51" cy="-34" r="1" fill="#5E3A10"/>
+  </g>
+  <g id="s_lotus">
+    <ellipse cx="0" cy="5" rx="14" ry="4.5" fill="#2A5A50"/>
+    <g fill="#E8B6C0" stroke="#C2879A" stroke-width=".6">
+      <path d="M0 -15 Q5 -8 0 -1 Q-5 -8 0 -15 Z" transform="rotate(-40)"/>
+      <path d="M0 -15 Q5 -8 0 -1 Q-5 -8 0 -15 Z" transform="rotate(-20)"/>
+      <path d="M0 -15 Q5 -8 0 -1 Q-5 -8 0 -15 Z"/>
+      <path d="M0 -15 Q5 -8 0 -1 Q-5 -8 0 -15 Z" transform="rotate(20)"/>
+      <path d="M0 -15 Q5 -8 0 -1 Q-5 -8 0 -15 Z" transform="rotate(40)"/>
+    </g>
+    <circle cx="0" cy="-3" r="2" fill="#E9C46A"/>
+  </g>
+</defs>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+
+<g clip-path="url(#s_win)">
+  <rect x="58" y="100" width="304" height="470" fill="url(#s_sky)"/>
+  <circle cx="210" cy="310" r="155" fill="url(#s_glow)"/>
+  <g stroke="#FFD98C" stroke-width="2" opacity=".7" stroke-linecap="round" transform="translate(210,300)">
+    <line y1="-66" y2="-116" transform="rotate(-72)"/><line y1="-66" y2="-116" transform="rotate(-48)"/>
+    <line y1="-66" y2="-116" transform="rotate(-24)"/><line y1="-66" y2="-116"/>
+    <line y1="-66" y2="-116" transform="rotate(24)"/><line y1="-66" y2="-116" transform="rotate(48)"/>
+    <line y1="-66" y2="-116" transform="rotate(72)"/>
+  </g>
+
+  <!-- Shwedagon -->
+  <path d="M126 470 Q210 438 294 470 Z" fill="#8A4633"/>
+  <rect x="160" y="452" width="100" height="10" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+  <rect x="172" y="442" width="76" height="10" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+  <path d="M182 442 Q182 398 210 386 Q238 398 238 442 Z" fill="url(#s_gold)" stroke="#A06F24" stroke-width="1"/>
+  <polygon points="203,386 217,386 212.5,302 207.5,302" fill="url(#s_gold)" stroke="#A06F24" stroke-width=".9"/>
+  <g stroke="#A06F24" stroke-width="1.1">
+    <line x1="204.4" y1="368" x2="215.6" y2="368"/><line x1="205.4" y1="352" x2="214.6" y2="352"/>
+    <line x1="206.4" y1="336" x2="213.6" y2="336"/><line x1="207.4" y1="320" x2="212.6" y2="320"/>
+  </g>
+  <ellipse cx="210" cy="297" rx="5" ry="7" fill="#E9C46A" stroke="#A06F24" stroke-width=".8"/>
+  <path d="M204 289 H216 L210 281 Z" fill="#E9C46A"/>
+  <line x1="210" y1="281" x2="210" y2="266" stroke="#E9C46A" stroke-width="1.6"/>
+  <path d="M210 273 L220 270 L210 267 Z" fill="#8E2F23"/>
+  <use href="#s_star" x="210" y="261" fill="#FFF6DC"/>
+
+  <!-- Hintha birds -->
+  <use href="#s_hin" transform="translate(92,212)"/>
+  <use href="#s_hin" transform="translate(328,212) scale(-1,1)"/>
+
+  <!-- Ground & pond -->
+  <rect x="58" y="468" width="304" height="102" fill="#6E3A2E"/>
+  <line x1="58" y1="468" x2="362" y2="468" stroke="#E0A468" stroke-opacity=".5" stroke-width="1"/>
+  <ellipse cx="210" cy="556" rx="122" ry="22" fill="#1F4D44" stroke="#143832" stroke-width="1.5"/>
+  <path d="M168 552 q14 4 26 1" stroke="#F3C97E" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M236 560 q12 3 22 0" stroke="#F3C97E" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <use href="#s_lotus" transform="translate(126,548) scale(.9)"/>
+  <use href="#s_lotus" transform="translate(294,548) scale(.9)"/>
+
+  <!-- Queen Shin Sawbu -->
+  <g>
+    <path d="M170 544 L179 462 Q200 452 221 462 L230 544 Z" fill="#F6E8C9" stroke="#C8A366" stroke-width="1.4"/>
+    <path d="M174 530 H226" stroke="#C8A366" stroke-width="1.3"/>
+    <path d="M176 516 H224" stroke="#C8A366" stroke-width="1.3"/>
+    <path d="M179 466 Q200 454 221 466 L216 486 Q200 476 184 486 Z" fill="#2F6E58" stroke="#1D4A3A" stroke-width="1"/>
+    <path d="M181 482 Q200 472 219 482" stroke="#E9C46A" stroke-width="1.4" fill="none"/>
+    <path d="M218 472 L242 470" stroke="#F6E8C9" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="244" cy="470" r="6" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <path d="M240 462 q14 -5 26 1 q-3 11 -20 11 q-9 -5 -6 -12 z" fill="url(#s_gold)" stroke="#A06F24" stroke-width="1"/>
+    <path d="M262 458 Q304 372 238 318" stroke="#FFD98C" stroke-width="3.4" stroke-linecap="round" stroke-dasharray="0.1 9" fill="none" opacity=".95"/>
+    <use href="#s_star" x="252" y="330" fill="#FFF6DC"/>
+    <use href="#s_star" x="278" y="396" fill="#FFE9B0" opacity=".9"/>
+    <path d="M182 474 L166 486" stroke="#F6E8C9" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="164" cy="488" r="6" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <line x1="163" y1="488" x2="157" y2="520" stroke="#2F6E58" stroke-width="2.4"/>
+    <use href="#s_lotus" transform="translate(162,478) scale(.66)"/>
+    <path d="M190 462 Q200 470 210 462" stroke="#E9C46A" stroke-width="2" fill="none"/>
+    <rect x="194" y="442" width="12" height="8" fill="#E9BA8E"/>
+    <circle cx="200" cy="431" r="13.5" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <path d="M187 425 Q187 413 200 412 Q213 413 213 425 Q200 419 187 425 Z" fill="#D9D3C8"/>
+    <circle cx="200" cy="408" r="5.5" fill="#D9D3C8"/>
+    <rect x="188" y="422" width="24" height="4" rx="2" fill="#E9C46A" stroke="#A8772B" stroke-width=".7"/>
+    <circle cx="196" cy="406" r="1.3" fill="#FFF6DC"/><circle cx="200" cy="403" r="1.3" fill="#FFF6DC"/><circle cx="204" cy="406" r="1.3" fill="#FFF6DC"/>
+    <path d="M192 431 Q196 434 200 431" stroke="#3A2212" stroke-width="1.5" fill="none"/>
+    <path d="M201 431 Q205 434 209 431" stroke="#3A2212" stroke-width="1.5" fill="none"/>
+    <path d="M196 440 q4 3 8 0" stroke="#8A4A33" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <circle cx="187" cy="434" r="1.5" fill="#E9C46A"/><circle cx="213" cy="434" r="1.5" fill="#E9C46A"/>
+  </g>
+</g>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#s_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#s_kan" transform="translate(34,34)"/>
+<use href="#s_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#s_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#s_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#s_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#s_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">III</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7">女皇</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#s_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5">信修浮</text>
+  <text x="210" y="649" font-size="11" letter-spacing="2" fill="#F3E5C3" opacity=".9" dx="-1">SHIN SAWBU · 汉达瓦底王国 · 1394–1471</text>
+  <text x="210" y="677" font-size="13" letter-spacing="2" fill="#D8B56A" dx="-1">「她以等身的黄金，称量慈悲」</text>
+</g>
+</svg>
+5:[["$","$L10",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"]}],"$L13","$L14","$L15"]}]]
+12:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1394 – 1471"}],["$","h1",null,{"children":"信修浮"}],["$","p",null,{"className":"person-hero__role","children":["汉达瓦底王国女王",["$","span",null,{"className":"person-hero__alt","children":[" · ","Shin Sawbu / 宾耶涛 / Viharadevi"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"她以等身的黄金称量慈悲——可那顶王冠，从来不是她想要的东西。"}],["$","p",null,{"className":"person-hero__summary","children":"名为“寺院女王”，一生被当作筹码递出，垂暮之年被推上王座，又主动放下，归于大金塔的金光。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","汉达瓦底",{"children":"汉达瓦底"}],["$","span","女王",{"children":"女王"}],["$","span","大金塔",{"children":"大金塔"}],["$","span","功德",{"children":"功德"}]]}]]}]
+13:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["寺院女王的谶名",null]}],[["$","p","0",{"className":"has-dropcap","children":"一三九四年二月，勃固的王宫里诞下一位公主。她的父亲，是孟族历史上最负盛名的君王罗娑陀利（Razadarit）——一位与北方阿瓦缠斗半生、几乎以一己之力撑起整个下缅甸的雄主；她的母亲，则是地位较低的王妃苏达摩耶。在国王众多的子女里，她是唯一的女儿。"}],["$","p","1",{"className":"$undefined","children":"父亲为她取了一个意味深长的名字：毗诃罗提毗（Viharadevi），意为“寺院的女王”。这名字像一句不经意间道出的谶语——它指向的，本是青灯古佛、晨钟暮鼓的清修之路，而非朱漆描金、刀光剑影的王座。给一位公主取这样一个名字，仿佛冥冥之中，命运已经替她写好了一生的归宿：她终将走向佛法，走向寺院，走向某种远离尘世权柄的宁静。"}],["$","p","2",{"className":"$undefined","children":"然而命运书写谶语的方式，往往迂回而残酷。它不会让这个女孩径直走入寺院的安宁；它要先把她抛入丧夫、为质、亡国的惊涛骇浪，让她在尝尽人间最深的失去与最重的责任之后，才肯把那座她名字里早已许诺的“寺院”还给她。"}],["$","p","3",{"className":"$undefined","children":"更何况，她降生的年代本就是一个英雄迟暮、风雨将至的时代。父亲罗娑陀利与北方阿瓦的旷世大战，耗尽了汉达瓦底最后的元气；表面的繁华之下，王朝的根基已在悄悄松动，下一代的子孙们将再无父辈的雄才，只剩对那张王座赤裸裸的争夺。她恰恰生在这盛极而衰的转折点上——一个注定要目睹自己家族由盛转衰、由衰至亡的女儿。她名字里的“寺院”，仿佛正是命运预留给她的一处避难所：当王朝的大厦终将倾塌，唯有佛法的金光，能接住这个从废墟里走出来的、最后的幸存者。一个名叫“寺院女王”的婴儿就这样降生在勃固的王宫里，而她要用整整七十七年的颠沛，去抵达自己名字的本意。"}],["$","p","4",{"className":"$undefined","children":"她的童年，恰逢汉达瓦底王国的黄金岁月。父亲罗娑陀利经年累月地与阿瓦交战，终于守住了下缅甸孟人的江山；在他的治下，勃固成为伊洛瓦底江三角洲上最繁盛的都会——商船云集，稻米满仓，金塔林立，虔诚的佛教信仰浸润着这片湿润富庶的土地。"}],["$","p","5",{"className":"$undefined","children":"身为名王唯一的女儿，她在锦绣与梵呗中长大。孟人是中南半岛上古老而文雅的民族，是上座部佛教与高等文明在这一带最早的传薪者；她自幼耳濡目染的，便是这样一种把信仰、典籍与慈悲看得高于一切的传统。或许正是这份浸入骨髓的虔诚，让“寺院女王”这个名字在她心里悄悄生了根——比起王宫的权势，她对佛塔的金光、对僧侣的诵经，怀着一种更深、更本能的亲近。"}],["$","p","6",{"className":"$undefined","children":"但作为王室之女，她的命运从来不由自己。在那个时代，公主是王朝最珍贵也最身不由己的棋子：她们的婚姻是盟约，她们的身体是疆界，她们的去留系于父兄的权谋。童年的安稳越是温柔，日后的代价便越是沉重。她还不知道，自己这一生将被一次次当作筹码递出去——而她真正想要的那座宁静的“寺院”，要等到所有筹码都用尽之后，才会姗姗来迟。"}],["$","p","7",{"className":"$undefined","children":"更深一层看，她的出身本身就埋着矛盾的伏笔。父亲罗娑陀利是一代雄主，靠铁血与谋略守住了孟人的江山；可这位强悍君王的血脉里，却生出了一个天性向佛、对权柄毫无野心的女儿。父亲留给她的，是一个强盛却终将内耗自噬的王朝；而她身上那个“寺院女王”的名字，却暗示着她注定不属于这套刀光剑影的逻辑。一个生在权力顶端、却本性厌弃权力的灵魂，将如何被卷入、又如何超脱于家族的兴衰——这道命题，在她还是个孩子时，就已悄然埋下。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["第一次失去",["$","span",null,{"className":"life-stage__sub","children":"婚姻、寡居与被押往阿瓦"}]]}],[["$","p","0",{"className":"has-dropcap","children":"二十岁那年，她出嫁了。夫君是父亲的侄儿宾耶卑（Binnya Bwe）——一桩亲上加亲、用以巩固王室内部的联姻。婚后，她生下一个儿子宾耶华鲁（Binnya Waru），以及两个女儿。在那短暂的几年里，她或许尝到过寻常女子的幸福：为人妻，为人母，守着自己的小小家庭。"}],["$","p","1",{"className":"$undefined","children":"然而命运的第一记重击，来得又早又狠。她二十五岁时，夫君便撒手人寰。风华正茂的她，骤然成了一个带着三个年幼孩子的寡妇。"}],["$","p","2",{"className":"$undefined","children":"这是命运给她上的第一堂课——关于“失去”。在此之前，她是名王膝下娇养的公主；而从这一刻起，她要学着独自面对人生的无常与残缺。丧夫的痛尚未平复，更大的风暴已在地平线上集结：她不会想到，这场早来的孀居，仅仅是她漫长一生里无数次失去的序曲。"}],["$","p","3",{"className":"$undefined","children":"而这第一次失去，也悄然定下了她余生的基调。它让她过早地尝到了“无常”二字的真实重量——那不是经卷上抽象的教义，而是切肤的、夺走至亲的痛。后来她将一次次失去：失去自由，失去儿子，失去整个家族；可恰恰是这最初的丧夫之痛，像一道淬火，让她比同龄的任何公主都更早地学会了承受。一个本性向佛的女子，命运偏要用接连不断的失去，来反复印证她名字里那句关于“放下”的禅意。一个本该在父兄庇护下安度年华的公主，就要被推入王朝倾轧的漩涡中心，而她手里能握住的，唯有自己日渐坚韧的心，和那个名字里始终未曾熄灭的、对佛法的微光般的向往。"}],["$","p","4",{"className":"$undefined","children":"一四二一年，父亲罗娑陀利驾崩，汉达瓦底的天平开始剧烈摇晃。长兄继承了王位，两位弟弟却不甘屈居人下，相继举兵。其中一位为壮声势，竟引来了世仇——北方阿瓦的国王底诃都（Thihathu）的大军南下干预。"}],["$","p","5",{"className":"$undefined","children":"为平息这场几乎要撕裂王国的内乱，她的兄长选择了和亲：把她作为缔结和约的筹码，献给阿瓦的底诃都；阿瓦则回赠一位公主作为交换。那是一四二三年的十二月。彼时她已二十九岁，是个带着三个孩子的寡妇，却被当作一件珍贵的礼物，远远送往那片陌生而充满敌意的北方土地。名义上，她是阿瓦国王的王后；实际上，她不过是两国之间一枚活的抵押品，是和平祭坛上的供物。"}],["$","p","6",{"className":"$undefined","children":"底诃都待她确实不薄。可命运再一次伸手：一四二五年，底诃都死于北征途中。失去了庇护的她，并未因此获释，反倒像一件无主的传家宝，在相继即位的阿瓦君主之间被一再转手——她的身体，成了北方王廷彰显权势的器物。整整数年，她被困在阿瓦，远离故土，远离子女，咽下身为筹码的全部屈辱。"}],"$L16"]]}]]}],"$L17","$L18","$L19"]}]}],"$L1a"]}]
+14:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","生平与汉达瓦底黄金时代的位置依缅甸与孟族编年传统及二级研究写成。",{"children":"生平与汉达瓦底黄金时代的位置依缅甸与孟族编年传统及二级研究写成。"}],["$","li","如以钵选王、英国维多利亚女王为其转世等说法，属流传已久的传说，已与信史区分。",{"children":"如以钵选王、英国维多利亚女王为其转世等说法，属流传已久的传说，已与信史区分。"}]]}]]}]
+15:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$L2",null,{"href":"/people/razadarit","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"战车"}],"罗娑陀利"]}]]}],["$","$L2",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$L2",null,{"href":"/people/dhammazedi","children":[["$","span",null,{"children":[["$","em",null,{"children":"教皇"}],"达摩悉提"]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+16:["$","p","7",{"className":"$undefined","children":"那是怎样漫长的幽闭啊。她从一个王国的公主，沦为另一个王国的玩物；她在异族的宫廷里听着陌生的语言，守着回不去的南方，眼睁睁看着自己的青春与尊严，被一桩桩政治交易反复碾过。换作旁人，或许早已在这无尽的羞辱里枯萎、认命。可她身上那点“寺院女王”的底色，反倒在绝境中显出韧性——她没有怨毒地沉沦，而是把心安放在佛法里，默默积蓄着重新做回自己的力量。也正是在这段幽闭的岁月里，命运悄悄递来了救赎的伏笔。她结识并供养了两位寄居于实皆附近寺院的孟族僧人——达摩纳那（Dhammanyana）与毕多迦罗（Pitakahara）。在异乡的孤寂里，是同族的佛法与这两位师父的陪伴，支撑着她不致崩溃；而这两个人，日后将分别成为她重获自由的钥匙，和她亲手选定的王位继承者。一四二九年，三十五岁的她，终于在这两位师父的接应与策划下，逃离了囚笼般的阿瓦，沿江南返勃固。半生已尽，颠沛半世，她换回的，只是一个“自由”。"}]
+17:["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["归来勃固",["$","span",null,{"className":"life-stage__sub","children":"失去把她推向王座"}]]}],[["$","p","0",{"className":"has-dropcap","children":"回到勃固的她，本以为余生可以归于平静。然而等待这个王朝的，是一段缓慢而血腥的黄昏。"}],["$","p","1",{"className":"$undefined","children":"进入一四五〇年代，汉达瓦底的王室几乎走到了绝嗣的边缘。她的儿子宾耶华鲁曾短暂地登上王位，旋即被一位堂亲弑杀；那弑君者夺位之后，为铲除一切潜在的对手，几乎将所有男性宗亲屠戮殆尽——而后，他自己也在另一场宫变中被杀。一场接一场的相残，像割草一样，把这个曾经煊赫的王族里所有的男性继承人，一茬茬地清空了。"}],["$","p","2",{"className":"$undefined","children":"她站在这片血色的废墟里，目睹着父亲罗娑陀利一手缔造的辉煌，被自家骨肉的刀剑一点点啃噬干净。她失去过丈夫，被夺去过自由，如今又眼看着儿子横死、宗族凋零。命运似乎执意要剥光她所拥有的一切——夫、子、家、国，一样接一样地从她生命里被抽走。"}],["$","p","3",{"className":"$undefined","children":"这是一种近乎残忍的“清空”。父亲那一代人靠杀伐立国，子侄这一代人便靠杀伐自毁——强权的逻辑反噬其身，把一个王朝活活拖入了自相残杀的深渊。而她，那个本性厌弃权力、只想亲近佛法的女儿，却被迫一遍遍地见证、承受这场以血洗血的崩塌。她像一株被反复折损的老树，眼看着身边的枝干一根根折断、凋零，自己却因那份不争不抢的韧性，奇异地存活了下来。"}],["$","p","4",{"className":"$undefined","children":"可正是在这无尽的失去之中，一个谁也不曾预料的转机，正悄然成形。当王室所有的男性都倒下了，当那张本该由男人坐的王座再无人可坐，所有人的目光，终于不得不转向这位历尽沧桑、却始终屹立不倒的老公主。命运用最残忍的方式清空了她身边的一切，仿佛只为把她一个人，推到那个她从未觊觎、却再无旁人可坐的位置上。"}]]]}]]}]
+18:["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["不想要的王冠",["$","span",null,{"className":"life-stage__sub","children":"以太平守住孟地"}]]}],[["$","p","0",{"className":"has-dropcap","children":"一四五四年，当汉达瓦底的男性继承人尽数凋零，年逾六旬的信修浮，被推上了王座。她由此成为缅甸历史上极其罕见的、以自己名义临朝称制的女王——在整个中南半岛漫长的历史中，能享此地位的女性屈指可数。人们敬畏地称她为“宾耶涛”（Binnya Thau），意为“老女王”。"}],["$","p","1",{"className":"$undefined","children":"这是命运开的一个意味深长的玩笑：一个名叫“寺院女王”、一生从未追逐过权柄的女子，偏偏在垂暮之年，被推上了真正的王座。她做了半辈子身不由己的筹码——女儿、王后、人质，被父兄、被外邦反复递来递去；如今，那只一直摆布她的命运之手，却忽然把至高的权力，原原本本地交到了她自己手中。被动了一生的人，终于成了那个发号施令的人。"}],["$","p","2",{"className":"$undefined","children":"她在位约七年，不兴一兵一卒，国泰民安。饱经离乱的她比谁都懂得太平的可贵，于是把这份得来不易的安宁，小心翼翼地铺满了整个勃固。一四五七年，恰逢佛陀涅槃两千周年——对这位虔诚的女王而言，这无疑是莫大的吉兆与召唤。终于，在一四六〇年，她做出了那个仿佛她名字早已写定的决定：主动退位，迁往大光（Dagon），只为在那座光芒万丈的大金塔旁，度过余生的清修岁月。绕了整整一生，那个“寺院女王”，终于要回到属于她名字的地方去了。"}],["$","p","3",{"className":"$undefined","children":"这退位之举，本身便是一种罕见的清醒。古往今来，多少人为那张王座争得头破血流、至死不肯松手；而她，一个被命运强行推上王座的女人，却在国泰民安之时主动放手，把权力交还，转身走向佛塔。她比谁都清楚：权柄从来不是她的归宿，那不过是命运借她之手暂时安放的东西。能拿起，更能放下——这份举重若轻，恰是她一生在无数次“被夺走”中淬炼出的、对得失最通透的领悟。她做女王，是为了在乱世中守住一份太平；而一旦太平有了着落，她便毫不留恋地，去赴那场与佛法迟到了一生的约。"}]]]}]]}]
+19:["$","section","4",{"className":"life-stage","id":"stage-5","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"5"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["钵中天命",["$","span",null,{"className":"life-stage__sub","children":"退位、大金塔与等身黄金"}]]}],[["$","p","0",{"className":"has-dropcap","children":"退位之前，她要为这个王国选定一位贤明的继承者。而她选王的方式，本身就是一则流传千古的寓言。"}],["$","p","1",{"className":"$undefined","children":"一日清晨，当年陪伴她逃离阿瓦的两位僧人前来受供。她暗中在其中一人的钵里，藏下了一件俗家的男子筒裙，以及五件王权信物的微缩模型；然后默默祈祷，愿这天命落于更有德行的那一位，再将两只钵原样奉还。命运的钵，落到了毕多迦罗手中。于是他还俗，受封“达摩悉提”（Dhammazedi）之名，娶了她的小女儿为妻，继承大统。而另一位僧人因落选而心生怨望，终因图谋不轨被诛于大光以北。"}],["$","p","2",{"className":"$undefined","children":"当朝中权贵窃议达摩悉提出身寒微、不配为王时，这位老女王命人取来一根寻常的木梁，将它雕成一尊佛像，然后指着佛像对群臣说道：“你们说他出身微贱，不堪为王。可你们看这根木头——昨日它还被踩在你们脚下的尘土里，今日它却成了佛，你们岂不也都要俯首叩拜？”一席话，道尽了她超越门第的智慧。事实证明她没有看错：达摩悉提后来成了汉达瓦底历史上最贤明、最受爱戴的君主之一。"}],["$","p","3",{"className":"$undefined","children":"在大光的岁月里，她把全部的虔诚与心血，都倾注给了那座大金塔。她将自己等身的黄金——足足二十五维斯，约合四十公斤——尽数打成金箔，一片片贴上塔身；她加高塔身至四十米，平整山台、铺以石板，绕塔筑起七重围墙，墙与墙之间遍植棕榈与椰树；她供奉之物总爱取“四”之数：四柄白伞、四只金钵、每日四份供养。她用自己的身体作秤砣，称量出一份等身的慈悲，奉献给了她毕生所信仰的佛。"}],["$","p","4",{"className":"$undefined","children":"这是一个极富深意的举动：她以自己肉身的重量，去衡量、去兑换对信仰的虔诚。半生里，她的身体一次次被他人当作筹码、当作交易的砝码——被父兄递出，被外邦转手，从不曾真正属于她自己；而如今，她终于第一次，亲手决定了自己这具身体的“分量”该去往何处——不是献给哪一桩政治联姻，而是化作等身的金箔，永远披在大金塔的肩上。那些曾被强加于她的“被衡量”，到头来由她自己改写成了“主动的奉献”。大金塔上那层至今犹存的金光里，便凝着这位老女王用一生的失去换来的、最终的自由与圆满。"}],["$","p","5",{"className":"$undefined","children":"一四七一年，这位老女王在大光的居所安然辞世，享年七十七岁。传说即便在退位归隐之后，她头上始终戴着那顶王冠——仿佛在提醒世人，纵使她最深的渴望是青灯古佛，她也曾是一个真正君临天下的女王。她被安葬于山乔（Sanchaung）。她的一生，从“寺院女王”这个名字出发，途经丧夫、为质、亡族、登基的重重劫难，最终又回到了寺院与佛塔的金光之中——命运兜了整整一个世纪的圈子，却分毫不差地，把她送回了她名字最初指向的地方。数百年后的十九世纪末，一些缅甸的孟人甚至深信，远在重洋之外的英国维多利亚女王，便是这位“老女王”信修浮的转世——她的传奇，竟以这样的方式，跨越生死与海洋，被人们温柔地延续了下去。"}]]]}]]}]
+1a:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L2","razadarit",{"href":"/people/razadarit","children":[["$","strong",null,{"children":"罗娑陀利"}],["$","span",null,{"children":"她的父亲 · 王中之王"}]]}],["$","$L2","dhammazedi",{"href":"/people/dhammazedi","children":[["$","strong",null,{"children":"达摩悉提"}],["$","span",null,{"children":"钵中之签 · 她亲手选定的贤君"}]]}],["$","$L2","u-thant",{"href":"/people/u-thant","children":[["$","strong",null,{"children":"吴丹"}],["$","span",null,{"children":"大金塔下 · 跨五百年的金光"}]]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L2","wareru",{"href":"/people/wareru","children":[["$","strong",null,{"children":"伐丽流"}],["$","span",null,{"children":"汉达瓦底开国君主"}]]}],["$","$L2","razadarit",{"href":"/people/razadarit","children":[["$","strong",null,{"children":"罗娑陀利"}],["$","span",null,{"children":"汉达瓦底君主（王中之王）"}]]}],["$","$L2","dhammazedi",{"href":"/people/dhammazedi","children":[["$","strong",null,{"children":"达摩悉提"}],["$","span",null,{"children":"汉达瓦底君主"}]]}]]}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+d:[["$","title","0",{"children":"信修浮 · 女皇 | 伊洛瓦底的王冠"}],["$","meta","1",{"name":"description","content":"名为“寺院女王”，一生被当作筹码递出，垂暮之年被推上王座，又主动放下，归于大金塔的金光。"}]]

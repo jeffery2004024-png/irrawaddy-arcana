@@ -1,0 +1,170 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+f:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+10:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+3:T286d,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：世界 · 莽应龙">
+<defs>
+  <radialGradient id="w_bg" cx=".5" cy=".42" r=".75">
+    <stop offset="0" stop-color="#5D1413"/><stop offset="1" stop-color="#240605"/>
+  </radialGradient>
+  <linearGradient id="w_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#F1CD7C"/><stop offset="1" stop-color="#9A6A22"/>
+  </linearGradient>
+  <radialGradient id="w_orb" cx=".4" cy=".35" r=".8">
+    <stop offset="0" stop-color="#FFE19A"/><stop offset="1" stop-color="#B87F1E"/>
+  </radialGradient>
+  <radialGradient id="w_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="w_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <clipPath id="w_ring"><circle cx="210" cy="350" r="126"/></clipPath>
+  <path id="w_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  <g id="w_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+
+<g clip-path="url(#w_win)">
+  <rect x="58" y="100" width="304" height="470" fill="url(#w_bg)"/>
+  <g fill="#F1CD7C" opacity=".12" transform="translate(210,350)">
+    <polygon points="-6,-150 6,-150 0,-262"/>
+    <polygon points="-6,-150 6,-150 0,-262" transform="rotate(36)"/>
+    <polygon points="-6,-150 6,-150 0,-262" transform="rotate(72)"/>
+    <polygon points="-6,-150 6,-150 0,-262" transform="rotate(108)"/>
+    <polygon points="-6,-150 6,-150 0,-262" transform="rotate(144)"/>
+    <polygon points="-6,-150 6,-150 0,-262" transform="rotate(180)"/>
+    <polygon points="-6,-150 6,-150 0,-262" transform="rotate(216)"/>
+    <polygon points="-6,-150 6,-150 0,-262" transform="rotate(252)"/>
+    <polygon points="-6,-150 6,-150 0,-262" transform="rotate(288)"/>
+    <polygon points="-6,-150 6,-150 0,-262" transform="rotate(324)"/>
+  </g>
+  <g fill="#E9C46A" opacity=".55">
+    <use href="#w_star" x="104" y="208"/><use href="#w_star" x="322" y="232"/>
+    <use href="#w_star" x="136" y="540"/><use href="#w_star" x="296" y="548"/>
+  </g>
+
+  <!-- Ten-direction ring -->
+  <circle cx="210" cy="350" r="140" fill="none" stroke="url(#w_gold)" stroke-width="8"/>
+  <circle cx="210" cy="350" r="126" fill="none" stroke="#CAA14E" stroke-width="1.4" opacity=".8"/>
+  <g fill="#E9C46A">
+    <path d="M210 196 L217 216 L210 210 L203 216 Z"/>
+    <path d="M210 196 L217 216 L210 210 L203 216 Z" transform="rotate(36 210 350)"/>
+    <path d="M210 196 L217 216 L210 210 L203 216 Z" transform="rotate(72 210 350)"/>
+    <path d="M210 196 L217 216 L210 210 L203 216 Z" transform="rotate(108 210 350)"/>
+    <path d="M210 196 L217 216 L210 210 L203 216 Z" transform="rotate(144 210 350)"/>
+    <path d="M210 196 L217 216 L210 210 L203 216 Z" transform="rotate(180 210 350)"/>
+    <path d="M210 196 L217 216 L210 210 L203 216 Z" transform="rotate(216 210 350)"/>
+    <path d="M210 196 L217 216 L210 210 L203 216 Z" transform="rotate(252 210 350)"/>
+    <path d="M210 196 L217 216 L210 210 L203 216 Z" transform="rotate(288 210 350)"/>
+    <path d="M210 196 L217 216 L210 210 L203 216 Z" transform="rotate(324 210 350)"/>
+  </g>
+
+  <!-- Inside the ring -->
+  <g clip-path="url(#w_ring)">
+    <ellipse cx="210" cy="440" rx="120" ry="28" fill="#3A0D0B"/>
+    <line x1="118" y1="392" x2="118" y2="448" stroke="#6B4A22" stroke-width="2.5"/>
+    <path d="M118 394 L150 402 L118 412 Z" fill="#8E2F23" stroke="#C98E2E" stroke-width=".8"/>
+    <line x1="302" y1="392" x2="302" y2="448" stroke="#6B4A22" stroke-width="2.5"/>
+    <path d="M302 394 L270 402 L302 412 Z" fill="#8E2F23" stroke="#C98E2E" stroke-width=".8"/>
+    <g fill="#57201A">
+      <rect x="118" y="412" width="40" height="24" rx="10"/>
+      <circle cx="162" cy="418" r="11"/>
+      <path d="M170 422 q7 8 3 18" stroke="#57201A" stroke-width="5" stroke-linecap="round" fill="none"/>
+      <rect x="124" y="434" width="7" height="16"/><rect x="146" y="434" width="7" height="16"/>
+    </g>
+    <rect x="268" y="442" width="30" height="6" fill="#C98E2E"/>
+    <rect x="273" y="435" width="20" height="7" fill="#C98E2E"/>
+    <polygon points="277,435 287,435 283,408" fill="#C98E2E"/>
+    <use href="#w_star" x="283" y="404" fill="#F1CD7C"/>
+
+    <!-- Bayinnaung -->
+    <path d="M186 392 Q146 420 156 462 L176 452 Q170 420 192 398 Z" fill="#4A0E0C"/>
+    <path d="M234 392 Q274 420 264 462 L244 452 Q250 420 228 398 Z" fill="#4A0E0C"/>
+    <path d="M184 452 L191 380 Q210 371 229 380 L236 452 Z" fill="#8C1F1C" stroke="#4A0E0C" stroke-width="1.5"/>
+    <path d="M190 402 Q210 396 230 402" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 418 Q210 412 230 418" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 434 Q210 428 230 434" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <rect x="188" y="440" width="44" height="8" fill="#B07F2E" stroke="#E9C46A" stroke-width="1"/>
+    <path d="M188 384 Q196 376 206 376" stroke="#E9C46A" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <path d="M214 376 Q224 376 232 384" stroke="#E9C46A" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <path d="M226 388 Q248 366 254 334" stroke="#8C1F1C" stroke-width="13" stroke-linecap="round" fill="none"/>
+    <circle cx="255" cy="328" r="7" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="243" y="316" width="24" height="6" rx="2" fill="#E9C46A" stroke="#A8772B" stroke-width="1"/>
+    <polygon points="252,316 258,316 256.5,238 253.5,238" fill="#ECE6D4" stroke="#B9A878" stroke-width="1"/>
+    <line x1="255" y1="312" x2="255" y2="242" stroke="#CDBE9C" stroke-width=".8"/>
+    <use href="#w_star" x="255" y="232" fill="#FFE9B0"/>
+    <path d="M192 392 Q182 414 184 434" stroke="#8C1F1C" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <circle cx="184" cy="438" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <circle cx="184" cy="453" r="10" fill="url(#w_orb)" stroke="#8A5C14" stroke-width="1"/>
+    <ellipse cx="184" cy="453" rx="10" ry="3.5" fill="none" stroke="#8A5C14" stroke-width="1"/>
+    <line x1="184" y1="443" x2="184" y2="436" stroke="#A8772B" stroke-width="1.5"/>
+    <path d="M181 436 H187 L184 432 Z" fill="#E9C46A"/>
+    <circle cx="210" cy="352" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <path d="M201 347 l8 -2 M219 345 l8 2" stroke="#3A2212" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="205" cy="353" r="1.5" fill="#3A2212"/><circle cx="215" cy="353" r="1.5" fill="#3A2212"/>
+    <line x1="206" y1="361" x2="214" y2="361" stroke="#6E4226" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="195" y="334" width="30" height="8" rx="2" fill="#E9C46A" stroke="#A8772B" stroke-width="1"/>
+    <polygon points="201,334 219,334 212,294 208,294" fill="url(#w_gold)" stroke="#A8772B" stroke-width="1"/>
+    <line x1="203" y1="322" x2="217" y2="322" stroke="#A8772B" stroke-width="1"/>
+    <line x1="205" y1="310" x2="215" y2="310" stroke="#A8772B" stroke-width="1"/>
+    <use href="#w_star" x="210" y="290" fill="#FFE9B0"/>
+    <path d="M196 342 Q192 350 196 356 L201 354 L200 344 Z" fill="#E9C46A" stroke="#A8772B" stroke-width=".7"/>
+    <path d="M224 342 Q228 350 224 356 L219 354 L220 344 Z" fill="#E9C46A" stroke="#A8772B" stroke-width=".7"/>
+  </g>
+
+  <!-- Realm emblems -->
+  <g>
+    <circle cx="88" cy="144" r="15" fill="#2E0A09" stroke="#C98E2E" stroke-width="1.2"/>
+    <polygon points="82,150 94,150 88,136" fill="#C98E2E"/><circle cx="88" cy="133" r="1.5" fill="#C98E2E"/>
+    <circle cx="332" cy="144" r="15" fill="#2E0A09" stroke="#C98E2E" stroke-width="1.2"/>
+    <path d="M327 150 L329 134 Q332 128 335 134 L337 150 Z" fill="#C98E2E"/>
+    <line x1="329" y1="144" x2="335" y2="144" stroke="#2E0A09" stroke-width="1"/>
+    <line x1="330" y1="139" x2="334" y2="139" stroke="#2E0A09" stroke-width="1"/>
+    <circle cx="88" cy="520" r="15" fill="#2E0A09" stroke="#C98E2E" stroke-width="1.2"/>
+    <path d="M79 526 L85 513 L89 520 L94 510 L99 526 Z" fill="#C98E2E"/>
+    <circle cx="332" cy="520" r="15" fill="#2E0A09" stroke="#C98E2E" stroke-width="1.2"/>
+    <path d="M323 518 q4 -5 9 0 q4 5 9 0" stroke="#C98E2E" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M323 525 q4 -5 9 0 q4 5 9 0" stroke="#C98E2E" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+</g>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#w_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#w_kan" transform="translate(34,34)"/>
+<use href="#w_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#w_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#w_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#w_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#w_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">XXI</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7">世界</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#w_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5">莽应龙</text>
+  <text x="210" y="649" font-size="11" letter-spacing="2" fill="#F3E5C3" opacity=".9" dx="-1">BAYINNAUNG · 东吁王朝 · 1516–1581</text>
+  <text x="210" y="677" font-size="13" letter-spacing="2" fill="#D8B56A" dx="-1">「桥已焚尽，身后再无退路」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1516 – 1581"}],["$","h1",null,{"children":"莽应龙"}],["$","p",null,{"className":"person-hero__role","children":["东吁王朝君王",["$","span",null,{"className":"person-hero__alt","children":[" · ","Bayinnaung / 叶杜 / Ye Htut"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"他从一无所有里，把整个帝国夺了回来——而那帝国，注定与他一同呼吸，一同止息。"}],["$","p",null,{"className":"person-hero__summary","children":"出身存疑的“采汁工之子”，两次从废墟中重建东南亚最辽阔的帝国——一座只与他同呼吸的帝国。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","东吁王朝",{"children":"东吁王朝"}],["$","span","征服者",{"children":"征服者"}],["$","span","掸邦整合",{"children":"掸邦整合"}],["$","span","大城",{"children":"大城"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["东吁暗流",["$","span",null,{"className":"life-stage__sub","children":"卑微出身与王宫乳兄弟"}]]}],[["$","p","0",{"className":"has-dropcap","children":"一五一六年一月，一个男孩降生在东吁，本名叶杜（Ye Htut）。他的父亲是敏吉瑞，母亲是信妙妙——这是一对身份并不显赫的夫妇，而他们的孩子，日后将缔造东南亚历史上版图最辽阔的帝国。"}],["$","p","1",{"children":"关于他的出身，史册里藏着两个截然不同的版本。直到他死后一百四十余年，官修的《大史》才为他追认了一条牵连上缅甸历代王朝的高贵世系，把他的血脉一直上溯到蒲甘、阿瓦的列王；然而民间口耳相传的，却是一个朴素得多的说法——他的父亲不过是个爬棕榈树采汁的工人，那在当时是最低贱的行当之一。这“采汁工之子”的传说，在二十世纪英国殖民时期被民族主义文人大力传扬，成了一则励志的明证：纵是棕榈匠的儿子，也能凭一身本事登上帝王之巅。两种说法未必互斥，可无论真相如何，有一点是确凿的——他是从一个出身存疑、近乎卑微的起点出发，硬生生把自己写进了帝王的行列。命运给他的第一张牌，是模糊不清的血统；而他将用一生，去证明血统从来不是命运的全部。"}],["$","p","2",{"children":"而他降生的东吁，本身也是一处被命运偏爱的角落。这座地处锡当河谷、深居内陆的小邦，原本默默无闻；偏偏在他出生前后的乱世里，北方的阿瓦被掸族联盟攻陷，无数缅人为避战火，纷纷南下涌入相对安宁的东吁。人口与人才像活水一样汇聚到这片小小的土地上，让这个不起眼的弹丸之邦悄然积蓄起一股喷薄欲出的力量。一个血统成谜的孩子，恰好生在一个正要乘势而起的国度——人与地，仿佛都在等待着彼此，等待着一同把“不可能”变成“史无前例”。"}],["$","p","3",{"children":"命运的丝线，从一五一六年四月就已悄然系紧。那一年，东吁的王室诞下了王子德彬瑞蒂（Tabinshwehti），而叶杜的父母双双被选入照料这位储君的七人团队；其中，叶杜的母亲更被选为王子的乳母。一家人就此迁入东吁的王宫，住进了权力的中心。"}],["$","p","4",{"children":"于是，一个采汁工或小贵族的儿子，与一个未来的国王，竟从襁褓时期就被命运捆在了一起。他们吃着同一个女人的乳汁长大，在同一片宫苑里追逐嬉戏，情同手足。这是一种奇异的缘分：王子的奶水里有他母亲的辛劳，他的童年里有王子的影子。两个孩子的命运，从这一刻起便再难分开——叶杜此后波澜壮阔的一生，几乎全系于这份自幼结下的、比血缘更牢固的情谊之上。命运没有给他高贵的出身，却给了他一个比黄金更宝贵的东西：一位与他患难与共、终将托付江山的兄弟。这份缘，将既是他飞黄腾达的阶梯，也是他半生荣辱的源头。"}],["$","p","5",{"children":"这份自幼的情谊，在那个讲究门第的时代尤为难得。一个采汁工或寒门的儿子，竟能与储君同寝同食、平起平坐地长大，这本身就是一种逾越常规的安排；而正是这种朝夕相处，让他与德彬瑞蒂之间生出了一种远超君臣、近乎血亲的信任。日后无论是战场上的并肩，还是危难时的相托，根都扎在这片共同的童年里。可命运素来一体两面：把他的一生如此紧密地系于另一个人身上，固然成全了他前半生的飞黄腾达，却也埋下了伏笔——一旦那个人骤然离世，他赖以立足的整个世界，也将随之倾覆。他的命运，从此与德彬瑞蒂的生死紧紧绑在了一起。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["德彬瑞蒂之影",["$","span",null,{"className":"life-stage__sub","children":"虎崽初露锋芒"}]]}],[["$","p","0",{"className":"has-dropcap","children":"叶杜在王宫里与王子一同长大，一同接受最严格的训练：习武、骑马、驭象、研读兵法。他天资过人、胆识超群，渐渐成了德彬瑞蒂最倚重的左膀右臂；军中上下，都注意到了这个年轻人身上那股勇毅果决、禀性刚强的气概。他也在宫中见到了那位日后将成为自己王后的达金基公主。"}],["$","p","1",{"children":"一五三〇年，老王去世，年仅十四岁的德彬瑞蒂继承王位。新王登基后，立刻娶了叶杜的姐姐为王后之一，又对昔日的玩伴们大加封赏——叶杜作为新王最亲密的心腹，一跃成为举足轻重的人物。然而此时的东吁，不过是夹缝中求生的弹丸小邦：北方，掸族联盟刚刚吞并了强大的阿瓦；西面，是联盟的盟友卑谬；南方，则盘踞着所有后蒲甘王国中最富庶、最强盛的汉达瓦底。强敌环伺，稍有不慎便有亡国之虞。一五三二年，叶杜随德彬瑞蒂上演了惊人的一幕：年轻的国王仅率五百名最骁勇的骑兵，便大摇大摆地闯入汉达瓦底都城外的瑞摩屠庙——名义上是为国王行穿耳礼，实则是对孱弱的汉达瓦底赤裸裸的挑衅。如此狂悖之举，竟未受到丝毫惩戒。年少气盛的君臣二人，就这样把胆魄写在了所有人的眼前。"}],["$","p","2",{"children":"这场看似鲁莽的闯庙之举，其实暗藏深意：它既是对孱弱南邻的试探，也是这对君臣向天下宣告野心的方式。强敌环伺之下，东吁君臣深知，坐以待毙只有死路一条，唯有先发制人、主动出击，才可能在列强的夹缝中杀出一条生路。于是从一五三〇年代中期起，德彬瑞蒂与叶杜便开始了对外扩张的征伐，把统一下缅甸的雄图一步步付诸行动。年轻的叶杜在这一场场战事中迅速成长，他的勇略与忠诚，一次次得到验证；那个曾在宫苑里陪王子嬉戏的玩伴，正脱胎换骨，成为足以独当一面的统帅。命运为他铺设的舞台，正一寸寸地展开。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["南征勃固",["$","span",null,{"className":"life-stage__sub","children":"从将军到国婿"}]]}],[["$","p","0",{"className":"has-dropcap","children":"然而，这对情同手足的君臣，关系也曾被命运狠狠地考验过一次。一五三四年，叶杜与王之异母妹达金基的私情败露。按缅甸律法，一介平民与王族通情，形同谋逆——这本是足以掉脑袋的大罪。面对部下劝他干脆拥兵自立的怂恿，叶杜却断然拒绝；他没有选择背叛，而是坦然束手就缚，把自己的生死交到了这位发小的手中。"}],["$","p","1",{"children":"德彬瑞蒂与群臣反复斟酌权衡，最终做出了一个改变历史的决定：他非但没有处死叶杜，反而将妹妹正式许配给他，赐以“觉廷瑙亚塔”的亲王封号；此后更赐下那个将让他名垂青史的尊号——“莽应龙”，意为“王之兄长”。一场本可能血溅当场的危机，竟以兄弟情谊与王者气度，化作了一段君臣相知的佳话。此后，莽应龙作为德彬瑞蒂的副帅东征西讨，以悍不畏死著称于阵前；一五四一年，他们终于攻灭了富庶的汉达瓦底，把都城迁到了勃固。那个出身存疑的采汁工之子，如今已是新兴帝国最锋利的一把剑——他用对兄弟的忠诚，换来了兄弟以江山相托的信任。"}],"$La"]]}]]}],"$Lb","$Lc","$Ld"]}]}],"$Le"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","在位、统一与征服掸邦、暹罗等史实依《大史》、Britannica 等考订写成。",{"children":"在位、统一与征服掸邦、暹罗等史实依《大史》、Britannica 等考订写成。"}],["$","li","如“采汁工之子”的出身传说，系后世（尤其殖民时期）的叙事建构，与官修高贵世系并存，已特别标明。",{"children":"如“采汁工之子”的出身传说，系后世（尤其殖民时期）的叙事建构，与官修高贵世系并存，已特别标明。"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$Lf",null,{"href":"/people/tabinshwehti","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"太阳"}],"德彬瑞蒂"]}]]}],["$","$Lf",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$Lf",null,{"href":"/people/nanda-bayin","children":[["$","span",null,{"children":[["$","em",null,{"children":"高塔"}],"南达勃因"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+a:["$","p","2",{"children":"那场对汉达瓦底的征服，是这对君臣联手谱写的第一段传奇。富庶的孟人南国坐拥良港与稻仓，论财力远在小小的东吁之上；可它内部离心、各怀异志，终究敌不过北方这股初生牛犊般的锐气。一五四一年勃固陷落，下缅甸尽入东吁之手，迁都勃固的那一刻，标志着一个新帝国的雏形已然成型。而那个“莽应龙”的尊号——“王之兄长”——此刻显得格外贴切：他确实如兄长一般，为这位年轻的君王扛起了开疆拓土的重任。他要的从不是篡夺，而是辅佐；他把全部的才干与忠勇，都献给了那份自幼结下的情谊。命运似乎格外厚待这对兄弟，让他们的事业一路高歌猛进——却也正因如此，接下来的那记晴天霹雳，才显得愈发残忍。"}]
+b:["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["帝国崩塌",["$","span",null,{"className":"life-stage__sub","children":"兄弟遇刺后的至暗时刻"}]]}],[["$","p","0",{"className":"has-dropcap","children":"可命运最残酷的考验，还在后头。一五五〇年四月三十日，正值德彬瑞蒂三十四岁生辰之日，他竟被身边的孟族近臣刺杀身亡。一夜之间，君臣二人苦心经营的帝国轰然崩塌：各地纷纷自立，属邦尽数反叛，就连莽应龙的异母弟也趁乱在勃固抢占了王位。而此时的莽应龙，正远在达拉征战，骤然之间，几乎沦为一无所有的孤家寡人——他失去了兄弟，失去了帝国，失去了一切赖以立足的根基。"}],["$","p","1",{"children":"那是一段天崩地裂的至暗时刻。德彬瑞蒂死后，整片江山陷入长达数月的混乱：行刺者一党作乱，各地总督纷纷自立为王，连莽应龙自己的异母弟也在勃固抢先称尊，公然不认这位兄长的权威。他的妻儿仓皇出逃，辗转赶来与他会合；昔日帝国的副帅，如今身边只剩寥寥旧部，前路茫茫，看不见半点光亮。他与发小毕生缔造的一切，在短短数月间灰飞烟灭——命运把他高高举起，又狠狠摔下，仿佛要看看这个采汁工的儿子，究竟是真有帝王之命，还是不过侥幸攀附了一时的权势。"}],["$","p","2",{"children":"换作旁人，这便是万劫不复的绝境。可莽应龙偏偏要从这片废墟里，把一切重新夺回来。接下来的数年，是一场近乎不可能的逆袭：他先是在一五五一年夺回故乡东吁与卑谬，并在东吁加冕，立年仅十五岁的儿子囊达为储；次年又攻下勃固、马都八、八双；到一五五四年，他在勃固再度举行登基大典。这是一个把同一个帝国“建立了两次”的人——第一次是与兄弟并肩缔造，第二次，则是在兄弟横死、众叛亲离之后，凭一己之力从灰烬中重铸。命运把他打回了原点，他却以更惊人的意志，证明了自己配得上一顶不靠继承、而靠双手挣来的王冠。"}],["$","p","3",{"children":"第二次的建立，比第一次更见其人。第一回，他身后有德彬瑞蒂的王统作旗号，有现成的根基可凭借；而这一回，他什么都没有了——没有兄弟，没有正统，没有现成的军队，甚至连自己的故乡都落在了篡位兄弟的手中。他是从最不利的牌面，靠着旧部的忠诚、过人的胆略与不肯认输的意志，一座城、一座城地把帝国重新拼了回来。如果说第一座帝国证明了他的才干，那么这第二座，则证明了他的天命：有些人天生就是要在废墟上重建的，命运越是想毁掉他们，他们反而越是夺目。从这一刻起，他不再只是某位国王的兄长与副手，而是真正的、独一无二的莽应龙。"}]]]}]]}]
+c:["$","section","4",{"className":"life-stage","id":"stage-5","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"5"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["十方征服",["$","span",null,{"className":"life-stage__sub","children":"一人撑起的世界"}]]}],[["$","p","0",{"className":"has-dropcap","children":"重建帝国，只是他更宏大征程的起点。此后的二十余年，是一场席卷半个中南半岛的扩张狂飙：一五五五年攻下阿瓦；一五五七至一五六三年征服并整合掸邦——他削夺世袭土司的特权，终结了困扰上缅甸数百年的掸人寇边之患，这被史家公认为他最深远的功业；一五五八年取兰纳清迈，一五六〇年并曼尼普尔，又远征澜沧；一五六四与一五六九年，更两度攻陷暹罗的都城大城。至此，他缔造了东南亚历史上版图最辽阔的帝国，疆域逾两百万平方公里。在泰国人的历史记忆里，他被称作令人敬畏的“十方之王”。"}],["$","p","1",{"children":"两度攻陷暹罗都城大城，是他武功的顶点，也是他争议的源头。一五六四年的初次破城与一五六九年的再度征服，把这个强盛的泰人王国也纳入了他的属邦之列；然而胜利的背面，是无尽的杀伐与劫掠——他将成千上万的暹罗工匠、学者与百姓掳往北方，充实自己的都城、稀释被征服者的反抗。在缅甸，他是开疆拓土的英雄；在泰国，他却是铁蹄踏碎家园的征服者。同一个人，在不同民族的记忆里，留下了截然相反的面孔。至于他对掸邦的整合，则被史家视为影响最为深远的一笔：他削藩置吏、移风易俗的那套办法，成了此后历代缅甸君王治理掸地的范本，一直沿用到十九世纪末英国人到来之时——一个人立下的规矩，竟主宰了一片土地此后三百年的命运。"}],["$","p","2",{"children":"然而他绝非只知征伐的武夫。他颁行法典，统一度量衡与历法，推广正统的上座部佛教，广施经卷，下令禁绝一切人祭与牲祭——包括掸人在土司葬礼上殉杀奴隶牲畜的残酷旧俗；他在勃固兴建宏伟的甘巴扎迪王宫与马哈泽迪塔，又在蒲甘瑞喜宫铸下大钟。可繁华之下，史家一针见血地指出：他是“一个没有帝国的皇帝”。维系这庞大版图的，从来不是稳固的制度，而是各属邦对他个人魅力与威望的效忠；为防叛乱，他强掳数以万计的暹罗工匠与百姓北迁，在被征服者心中埋下了深深的怨恨。帝国的辉煌有多耀眼，它的根基便有多脆弱——崩解的种子，其实早在它鼎盛之时，就已悄悄埋下。"}]]]}]]}]
+d:["$","section","5",{"className":"life-stage","id":"stage-6","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"6"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["阿拉干未竟",["$","span",null,{"className":"life-stage__sub","children":"与帝国同息同灭"}]]}],[["$","p","0",{"className":"has-dropcap","children":"一五八〇年，普天之下，已再无对手能与他抗衡。于是他把最后的目光投向了西方的阿拉干——那是他与德彬瑞蒂当年（一五四五至一五四七年）曾试图征服却未能如愿的一块心病。他要把这最后的遗憾，亲手补上。他派出八千水师、两百艘战船，于一五八〇年十一月一举占领散多威，本欲亲率大军直取阿拉干都城；然而岁月不饶人，他的身体已每况愈下，终究未能成行。一五八一年八月，他强撑病体，再调援军，预备旱季的总攻。"}],["$","p","1",{"children":"那是一个戎马一生的征服者，与自己日渐衰朽的身体之间的最后角力。四十余年里，他几乎从未缺席任何一场亲征，总是亲临阵前、身先士卒；可如今，雄心仍在，铁腕仍在，那副曾纵横十方的躯体却再也跟不上了。他多想亲手为自己毕生的征伐画上一个圆满的句点，多想踏平那片唯一未曾臣服的土地；然而病榻无情，他只能远远地调遣兵马，把希望寄托在迟迟未至的旱季。这或许是命运最后的一点提醒：纵使你征服了十方，也终究征服不了时间，征服不了肉身的极限。"}],["$","p","2",{"children":"可命运没有给他完成这最后一役的时间。六周之后，一五八一年十月十日，这位戎马四十余年、几乎从未缺席任何一场亲征的君王，在勃固溘然长逝，享年六十五岁。阿拉干之役就此中辍，大军黯然撤回——他的征服，终究在最后一步戛然而止。而更令人唏嘘的是那之后：他用一生从虚无中筑起的庞大帝国，竟随他的呼吸停止而迅速崩解。其子囊达继位不过两年，阿瓦与大城便相继反叛；到一五九九年，所有属邦尽数独立，那个曾被誉为“缅甸有史以来最伟大的人类能量之爆发”的帝国，彻底土崩瓦解。这正是他一生宿命的终极隐喻：一座完全靠他一人之身撑起的帝国，注定只能与他同生，与他同灭。他亲手两次建起它，却没有一套制度能让它在他合眼之后继续呼吸。那个采汁工的儿子，凭一身本事征服了十方；可到头来，他征服得了天下，却征服不了“人亡政息”这四个字。"}]]]}]]}]
+e:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lf","anawrahta",{"href":"/people/anawrahta","children":[["$","strong",null,{"children":"阿奴律陀"}],["$","span",null,{"children":"同列三大统一者 · 缔造与崩解"}]]}],["$","$Lf","tabinshwehti",{"href":"/people/tabinshwehti","children":[["$","strong",null,{"children":"德彬瑞蒂"}],["$","span",null,{"children":"他的发小与君主 · 第一东吁的缔造者"}]]}],["$","$Lf","nanda-bayin",{"href":"/people/nanda-bayin","children":[["$","strong",null,{"children":"南达勃因"}],["$","span",null,{"children":"他的儿子 · 守不住帝国的末王"}]]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lf","mingyinyo",{"href":"/people/mingyinyo","children":[["$","strong",null,{"children":"明吉纽"}],["$","span",null,{"children":"东吁王朝开创者"}]]}],["$","$Lf","tabinshwehti",{"href":"/people/tabinshwehti","children":[["$","strong",null,{"children":"德彬瑞蒂"}],["$","span",null,{"children":"第一东吁帝国缔造者"}]]}],["$","$Lf","nanda-bayin",{"href":"/people/nanda-bayin","children":[["$","strong",null,{"children":"南达勃因"}],["$","span",null,{"children":"第一东吁帝国末代之君"}]]}]]}]]}]]}]
+12:null

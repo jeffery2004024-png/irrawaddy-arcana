@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+c:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+d:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+3:T172d,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：高塔 · 波道帕耶">
+
+<defs>
+  <linearGradient id="bodawpaya_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#B88758"/><stop offset=".56" stop-color="#6D5140"/><stop offset="1" stop-color="#161313"/>
+  </linearGradient>
+  <linearGradient id="bodawpaya_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#E0B45B"/>
+  </linearGradient>
+  <radialGradient id="bodawpaya_glow" cx=".5" cy=".43" r=".62">
+    <stop offset="0" stop-color="#FFF0C8" stop-opacity=".48"/><stop offset="1" stop-color="#FFF0C8" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="bodawpaya_vig" cx=".5" cy=".48" r=".75">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".45"/>
+  </radialGradient>
+  <clipPath id="bodawpaya_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="bodawpaya_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  <g id="bodawpaya_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+<g clip-path="url(#bodawpaya_win)">
+<rect x="58" y="100" width="304" height="470" fill="url(#bodawpaya_sky)"/>
+<circle cx="210" cy="318" r="154" fill="url(#bodawpaya_glow)"/>
+<circle cx="294" cy="160" r="18" fill="#F8E6B3" opacity=".9"/>
+<g><rect x="58" y="448" width="304" height="122" fill="#3B2419"/><path d="M104 470 L158 318 H262 L318 470 Z" fill="#9E6B42" stroke="#4A2D1E" stroke-width="2"/><path d="M140 440 H280 V470 H140 Z" fill="#6C442B"/><path d="M172 318 h76 l-12 56 h-52z" fill="#B98556"/><g stroke="#4A2D1E" opacity=".55"><path d="M122 420 h176"/><path d="M134 386 h152"/><path d="M151 352 h118"/></g></g>
+<path d="M58 470 L116 342 L166 470 Z M128 470 L206 326 L296 470 Z M254 470 L318 360 L362 470 Z" fill="#303829" opacity=".68"/>
+<rect x="58" y="504" width="304" height="66" fill="#173C55"/><path d="M78 528 q42 11 88 0 t88 0 t88 0" stroke="#DCEAF1" stroke-opacity=".38" stroke-width="2.5" fill="none"/>
+<g stroke="#4B2D1E" opacity=".35"><path d="M82 496 h256"/><path d="M74 526 h272"/><path d="M108 468 v58 M156 438 v88 M214 390 v136 M268 438 v88 M318 468 v58"/></g>
+
+  <g>
+    <line x1="246" y1="462" x2="284" y2="332" stroke="#ECE6D4" stroke-width="5" stroke-linecap="round"/><rect x="240" y="452" width="28" height="7" rx="2" fill="#E9C46A" stroke="#A8772B"/>
+    <path d="M180 556 L186 452 Q210 438 234 452 L240 556 Z" fill="#7A3B26" stroke="#321812" stroke-width="1.5"/>
+    <path d="M190 474 Q210 466 230 474" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 466 Q172 480 166 498" stroke="#7A3B26" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M230 466 Q248 480 254 498" stroke="#7A3B26" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <circle cx="164" cy="500" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <circle cx="256" cy="500" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="204" y="424" width="12" height="12" fill="#E9BA8E"/>
+    <circle cx="210" cy="405" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="195" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <rect x="195" y="386" width="30" height="8" rx="2" fill="#E9C46A" stroke="#A8772B"/><polygon points="201,386 219,386 212,342 208,342" fill="url(#bodawpaya_gold)" stroke="#A8772B"/><use href="#bodawpaya_star" x="210" y="336" fill="#FFF6DC"/>
+    <path d="M202 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M212 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M206 415 q4 3 8 0" stroke="#6E4226" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  </g>
+</g>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#bodawpaya_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#bodawpaya_kan" transform="translate(34,34)"/>
+<use href="#bodawpaya_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#bodawpaya_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#bodawpaya_kan" transform="translate(386,686) scale(-1,-1)"/>
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#bodawpaya_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#bodawpaya_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">XVI</text>
+  <text x="210" y="88" font-size="23" letter-spacing="8" fill="#E9C46A" font-weight="700" dx="-4">高塔</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#bodawpaya_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5">波道帕耶</text>
+  <text x="210" y="649" font-size="9.7" letter-spacing="1" fill="#F3E5C3" opacity=".9">BODAWPAYA · 贡榜 · 1782–1819</text>
+  <text x="210" y="677" font-size="12.6" letter-spacing=".8" fill="#D8B56A">「他向西开门，也把王朝推到边界」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1782 – 1819"}],["$","h1",null,{"children":"波道帕耶"}],["$","p",null,{"className":"person-hero__role","children":["贡榜君主",["$","span",null,{"className":"person-hero__alt","children":[" · ","Bodawpaya / 孟云"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"征服若开的人"}],["$","p",null,{"className":"person-hero__summary","children":"阿朗帕耶之子，征服若开、迎回摩诃牟尼大佛，营建空前的明宫塔，把贡榜的边界推到英属印度门口。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","贡榜王朝",{"children":"贡榜王朝"}],["$","span","征服若开",{"children":"征服若开"}],["$","span","摩诃牟尼",{"children":"摩诃牟尼"}],["$","span","明宫塔",{"children":"明宫塔"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["血色王祖父",null]}],[["$","p","0",{"className":"has-dropcap","children":"他后来被称作“波道帕耶”，意近“王祖父”。这个称呼听来慈祥，像一位坐在宫殿深处、被子孙与僧侣共同敬畏的老王。可他登上王位的道路，却并无半分慈祥。"}],["$","p","1",{"children":"他是阿朗帕耶之子，辛标信之弟，在贡榜王室的谱系中本来就靠近那团开国之火。一七八二年，宫廷之内又一次响起刀声。前王辛古被貌貌取代，而貌貌旋即又被波道帕耶推翻并处死。史书对此着墨不多，却足以让人看见贡榜王权的真实面目：这不是一顶可以安静继承的王冠，而是一件必须用血重新确认的器物。波道帕耶夺得王位时，贡榜已经不再是瑞波木栅后的新兴力量，而是一个横跨上、下缅甸的帝国；可越是这样的帝国，越害怕王位不稳，越习惯以血来为合法性开路。"}],["$","p","2",{"children":"登基后的波道帕耶，把都城迁往阿玛拉补罗。阿玛拉补罗意为“不死之城”或“长生之城”，一七八三年建成之后，取代阿瓦成为贡榜的新中枢。这个名字像一句壮丽的祝祷，也像一句过于骄傲的誓言。伊洛瓦底江畔的王朝从来没有真正不死的都城，蒲甘、阿瓦、勃固、瑞波，每一座城都曾以为自己是天下的中心，最后又都被江水与战火冲成前朝的遗迹。波道帕耶却仍要再造一座城，因为每一个强君都相信，只要自己能重新安放宫殿、佛塔、城墙与簿册，命运便会重新听从他的排列。"}],["$","p","3",{"children":"3"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["若开的山口",null]}],[["$","p","0",{"className":"has-dropcap","children":"波道帕耶真正改变缅甸命运的，不是迁都，而是向西。"}],["$","p","1",{"children":"若开，位于若开山脉以西，面朝孟加拉湾。它并非寻常边地，而是一个有着漫长王统、海上贸易与佛教圣物传统的旧王国。缅甸中原王朝若要越过若开山脉征服那里，必须穿过险峻山口、湿热密林和艰难补给线。过去的缅王不是没有觊觎过这片海岸，却很少真正把它稳定纳入伊洛瓦底王权的掌中。"}],["$","p","2",{"children":"一七八四年，波道帕耶下令进攻若开。缅军越过山脉，水陆并进，迅速击破末代若开王的抵抗。一七八五年，若开被纳入缅甸版图，末王被俘，王室、贵族、工匠、百姓与佛寺珍宝被押往内地。史料记载，被迁徙入缅甸内陆者多达两万余人。更具象征性的，是大摩尼佛像被运至阿玛拉补罗一带，后来安置于曼德勒南郊的摩诃牟尼寺中。对贡榜宫廷而言，这是王权与佛法的胜利；对若开人而言，这却是国祚断裂、圣物离乡的创伤。直到后世，若开记忆中仍把这次征服视为深重的失落。"}],["$","p","3",{"children":"征服若开，使波道帕耶看起来像继承了阿朗帕耶、辛标信的扩张天命。可这场胜利真正的后果，远比宫廷捷报更为深远。若开一旦成为缅甸行省，缅甸与英国在印度的势力便第一次隔着边界相望。过去，贡榜的敌人多在山地、江谷、暹罗平原与清廷边关；如今，一个以海洋、商号、炮舰和条约为武器的新敌人，出现在缅甸西门之外。波道帕耶以为自己夺得的是一片海岸，历史却把它写成了缅英冲突的前奏。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["九路南征与边境阴影",null]}],[["$","p","0",{"className":"has-dropcap","children":"若开既下，波道帕耶又转向暹罗。一七八五年，缅军大举进攻暹罗，暹罗史称“九军之战”或“九路军之役”。这一次，缅甸面对的已不是阿瑜陀耶末年那个疲弱旧国，而是拉玛一世所重4建的曼谷王朝。暹罗在国破之后学会了新的防守，也学会了如何让地形、补给和时间替自己作战。波道帕耶的南征终告失败。贡榜仍能在西方取得若开，却再难像辛标信那样焚毁暹罗王都。"}],["$","p","1",{"children":"此后，西部边境的麻烦越滚越大。若开统治严酷，引发一七九四年前后的叛乱；许多若开难民与反抗者逃入英国控制的地区，缅军追剿时又越界，引起英方警惕。英国人派使者前往阿玛拉补罗交涉，表面是为边境治安，实则是两个世界第一次认真打量彼此。缅甸宫廷仍以传统朝贡、藩属、边民追捕的逻辑理解边境；英国人则以条约、领土线、公司利益与殖民管辖来理解边境。两种秩序之间，几乎没有天然的翻译者。"}],["$","p","2",{"children":"晚年的波道帕耶又介入曼尼普尔与阿萨姆事务，把贡榜势力推向更北更西的山谷和平原。这些行动在缅甸宫廷看来，是边疆秩序的延伸；在英属印度看来，却像一把正在逼近孟加拉东北门的刀。波道帕耶本人并未亲眼见到第一次英缅战争的炮声，可他所开辟的西向边界、难民问题与藩属冲突，已经把缅甸拖到那场战争的门口。"}]]]}]]}],["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["明宫塔的未竟之身",null]}],[["$","p","0",{"className":"has-dropcap","children":"波道帕耶又是一位极端虔敬、也极端专断的佛教君主。他自称或被宣称为阿利弥底耶，即未来弥勒的高贵化身；他整肃僧团，压制异端，严禁饮酒、吸食鸦片与杀生，甚至以死刑相威胁。这样的宗教热忱，很难与仁慈简单等同。它像一把裹着袈裟的王权之刀，既要净化人心，也要把所有不服从者逼入同一种秩序。"}],["$","p","1",{"children":"最能写出他性格的，是明宫大佛塔。相传他要在伊洛瓦底江畔建造一座高达约五百英尺的巨塔，使它成为佛国与王权永恒的标志。万民服役，砖石堆成山体，塔基大得像一座人工山。可工程终究未能完成。民间传说中，有预言说塔若完工，王国便会灭亡，或国王便会死去；这类说法难以证实，却像历史替他写下的讽刺。波道帕耶越想建造不朽，后世越只记得那座未竟的巨塔；他越想把王权与佛法凝成永恒，命运越让明宫塔以残缺的身躯，站成贡榜扩张时代最沉默的碑。"}],"$La"]]}]]}]]}]}],"$Lb"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","据缅甸编年史、哈维《缅甸史》、霍尔《缅甸》、丹敏乌《现代缅甸的形成》、Candier 贡榜晚期改革研究及《大英百科》等互校写成。",{"children":"据缅甸编年史、哈维《缅甸史》、霍尔《缅甸》、丹敏乌《现代缅甸的形成》、Candier 贡榜晚期改革研究及《大英百科》等互校写成。"}],["$","li","凡仅见于王家传闻、地方传说或殖民回忆者，已以“相传”“传闻”“据后世记述”标明，以与可核信史区分。",{"children":"凡仅见于王家传闻、地方传说或殖民回忆者，已以“相传”“传闻”“据后世记述”标明，以与可核信史区分。"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$Lc",null,{"href":"/people/hsinbyushin","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"战车"}],"辛标信"]}]]}],["$","$Lc",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$Lc",null,{"href":"/people/mindon","children":[["$","span",null,{"children":[["$","em",null,{"children":"教皇"}],"敏东王"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+a:["$","p","2",{"children":"5一八一九年，波道帕耶死于阿玛拉补罗。他留下辽阔版图，也留下不安边界；留下佛塔与改革，也留下强制与恐惧；留下若开的胜利，也留下与英属印度接壤的宿命。若说阿朗帕耶从废墟中找回缅甸，辛标信用战争震动四方，那么波道帕耶便是把贡榜王朝推到世界边缘的人。他并不知道，海湾彼岸的帝国，终将沿着他亲手打开的西门，一步步走向曼德勒。"}]
+b:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lc","alaungpaya",{"href":"/people/alaungpaya","children":[["$","strong",null,{"children":"阿朗帕耶"}],["$","span",null,{"children":"他的父亲 · 贡榜开国者"}]]}],["$","$Lc","hsinbyushin",{"href":"/people/hsinbyushin","children":[["$","strong",null,{"children":"辛标信"}],["$","span",null,{"children":"同为阿朗帕耶之子"}]]}],["$","$Lc","maha-thammada",{"href":"/people/maha-thammada","children":[["$","strong",null,{"children":"摩诃达玛达"}],["$","span",null,{"children":"他所灭的妙乌末王"}]]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lc","alaungpaya",{"href":"/people/alaungpaya","children":[["$","strong",null,{"children":"阿朗帕耶"}],["$","span",null,{"children":"贡榜王朝创立者"}]]}],["$","$Lc","hsinbyushin",{"href":"/people/hsinbyushin","children":[["$","strong",null,{"children":"辛标信"}],["$","span",null,{"children":"贡榜君主"}]]}],["$","$Lc","mindon",{"href":"/people/mindon","children":[["$","strong",null,{"children":"敏东王"}],["$","span",null,{"children":"贡榜改革君主"}]]}],["$","$Lc","thibaw",{"href":"/people/thibaw","children":[["$","strong",null,{"children":"锡袍王"}],["$","span",null,{"children":"缅甸末代国王"}]]}]]}]]}]]}]
+f:null

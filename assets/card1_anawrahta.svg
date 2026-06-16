@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" width="420" height="720" role="img" aria-label="塔罗牌：皇帝 · 阿奴律陀">
+<defs>
+  <linearGradient id="a_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#F6CD74"/><stop offset=".55" stop-color="#DC7A3C"/><stop offset="1" stop-color="#7E2B1B"/>
+  </linearGradient>
+  <radialGradient id="a_glow" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#FFE9B0" stop-opacity=".85"/><stop offset="1" stop-color="#FFE9B0" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="a_bell" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE3A1"/><stop offset="1" stop-color="#C98A2E"/>
+  </linearGradient>
+  <radialGradient id="a_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="a_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="a_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  <g id="a_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+
+<g clip-path="url(#a_win)">
+  <rect x="58" y="100" width="304" height="470" fill="url(#a_sky)"/>
+  <circle cx="210" cy="300" r="155" fill="url(#a_glow)"/>
+  <path d="M58 470 L98 470 L105 450 L112 470 L146 470 L154 442 L162 470 L196 470 L203 452 L210 470 L246 470 L254 444 L262 470 L300 470 L307 452 L314 470 L362 470 L362 506 L58 506 Z" fill="#5A1D10"/>
+  <rect x="58" y="500" width="304" height="70" fill="#3A130B"/>
+  <line x1="58" y1="500" x2="362" y2="500" stroke="#C98E3A" stroke-opacity=".45" stroke-width="1"/>
+
+  <!-- Shwezigon stupa -->
+  <rect x="150" y="456" width="120" height="14" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+  <rect x="164" y="442" width="92" height="14" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+  <rect x="178" y="428" width="64" height="14" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+  <path d="M180 428 Q180 374 210 360 Q240 374 240 428 Z" fill="url(#a_bell)" stroke="#8A5C18" stroke-width="1"/>
+  <polygon points="204,360 216,360 212,284 208,284" fill="url(#a_bell)" stroke="#8A5C18" stroke-width=".8"/>
+  <g stroke="#8A5C18" stroke-width="1.2">
+    <line x1="205" y1="344" x2="215" y2="344"/><line x1="205.6" y1="328" x2="214.4" y2="328"/>
+    <line x1="206.3" y1="312" x2="213.7" y2="312"/><line x1="207" y1="298" x2="213" y2="298"/>
+  </g>
+  <path d="M204 284 H216 L210 276 Z" fill="#E9C46A"/>
+  <line x1="210" y1="276" x2="210" y2="260" stroke="#E9C46A" stroke-width="1.6"/>
+  <path d="M210 268 L221 264.5 L210 261 Z" fill="#8E2F23"/>
+  <use href="#a_star" x="210" y="255" fill="#FFE9B0" transform="translate(0,0)"/>
+  <use href="#a_star" x="186" y="272" fill="#E9C46A" opacity=".9" transform="scale(1)"/>
+  <use href="#a_star" x="234" y="272" fill="#E9C46A" opacity=".9"/>
+
+  <!-- White elephant -->
+  <g>
+    <rect x="88" y="524" width="9" height="28" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1"/>
+    <rect x="106" y="526" width="9" height="26" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1"/>
+    <rect x="124" y="526" width="9" height="26" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1"/>
+    <rect x="138" y="522" width="9" height="30" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1"/>
+    <ellipse cx="112" cy="512" rx="32" ry="21" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1.2"/>
+    <circle cx="149" cy="502" r="13" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1.2"/>
+    <path d="M143 492 Q130 485 129 499 Q133 507 143 504 Z" fill="#E2D7C0" stroke="#BBA06B" stroke-width=".8"/>
+    <path d="M154 500 Q168 507 166 521 Q165 533 156 535 Q151 536 151 531 Q158 528 158 519 Q158 509 150 506 Z" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1"/>
+    <path d="M152 512 Q160 515 162 521" stroke="#FFFDF5" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <circle cx="146" cy="499" r="1.6" fill="#4A2A16"/>
+    <rect x="95" y="494" width="32" height="16" rx="3" fill="#8E2F23" stroke="#E9C46A" stroke-width="1.4"/>
+    <circle cx="102" cy="508" r="1.2" fill="#E9C46A"/><circle cx="111" cy="508" r="1.2" fill="#E9C46A"/><circle cx="120" cy="508" r="1.2" fill="#E9C46A"/>
+    <path d="M143 489 L155 489 L149 477 Z" fill="#E9C46A" stroke="#A8772B" stroke-width=".8"/>
+  </g>
+
+  <!-- King Anawrahta -->
+  <g transform="translate(26,0)">
+    <path d="M204 556 L212 470 Q236 458 260 470 L268 556 Z" fill="#8E2F23" stroke="#5C1810" stroke-width="1.6"/>
+    <path d="M208 538 H264" stroke="#E9C46A" stroke-width="1.6" opacity=".95"/>
+    <path d="M210 522 H262" stroke="#E9C46A" stroke-width="1.6" opacity=".95"/>
+    <path d="M218 470 Q236 461 254 470" stroke="#E9C46A" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <path d="M222 474 L254 512" stroke="#E9C46A" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M254 474 L222 512" stroke="#E9C46A" stroke-width="4.5" stroke-linecap="round"/>
+    <circle cx="238" cy="493" r="4" fill="#FFE9B0" stroke="#A8772B" stroke-width="1"/>
+    <path d="M212 478 L204 468 L213 459 L221 469 Z" fill="#8E2F23" stroke="#5C1810" stroke-width="1"/>
+    <circle cx="215" cy="443" r="4" fill="#E9C46A" stroke="#A8772B" stroke-width="1"/>
+    <rect x="212" y="447" width="6" height="14" fill="#5C1810" stroke="#E9C46A" stroke-width=".8"/>
+    <circle cx="215" cy="459" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="203" y="464" width="24" height="6" rx="2" fill="#E9C46A" stroke="#A8772B" stroke-width="1"/>
+    <polygon points="211,470 219,470 217,556 213,556" fill="#EFE6D2" stroke="#B9A06B" stroke-width="1"/>
+    <line x1="215" y1="474" x2="215" y2="552" stroke="#CDBE9C" stroke-width=".8"/>
+    <path d="M258 480 L266 488 L258 496 L250 488 Z" fill="#8E2F23" stroke="#5C1810" stroke-width="1"/>
+    <rect x="248" y="486" width="38" height="5" fill="#F0DDB0" stroke="#B9A06B" stroke-width=".8"/>
+    <rect x="250" y="492" width="38" height="5" fill="#F0DDB0" stroke="#B9A06B" stroke-width=".8"/>
+    <rect x="249" y="498" width="38" height="5" fill="#F0DDB0" stroke="#B9A06B" stroke-width=".8"/>
+    <line x1="268" y1="484" x2="268" y2="505" stroke="#8E2F23" stroke-width="2"/>
+    <circle cx="256" cy="507" r="6" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="230" y="437" width="12" height="9" fill="#E9BA8E"/>
+    <circle cx="236" cy="424" r="15" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="221" cy="425" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="251" cy="425" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="221" cy="430" r="1.5" fill="#E9C46A"/><circle cx="251" cy="430" r="1.5" fill="#E9C46A"/>
+    <path d="M227 424 Q231 427 235 424" stroke="#4A2A16" stroke-width="1.6" fill="none"/>
+    <path d="M237 424 Q241 427 245 424" stroke="#4A2A16" stroke-width="1.6" fill="none"/>
+    <line x1="233" y1="433" x2="239" y2="433" stroke="#7C4024" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="220" y="403" width="32" height="9" rx="2" fill="#E9C46A" stroke="#A8772B" stroke-width="1"/>
+    <polygon points="226,403 246,403 238,352 234,352" fill="url(#a_bell)" stroke="#A8772B" stroke-width="1"/>
+    <line x1="228" y1="392" x2="244" y2="392" stroke="#A8772B" stroke-width="1"/>
+    <line x1="230" y1="380" x2="242" y2="380" stroke="#A8772B" stroke-width="1"/>
+    <line x1="232" y1="368" x2="240" y2="368" stroke="#A8772B" stroke-width="1"/>
+    <path d="M220 409 Q204 407 200 393 Q210 399 220 397 Z" fill="#E9C46A" stroke="#A8772B" stroke-width=".8"/>
+    <path d="M252 409 Q268 407 272 393 Q262 399 252 397 Z" fill="#E9C46A" stroke="#A8772B" stroke-width=".8"/>
+    <use href="#a_star" x="236" y="348" fill="#FFE9B0"/>
+  </g>
+</g>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#a_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#a_kan" transform="translate(34,34)"/>
+<use href="#a_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#a_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#a_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#a_star" x="150" y="50" fill="#A8772B" transform="scale(1)"/>
+  <use href="#a_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">IV</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7">皇帝</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#a_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5">阿奴律陀</text>
+  <text x="210" y="649" font-size="11" letter-spacing="2" fill="#F3E5C3" opacity=".9" dx="-1">ANAWRAHTA · 蒲甘王朝 · 1014–1077</text>
+  <text x="210" y="677" font-size="13" letter-spacing="2" fill="#D8B56A" dx="-1">「三十二头白象，驮回一个信仰」</text>
+</g>
+</svg>

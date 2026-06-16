@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+3:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"底哈都 · 继承者 | 伊洛瓦底的王冠"}],["$","meta","1",{"name":"description","content":"他与两位兄长一同击退了横扫亚洲的蒙古铁骑，又亲手埋葬了蒲甘最后的国王；他穷尽一生攀附那个被他终结的王朝，自封为它唯一的继承人。然而当他闭上双眼时，他亲手缔造的王国，正沿着儿子们之间的裂痕，一分为二。"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}

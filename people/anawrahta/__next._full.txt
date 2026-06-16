@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+2:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+3:I[39756,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+c:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+e:I[68027,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/irrawaddy-arcana/_next/static/chunks/1lbml8-g762zg.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Noto+Serif+Myanmar:wght@400;500;700&family=Padauk:wght@400;700&display=swap","style"]
+0:{"P":null,"c":["","people","anawrahta",""],"q":"","i":false,"f":[[["",{"children":["people",{"children":[["id","anawrahta","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/irrawaddy-arcana/_next/static/chunks/1lbml8-g762zg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Noto+Serif+Myanmar:wght@400;500;700&family=Padauk:wght@400;700&display=swap"}]]}],["$","body",null,{"children":["$","div",null,{"className":"site-shell","children":[["$","header",null,{"className":"site-nav","children":[["$","$L2",null,{"className":"site-nav__brand","href":"/","children":[["$","span",null,{"className":"brand-row","children":[["$","svg",null,{"className":"stupa-mark","viewBox":"0 0 24 28","fill":"none","aria-hidden":"true","children":[["$","path",null,{"d":"M6 27 V23 H7.5 V20 H9 C9 13 10.5 14 12 6 C13.5 14 15 13 15 20 H16.5 V23 H18 V27 Z","fill":"currentColor"}],["$","path",null,{"d":"M10.6 7 L12 1 L13.4 7 Z","fill":"currentColor"}],["$","circle",null,{"cx":"12","cy":"0.5","r":"1","fill":"currentColor"}]]}],"伊洛瓦底的王冠"]}],["$","span",null,{"className":"brand-mm","children":"ဧရာဝတီ · မြန်မာ"}]]}],["$","nav",null,{"aria-label":"主导航","children":["$","$L2",null,{"href":"/","children":"人物 · 列传"}]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"notfound","children":[["$","p",null,{"className":"eyebrow","children":"Not Found"}],["$","h1",null,{"children":"这张牌暂时不在牌阵里"}],["$","p",null,{"children":"内容可能尚未加入，或路径已经改变。"}],["$","$L2",null,{"className":"text-link","href":"/","children":"回到人物长廊"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"frieze","aria-hidden":"true"}],["$","p",null,{"className":"site-footer__mm","children":"ပုဂ္ဂိုလ်များ · မြန်မာ"}],["$","p",null,{"className":"site-footer__title","children":"伊洛瓦底的王冠 · 缅甸历史人物列传"}],["$","p",null,{"className":"site-footer__note","children":"四十二位信史可考之人，循其经历分章铺展，按王朝先后排列。"}]]}]]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/irrawaddy-arcana/_next/static/chunks/1lbml8-g762zg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Wni7G7Y7tQdWI_49uASu3"}
+f:[]
+9:"$Wf"
+10:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+11:T25e7,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：皇帝 · 阿奴律陀">
+<defs>
+  <linearGradient id="a_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#F6CD74"/><stop offset=".55" stop-color="#DC7A3C"/><stop offset="1" stop-color="#7E2B1B"/>
+  </linearGradient>
+  <radialGradient id="a_glow" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#FFE9B0" stop-opacity=".85"/><stop offset="1" stop-color="#FFE9B0" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="a_bell" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE3A1"/><stop offset="1" stop-color="#C98A2E"/>
+  </linearGradient>
+  <radialGradient id="a_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="a_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="a_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  <g id="a_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+
+<g clip-path="url(#a_win)">
+  <rect x="58" y="100" width="304" height="470" fill="url(#a_sky)"/>
+  <circle cx="210" cy="300" r="155" fill="url(#a_glow)"/>
+  <path d="M58 470 L98 470 L105 450 L112 470 L146 470 L154 442 L162 470 L196 470 L203 452 L210 470 L246 470 L254 444 L262 470 L300 470 L307 452 L314 470 L362 470 L362 506 L58 506 Z" fill="#5A1D10"/>
+  <rect x="58" y="500" width="304" height="70" fill="#3A130B"/>
+  <line x1="58" y1="500" x2="362" y2="500" stroke="#C98E3A" stroke-opacity=".45" stroke-width="1"/>
+
+  <!-- Shwezigon stupa -->
+  <rect x="150" y="456" width="120" height="14" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+  <rect x="164" y="442" width="92" height="14" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+  <rect x="178" y="428" width="64" height="14" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+  <path d="M180 428 Q180 374 210 360 Q240 374 240 428 Z" fill="url(#a_bell)" stroke="#8A5C18" stroke-width="1"/>
+  <polygon points="204,360 216,360 212,284 208,284" fill="url(#a_bell)" stroke="#8A5C18" stroke-width=".8"/>
+  <g stroke="#8A5C18" stroke-width="1.2">
+    <line x1="205" y1="344" x2="215" y2="344"/><line x1="205.6" y1="328" x2="214.4" y2="328"/>
+    <line x1="206.3" y1="312" x2="213.7" y2="312"/><line x1="207" y1="298" x2="213" y2="298"/>
+  </g>
+  <path d="M204 284 H216 L210 276 Z" fill="#E9C46A"/>
+  <line x1="210" y1="276" x2="210" y2="260" stroke="#E9C46A" stroke-width="1.6"/>
+  <path d="M210 268 L221 264.5 L210 261 Z" fill="#8E2F23"/>
+  <use href="#a_star" x="210" y="255" fill="#FFE9B0" transform="translate(0,0)"/>
+  <use href="#a_star" x="186" y="272" fill="#E9C46A" opacity=".9" transform="scale(1)"/>
+  <use href="#a_star" x="234" y="272" fill="#E9C46A" opacity=".9"/>
+
+  <!-- White elephant -->
+  <g>
+    <rect x="88" y="524" width="9" height="28" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1"/>
+    <rect x="106" y="526" width="9" height="26" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1"/>
+    <rect x="124" y="526" width="9" height="26" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1"/>
+    <rect x="138" y="522" width="9" height="30" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1"/>
+    <ellipse cx="112" cy="512" rx="32" ry="21" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1.2"/>
+    <circle cx="149" cy="502" r="13" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1.2"/>
+    <path d="M143 492 Q130 485 129 499 Q133 507 143 504 Z" fill="#E2D7C0" stroke="#BBA06B" stroke-width=".8"/>
+    <path d="M154 500 Q168 507 166 521 Q165 533 156 535 Q151 536 151 531 Q158 528 158 519 Q158 509 150 506 Z" fill="#F0E8D7" stroke="#BBA06B" stroke-width="1"/>
+    <path d="M152 512 Q160 515 162 521" stroke="#FFFDF5" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <circle cx="146" cy="499" r="1.6" fill="#4A2A16"/>
+    <rect x="95" y="494" width="32" height="16" rx="3" fill="#8E2F23" stroke="#E9C46A" stroke-width="1.4"/>
+    <circle cx="102" cy="508" r="1.2" fill="#E9C46A"/><circle cx="111" cy="508" r="1.2" fill="#E9C46A"/><circle cx="120" cy="508" r="1.2" fill="#E9C46A"/>
+    <path d="M143 489 L155 489 L149 477 Z" fill="#E9C46A" stroke="#A8772B" stroke-width=".8"/>
+  </g>
+
+  <!-- King Anawrahta -->
+  <g transform="translate(26,0)">
+    <path d="M204 556 L212 470 Q236 458 260 470 L268 556 Z" fill="#8E2F23" stroke="#5C1810" stroke-width="1.6"/>
+    <path d="M208 538 H264" stroke="#E9C46A" stroke-width="1.6" opacity=".95"/>
+    <path d="M210 522 H262" stroke="#E9C46A" stroke-width="1.6" opacity=".95"/>
+    <path d="M218 470 Q236 461 254 470" stroke="#E9C46A" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <path d="M222 474 L254 512" stroke="#E9C46A" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M254 474 L222 512" stroke="#E9C46A" stroke-width="4.5" stroke-linecap="round"/>
+    <circle cx="238" cy="493" r="4" fill="#FFE9B0" stroke="#A8772B" stroke-width="1"/>
+    <path d="M212 478 L204 468 L213 459 L221 469 Z" fill="#8E2F23" stroke="#5C1810" stroke-width="1"/>
+    <circle cx="215" cy="443" r="4" fill="#E9C46A" stroke="#A8772B" stroke-width="1"/>
+    <rect x="212" y="447" width="6" height="14" fill="#5C1810" stroke="#E9C46A" stroke-width=".8"/>
+    <circle cx="215" cy="459" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="203" y="464" width="24" height="6" rx="2" fill="#E9C46A" stroke="#A8772B" stroke-width="1"/>
+    <polygon points="211,470 219,470 217,556 213,556" fill="#EFE6D2" stroke="#B9A06B" stroke-width="1"/>
+    <line x1="215" y1="474" x2="215" y2="552" stroke="#CDBE9C" stroke-width=".8"/>
+    <path d="M258 480 L266 488 L258 496 L250 488 Z" fill="#8E2F23" stroke="#5C1810" stroke-width="1"/>
+    <rect x="248" y="486" width="38" height="5" fill="#F0DDB0" stroke="#B9A06B" stroke-width=".8"/>
+    <rect x="250" y="492" width="38" height="5" fill="#F0DDB0" stroke="#B9A06B" stroke-width=".8"/>
+    <rect x="249" y="498" width="38" height="5" fill="#F0DDB0" stroke="#B9A06B" stroke-width=".8"/>
+    <line x1="268" y1="484" x2="268" y2="505" stroke="#8E2F23" stroke-width="2"/>
+    <circle cx="256" cy="507" r="6" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="230" y="437" width="12" height="9" fill="#E9BA8E"/>
+    <circle cx="236" cy="424" r="15" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="221" cy="425" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="251" cy="425" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="221" cy="430" r="1.5" fill="#E9C46A"/><circle cx="251" cy="430" r="1.5" fill="#E9C46A"/>
+    <path d="M227 424 Q231 427 235 424" stroke="#4A2A16" stroke-width="1.6" fill="none"/>
+    <path d="M237 424 Q241 427 245 424" stroke="#4A2A16" stroke-width="1.6" fill="none"/>
+    <line x1="233" y1="433" x2="239" y2="433" stroke="#7C4024" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="220" y="403" width="32" height="9" rx="2" fill="#E9C46A" stroke="#A8772B" stroke-width="1"/>
+    <polygon points="226,403 246,403 238,352 234,352" fill="url(#a_bell)" stroke="#A8772B" stroke-width="1"/>
+    <line x1="228" y1="392" x2="244" y2="392" stroke="#A8772B" stroke-width="1"/>
+    <line x1="230" y1="380" x2="242" y2="380" stroke="#A8772B" stroke-width="1"/>
+    <line x1="232" y1="368" x2="240" y2="368" stroke="#A8772B" stroke-width="1"/>
+    <path d="M220 409 Q204 407 200 393 Q210 399 220 397 Z" fill="#E9C46A" stroke="#A8772B" stroke-width=".8"/>
+    <path d="M252 409 Q268 407 272 393 Q262 399 252 397 Z" fill="#E9C46A" stroke="#A8772B" stroke-width=".8"/>
+    <use href="#a_star" x="236" y="348" fill="#FFE9B0"/>
+  </g>
+</g>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#a_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#a_kan" transform="translate(34,34)"/>
+<use href="#a_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#a_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#a_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#a_star" x="150" y="50" fill="#A8772B" transform="scale(1)"/>
+  <use href="#a_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">IV</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7">皇帝</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#a_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5">阿奴律陀</text>
+  <text x="210" y="649" font-size="11" letter-spacing="2" fill="#F3E5C3" opacity=".9" dx="-1">ANAWRAHTA · 蒲甘王朝 · 1014–1077</text>
+  <text x="210" y="677" font-size="13" letter-spacing="2" fill="#D8B56A" dx="-1">「三十二头白象，驮回一个信仰」</text>
+</g>
+</svg>
+5:[["$","$L10",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"]}],"$L13","$L14","$L15"]}]]
+12:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1014 – 1077"}],["$","h1",null,{"children":"阿奴律陀"}],["$","p",null,{"className":"person-hero__role","children":["蒲甘王朝奠基者",["$","span",null,{"className":"person-hero__alt","children":[" · ","Anawrahta / Aniruddha / 敏骚"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"他被命运除名了三十年，然后跨上战马，亲手把名字夺了回来。"}],["$","p",null,{"className":"person-hero__summary","children":"用三十年隐忍夺回王位，又以铁腕与佛法把一座边城铸成缅甸第一帝国。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","蒲甘王朝",{"children":"蒲甘王朝"}],["$","span","上座部佛教",{"children":"上座部佛教"}],["$","span","第一次统一",{"children":"第一次统一"}],["$","span","万塔之城",{"children":"万塔之城"}]]}]]}]
+13:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["王座脚下的险棋",null]}],[["$","p","0",{"className":"has-dropcap","children":"一〇一四年五月，雨季尚未漫上伊洛瓦底江的河滩，蒲甘的王宫里诞下一个男婴，乳名敏骚（Min Saw）。接生的人们朝他叩拜，因为他生在王座的脚下——他的父亲恭骠（Kunhsaw Kyaunghpyu）此刻正是蒲甘之主。"}],["$","p","1",{"className":"$undefined","children":"可这王座本身，就是一件沾着血与算计的器物。恭骠并非生来的国王，而是一个篡夺者：多年前他推翻旧王娘乌梭亚汉，把对方赶下台，又将旧王留下的三位王妃一并纳入自己后宫。其中两位入宫时已怀有身孕，先后为他生下两个男孩——骠（Kyiso）与苏格底（Sokkate）。恭骠把这两个本不属于自己血脉的孩子当作亲生骨肉抚养长大，待之如同己出。"}],["$","p","2",{"className":"$undefined","children":"于是在敏骚睁眼看见这个世界时，他身边已围着两位年长的兄长。父亲是夺来的江山，兄长是别人的种子，而他，是这座用阴谋堆起的宫殿里唯一名正言顺的嫡子。"}],["$","p","3",{"className":"$undefined","children":"那时的蒲甘，还只是伊洛瓦底江中游一座并不起眼的城邦。骠族的旧文明早已在数百年前凋零，缅人则像潮水一样从北方的山地缓缓渗入这片干热的平原，在焦渴的红土上耕作、筑墙、建塔。城邦虽小，却扼着大江的咽喉，谁握住蒲甘，谁就有机会握住整条伊洛瓦底江的命脉。也正因如此，这座小城的王座格外烫手——它值得人去夺，也就值得人去守、去再夺。"}],["$","p","4",{"className":"$undefined","children":"命运在敏骚出生的那一刻，就把一盘极凶险的棋摆在了他面前：一个篡位者的嫡子，生在两个异姓兄长的环伺之中，头顶悬着随时可能落下的刀。只是襁褓中的他还浑然不觉。宫墙之外，旱季的热风正一遍遍掠过空旷的红土平原——那片平原此刻还荒凉而沉默，却将在半个世纪后，由这个婴儿亲手栽满成千上万座金色的佛塔。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["寺院阴影",["$","span",null,{"className":"life-stage__sub","children":"三十年的隐忍"}]]}],[["$","p","0",{"className":"has-dropcap","children":"敏骚约莫六岁那年，宫廷的天倾覆了。骠与苏格底合谋发动政变，废黜了一手将他们养大的父亲。他们没有取恭骠的性命，却给了他另一种囚禁——逼这位昔日的国王剃度出家，从此终老于一座地方寺院的青灯古佛之下。骠登上王位，苏格底做了储君。"}],["$","p","1",{"className":"$undefined","children":"两位兄长倒也未对这个最小的弟弟下手，仍许他保留“王子”的名分。然而名分之下，是日复一日的寄人篱下。敏骚与母亲被安置在那座寺院近旁，他能做的，不过是日日为那位再不能称王的父亲奉茶、添灯、扫阶。他亲眼看着仇人坐进父亲空出的宝座，听着满朝文武向篡位者山呼；而他必须垂下眼睛，把翻涌的恨意一点一点收进一张温顺的、不引人注意的笑脸里。"}],["$","p","2",{"className":"$undefined","children":"一个孩子最先学会的本领，竟是隐藏。他学会了沉默，学会了等待，学会了在所有人面前显得无害。寺院的钟声一日日敲过，少年在钟声里慢慢长大，没有人留意这位安静的小王子心底究竟埋着什么。"}],["$","p","3",{"className":"$undefined","children":"也正是在这日复一日的奉侍里，命运悄悄塞给了他两样东西。其一是佛法——他在寺院的香火与诵经声中长大，从小耳濡目染那些关于因果、关于无常、关于忍辱的教义；这颗种子要等三十年后才会真正发芽，却终将长成他一生最重的执念。其二是耐心——别的王子在马场与宴席间挥霍少年时光，他却在一座庙宇的阴影里，学会了如何把时间当作武器，如何在漫长的等待中不让那簇火熄灭，也不让它过早地烧伤自己。"}],["$","p","4",{"className":"$undefined","children":"父亲那身褪去王袍、换上的赭色袈裟，像一道烙印，烫在他记忆最深处。那是他每天都要面对的、关于“失去”的功课：江山可以一夜易主，尊严可以被随手践踏，而一个人能保留的，唯有不动声色的隐忍，和一颗记得一切的心。这口气，他一咽，就是整整三十年。"}],["$","p","5",{"className":"$undefined","children":"一〇三八年，长兄骠去世，苏格底继承了王位。权力在两位兄长之间平稳交接，而敏骚依旧扮演着那个忠顺的弟弟。"}],["$","p","6",{"className":"$undefined","children":"这些年里，他没有任何反常之举。他娶了妻，养育子女——后来名震一时的萨鲁（Saw Lu）与江喜陀（Kyansittha），都在这段岁月里降生。值得玩味的是，江喜陀的生母本是一位被他疑心血统不纯而贬往乡野的女子；那个被父亲放逐的孩子，日后竟会成为蒲甘最伟大的君王之一——只是此刻，这一切都还深埋在命运未掀开的牌底。敏骚像所有安分守己的宗室一样过活，对国王恭敬有加，从不流露半分野心。表面看去，他似乎已经认了命：认了自己只是篡位者养子王朝下的一介闲散王子，认了父亲的冤屈将永远沉入历史的尘埃。"}],["$","p","7",{"className":"$undefined","children":"然而隐忍不是遗忘。三十年的等待，把少年时那簇火淬炼成了一种近乎冷酷的耐性。他在观察，在掂量，在等一个名正言顺、足以让整个蒲甘都站到他这一边的时机。他比谁都清楚：一个篡位者的儿子若要夺回属于父亲的东西，光有怒火远远不够。若他贸然行刺，便是乱臣贼子，会被史笔与人心一同唾弃；唯有等到对方先行越界、先失人心，他的反击才会被天下视作正义。于是他继续扮演那个最不起眼的弟弟，把锋芒藏进鞘里，日复一日地磨。"}],["$","p","8",{"className":"$undefined","children":"这是一场极其凶险的赌博——他赌的是自己的耐心比对方的德行更长久，赌的是苏格底迟早会犯下一个无法回头的错。多少人在这样漫长的蛰伏里磨钝了意志，认了命，泯然于众；可敏骚没有。命运欠他的，他打算连本带利地讨回来，而且要讨得理直气壮、毫无瑕疵。他只是还差最后一根点燃引线的火星——他甚至不必去寻，只需静静等着对方亲手把它送上门来。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["波巴山反旗",["$","span",null,{"className":"life-stage__sub","children":"一矛夺回姓名"}]]}],["$L16","$L17","$L18","$L19","$L1a","$L1b"]]}]]}],"$L1c","$L1d","$L1e"]}]}],"$L1f"]}]
+14:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","年代、即位、宗教改革与直通之役等史实，依《琉璃宫史》《大史》等缅甸史传及现代史家考订写成。",{"children":"年代、即位、宗教改革与直通之役等史实，依《琉璃宫史》《大史》等缅甸史传及现代史家考订写成。"}],["$","li","凡冠以“相传”“传说”者——如阿奴律陀以野水牛之劫了结杀业——为流传已久而难以确证的传说，已与信史区分。",{"children":"凡冠以“相传”“传说”者——如阿奴律陀以野水牛之劫了结杀业——为流传已久而难以确证的传说，已与信史区分。"}]]}]]}]
+15:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$L2",null,{"href":"/people/shin-arahan","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"教皇"}],"信阿罗汉"]}]]}],["$","$L2",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$L2",null,{"href":"/people/kyansittha","children":[["$","span",null,{"children":[["$","em",null,{"children":"战车"}],"江喜陀"]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+16:["$","p","0",{"className":"has-dropcap","children":"火星在一〇四四年迸出。苏格底做了一件越过界线的事：他竟将敏骚的生母也纳为自己的王后，又当众以“侄儿”相称——那是叔伯俯视子侄的口吻，是把敏骚连同他母亲的尊严一并踩进泥里的羞辱。压抑了半生的怒火，在这一刻轰然决堤。"}]
+17:["$","p","1",{"className":"$undefined","children":"敏骚不再隐藏。他奔赴波巴山——那座缅人眼中神灵盘踞、烟云缭绕的死火山——在那里举起反旗，向苏格底正式发出单挑的战书。这是他精心选择的方式：不是阴谋暗杀，不是夜半的刀，而是堂堂正正、众目睽睽下的决斗，让胜负交付给众神与命运裁决。三十年里他从未让人看见过锋芒，此刻却要在最亮的天光下，把它一次亮尽。苏格底应战了——身为国王，他无法拒绝一场公开的挑战而不失尊严。"}]
+18:["$","p","2",{"className":"$undefined","children":"两位王者各跨战马，在蒲甘近郊弥因迦巴的旷野上挺矛对冲。尘土被马蹄踏碎，扬起一片昏黄；围观的人屏住呼吸，看着这场将决定蒲甘归属的对决。三十年的屈辱、母亲所受的羞辱、父亲被夺走的王座，全都凝聚在那一击的矛尖上。八月十一日，敏骚的长矛贯穿了对手，苏格底连人带马，重重跌落进近旁的河水里，再没有起来。引线终于烧到了尽头，而点燃它的，正是苏格底自己。"}]
+19:["$","p","3",{"className":"$undefined","children":"胜利者做的第一件事，却出人意料。他没有立刻登基，而是捧着夺回的王冠，赶往那座寺院去寻找父亲——他想把这一切归还给那个本该拥有它的人。可那位早已习惯了钵盂与诵经的老僧，只是缓缓摇头。三十年的牢狱般的修行，已经磨平了他对王座的全部渴望；他放下了江山，也放下了仇恨，平静地把一切留给了儿子。那个画面里藏着一种深意：儿子用刀剑追回的东西，父亲却早已用佛法将它放下——同一座王座，在两代人眼中竟有着天壤之别的重量。"}]
+1a:["$","p","4",{"className":"$undefined","children":"于是同年十二月十六日，敏骚正式登基，取梵语“阿尼律陀”（Aniruddha，意为“无碍者”“不可阻挡者”）之名，自号阿奴律陀。这个名字仿佛是一句谶言——此后三十余年，他果真所向披靡，再无人能够阻挡。"}]
+1b:["$","p","5",{"className":"$undefined","children":"那一刻意义非凡。在他之前，蒲甘诸王的事迹大多湮没于传说，真伪难辨；而从他即位的这一年起，缅甸第一次有了能被石碑铭文相互印证的、可靠的信史。一个被命运除名了三十年的人，不仅夺回了自己的名字，更亲手为一整个民族的历史，划下了真正的起点。"}]
+1c:["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["佛法与帝国",["$","span",null,{"className":"life-stage__sub","children":"直通、三藏与万塔之城"}]]}],[["$","p","0",{"className":"has-dropcap","children":"夺取王位只是开始。真正让阿奴律陀超越所有前人的，是他在命运转折处遇见的一位僧人——来自南方直通王国的孟族高僧信阿罗汉（Shin Arahan）。"}],["$","p","1",{"className":"$undefined","children":"约一〇五六年，信阿罗汉北上来到蒲甘。这场会面，被后世史家视为缅甸佛教史上最关键的转折之一。彼时上缅甸盛行的，是积弊已深、面目可疑的阿利教：那群自称僧侣的人纵酒食肉、蓄养妻室、主持血腥的杀牲献祭，甚至以宗教之名强索民众的子女，气焰熏天，俨然是凌驾于王权之上的另一重势力。阿奴律陀对这群蠹虫早已深恶痛绝——一个曾亲眼见过权力如何被滥用的人，最容易认出另一种披着神圣外衣的腐朽。"}],["$","p","2",{"className":"$undefined","children":"信阿罗汉所传的清净上座部佛法，恰好给了他一把斩断旧势力的利剑；而他幼年在寺院钟声里埋下的那颗信仰的种子，也在此刻轰然苏醒，与僧人的教诲一拍即合。他像当年咽下屈辱时那样果决，雷厉风行地推行宗教改革：宣布王廷不再纵容阿利僧团对民众的盘剥与勒索，凡被其奴役者，一律开释为自由之身。一道王令，便斩断了那群蠹虫盘踞数百年的根。这既是虔诚，也是权术——他要让佛法只忠于王座，而非与王座分庭抗礼。"}],["$","p","3",{"className":"$undefined","children":"改革需要根基，而最纯正的经典与僧团在南方。一〇五七年，他以直通拒绝出借巴利三藏经典为由，挥师南下。蒲甘大军围城三月，终于攻克这座孟族古都。相传他动用了浩浩荡荡的象队，将三藏经卷、博学的僧侣、以及无数能工巧匠一并驮回北方——据说连直通的国王摩奴诃也被一同掳来，从此沦为蒲甘的阶下囚。一座城邦数百年积累的信仰、文字与技艺，就这样被一场远征整个移植到了蒲甘的土地上。从此，“万塔之城”开始在干热的平原上一座座拔地而起；那些日后令全世界惊叹、绵延数十平方公里的庙宇与佛塔，正是从这批南来工匠之手生长出来的。征服者掠走的不止是财宝，更是一整套文明的火种。"}],["$","p","4",{"className":"$undefined","children":"他不只征服，更善于经营。他修筑堰渠，引水灌溉，把焦渴的荒原变成上缅甸的粮仓，为这个新生的帝国奠下经济的命脉——正是这片由水利养出的稻田，让上缅甸在此后数百年里始终有力量俯瞰并主宰整条大江。他第一次将整条伊洛瓦底江流域真正统一在一面旗帜之下，又使北方的掸邦与西面的阿拉干俯首称臣，向南挡住了强盛的高棉帝国北上的兵锋，使蒲甘一跃成为当时中南半岛上最举足轻重的两大强权之一。"}],["$","p","5",{"className":"$undefined","children":"文化也随刀剑一同北上。直通的孟人带来了成熟的文字与艺术，缅人开始借用孟文书写自己的语言——已知最早的缅地铭文，恰恰就出现在直通陷落后的次年。一个尚在草创的民族，就这样借来了文明的骨架。他着手兴建宏伟的瑞喜宫塔（Shwezigon），要让它成为整个王国信仰与朝圣的中心。一〇七一年，连远在海外、正被南印度泰米尔人威胁的锡兰国王，也遣使渡海而来，恳请蒲甘派遣高僧与经典，去重振那里几近断绝的佛法——昔日佛法东传的源头，如今反过来向这片新兴的土地求援。"}],["$","p","6",{"className":"$undefined","children":"那个曾被踩进尘土、每日为落难父亲添灯的孩子，如今竟成了庇护整个东南亚上座部佛教的屋脊。命运兜了一个巨大的圈，把最卑微的隐忍，酿成了最辉煌的功业；而他幼时在寺院钟声里埋下的那颗信仰的种子，终于长成了一片足以荫蔽万民的菩提。"}]]]}]]}]
+1d:["$","section","4",{"className":"life-stage","id":"stage-5","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"5"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["法度与孤独",["$","span",null,{"className":"life-stage__sub","children":"缅甸之父的晚景"}]]}],[["$","p","0",{"className":"has-dropcap","children":"帝国成形了，而缔造它的人，依旧是那个以铁腕律己、也以铁腕律人的严苛君主。"}],["$","p","1",{"className":"$undefined","children":"帝国成形之后，阿奴律陀并未停下脚步。他仍频频跨上战马，巡视自己用半生打下的辽阔疆土；他继续在蒲甘的平原上竖起一座又一座佛塔，仿佛要用砖石把信仰永远钉进这片土地。瑞喜宫塔的塔基在他手中奠定，金色的塔身一寸寸向天空生长；他颁布法度，规整赋税，亲手缔造出一套缜密的行政体系——此后两百多年间，历代蒲甘君王几乎都不曾偏离他立下的成法，直到王朝倾覆的那一天。一个人立下的规矩，竟主宰了一个帝国此后大半的寿命。"}],["$","p","2",{"className":"$undefined","children":"他治国以严，律己尤甚。在臣民眼中，这位君王像他统一的土地一样坚硬而不容置疑；他赏罚分明，言出法随，把那份从童年起就磨砺出来的冷峻，化成了支撑整座帝国的脊梁。"}],["$","p","3",{"className":"$undefined","children":"然而，缔造者终究要面对一种孤独的重量。他曾从虚无中夺回名字，又从分裂中铸成一国，可一个把毕生都献给“建立”的人，终究要面对自己也无法永远握住一切的事实。他立长子萨鲁为储——那是个性情远不及父亲坚毅的儿子；而另一个曾被他放逐、连血脉都遭他亲口怀疑的儿子江喜陀，此刻正流落在远方。或许在某个巡边的黄昏，望着自己亲手点亮的万千塔尖在落日里燃烧成一片金红，这位“缅甸之父”也曾隐隐预感：他用一生筑起的东西，能否在自己合眼之后继续屹立，已不再是他能掌控的事了。砖石会留下，可人心未必。"}]]]}]]}]
+1e:["$","section","5",{"className":"life-stage","id":"stage-6","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"6"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["野牛传说",["$","span",null,{"className":"life-stage__sub","children":"权势尽头的无常"}]]}],[["$","p","0",{"className":"has-dropcap","children":"一〇七七年，这位君王走到了生命的尽头，享年六十二。"}],["$","p","1",{"className":"$undefined","children":"关于他的死，史书与传说在此处再度难分彼此。民间最广为流传的说法是：他死于一头野水牛的犄角之下——有人说那并非寻常的牲畜，而是他生前所造杀业、所结冤孽的化身，特意转世前来索命，让这位以武立国、一生征伐不息的君王，最终死在一头无名野兽的角上，作为某种因果的了结。也有传说称，那头牛本是他下令处死的某个人转世，循着前世的怨恨，一路寻来。而严谨的现代史家面对这扑朔迷离、众说纷纭的记载，终究无法断言他究竟死于意外、暗杀还是别的什么，只能含糊地写下四个字：死因不明。"}],["$","p","2",{"className":"$undefined","children":"这结局有一种残酷的对称。他的一生，本就行走在史实与神话交叠的边界上：他的童年笼罩在传说的雾里，他的崛起被吟游艺人反复传唱，就连他的死，也注定要以一则离奇的寓言收场。一个以暴力夺取一切、又以铁腕守护一切的君王，最终倒在一头不具姓名的野兽角下——仿佛连命运也要借此提醒世人：再煊赫的权势，也敌不过那只无形之手随手的一拨。"}],["$","p","3",{"className":"$undefined","children":"可剥去神话的外壳，他留下的东西无比真实。统一的伊洛瓦底江、扎根的上座部佛教、生长不息的万塔之城、缜密的行政成法，以及一个从他开始才真正拥有信史的民族——后世尊他为“缅甸之父”，绝非溢美。他用三十年的隐忍换来三十余年的君临，把一座边陲小城，变成了一个将存续两个多世纪的帝国的心脏。"}],["$","p","4",{"className":"$undefined","children":"他把王位传给了萨鲁，那个温顺却柔弱的长子；而那个被他放逐多年、连血脉都曾被他亲口怀疑的另一个儿子江喜陀，正在遥远的牧场上默默等待着属于自己的命运。父亲埋下的因，将由两个儿子去结不同的果：一个会把帝国推向险些崩解的边缘，另一个则会让它抵达前所未有的辉煌。一个时代就此落幕，另一段更曲折离奇的传奇，即将从这位君王身后，缓缓启程。"}]]]}]]}]
+1f:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L2","kyansittha",{"href":"/people/kyansittha","children":[["$","strong",null,{"children":"江喜陀"}],["$","span",null,{"children":"父与子 · 放逐与继承"}]]}],["$","$L2","manuha",{"href":"/people/manuha","children":[["$","strong",null,{"children":"摩奴诃"}],["$","span",null,{"children":"征服者与被征服者"}]]}],["$","$L2","shin-arahan",{"href":"/people/shin-arahan","children":[["$","strong",null,{"children":"信阿罗汉"}],["$","span",null,{"children":"君王与僧王 · 刀剑与佛火"}]]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L2","shin-arahan",{"href":"/people/shin-arahan","children":[["$","strong",null,{"children":"信阿罗汉"}],["$","span",null,{"children":"蒲甘王朝国师（历四朝）"}]]}],["$","$L2","kyansittha",{"href":"/people/kyansittha","children":[["$","strong",null,{"children":"江喜陀"}],["$","span",null,{"children":"蒲甘王朝第三代君王"}]]}],["$","$L2","alaungsithu",{"href":"/people/alaungsithu","children":[["$","strong",null,{"children":"阿朗悉都"}],["$","span",null,{"children":"蒲甘王朝君主"}]]}],["$","$L2","narathihapate",{"href":"/people/narathihapate","children":[["$","strong",null,{"children":"那罗梯诃波帝"}],["$","span",null,{"children":"蒲甘末代君主"}]]}]]}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+d:[["$","title","0",{"children":"阿奴律陀 · 皇帝 | 伊洛瓦底的王冠"}],["$","meta","1",{"name":"description","content":"用三十年隐忍夺回王位，又以铁腕与佛法把一座边城铸成缅甸第一帝国。"}]]

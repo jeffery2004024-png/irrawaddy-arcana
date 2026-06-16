@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+f:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+10:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+3:T1858,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：高塔 · 底哈帕德">
+
+<defs>
+  <linearGradient id="thihapate_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#3A4050"/><stop offset=".58" stop-color="#785252"/><stop offset="1" stop-color="#171B25"/>
+  </linearGradient>
+  <linearGradient id="thihapate_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#C9A45B"/>
+  </linearGradient>
+  <radialGradient id="thihapate_glow" cx=".5" cy=".45" r=".62">
+    <stop offset="0" stop-color="#FFEFC0" stop-opacity=".48"/><stop offset="1" stop-color="#FFEFC0" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="thihapate_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="thihapate_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="thihapate_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  
+  <g id="thihapate_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+<g clip-path="url(#thihapate_win)">
+<rect x="58" y="100" width="304" height="470" fill="url(#thihapate_sky)"/>
+<circle cx="210" cy="318" r="154" fill="url(#thihapate_glow)"/>
+
+  <g>
+    <rect x="58" y="470" width="304" height="100" fill="#263D36"/>
+    <path d="M58 472 Q146 462 178 504 Q204 538 164 570 L112 570 Q158 530 138 504 Q116 478 58 494 Z" fill="#3A6D9B" opacity=".95"/>
+    <path d="M150 492 q11 4 18 12" stroke="#DCEAF1" stroke-opacity=".7" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <path d="M154 528 q9 5 12 14" stroke="#DCEAF1" stroke-opacity=".62" stroke-width="2" stroke-linecap="round" fill="none"/>
+  </g>
+<g transform="translate(300,412)"><rect x="-26" y="-110" width="52" height="150" fill="#7A6250" stroke="#3D2E25"/><path d="M-26 -110 L-12 -140 L2 -110 L16 -142 L26 -110 Z" fill="#8B714F" stroke="#3D2E25"/></g>
+<g stroke="#D8D0B4" stroke-width="2.4" opacity=".82"><path d="M122 130 L92 208 L126 196 L102 268"/><path d="M310 148 L282 222 L318 204 L292 278"/></g>
+<g transform="translate(108,526) rotate(-12)"><path d="M-24 12 L-18 -12 L-5 2 L4 -18 L14 4 L26 -10 L22 12 Z" fill="#C9A45B" stroke="#7B5A22"/><path d="M-4 -2 L4 12" stroke="#7B2D22" stroke-width="2"/></g>
+
+  <g>
+    <g transform="translate(258,458) rotate(15)"><path d="M-22 10 L-16 -10 L-4 2 L4 -16 L14 4 L24 -8 L20 10 Z" fill="#C9A45B" stroke="#7B5A22"/></g>
+    <path d="M180 556 L186 452 Q210 438 234 452 L240 556 Z" fill="#5E2B32" stroke="#172820" stroke-width="1.5"/>
+    <path d="M190 470 Q210 462 230 470" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 488 Q210 480 230 488" stroke="#E9C46A" stroke-width="2" fill="none" opacity=".85"/>
+    <path d="M190 464 Q172 478 166 496" stroke="#5E2B32" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="164" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <path d="M230 464 Q248 478 254 496" stroke="#5E2B32" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="256" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="204" y="423" width="12" height="12" fill="#E9BA8E"/>
+    <circle cx="210" cy="405" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="195" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <rect x="195" y="386" width="30" height="8" rx="2" fill="#E9C46A" stroke="#A8772B"/><polygon points="201,386 219,386 212,341 208,341" fill="url(#thihapate_gold)" stroke="#A8772B"/><use href="#thihapate_star" x="210" y="336" fill="#FFF6DC"/>
+    <path d="M202 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M212 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    
+    <path d="M206 415 q4 3 8 0" stroke="#6E4226" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <path d="M201 418 Q210 432 219 418 Q214 438 210 438 Q206 438 201 418 Z" fill="#D9D3C8" opacity=".85"/>
+  </g>
+</g>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#thihapate_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#thihapate_kan" transform="translate(34,34)"/>
+<use href="#thihapate_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#thihapate_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#thihapate_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#thihapate_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#thihapate_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">XVI</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7.0">高塔</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#thihapate_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5.0">底哈帕德</text>
+  <text x="210" y="649" font-size="11" letter-spacing="1.4" fill="#F3E5C3" opacity=".9">THIHAPATE · 实皆王国 · 约1305–1364</text>
+  <text x="210" y="677" font-size="13" letter-spacing="1.8" fill="#D8B56A">「风暴到了尽头，末王只剩回声」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"约1305 – 1364"}],["$","h1",null,{"children":"底哈帕德"}],["$","p",null,{"className":"person-hero__role","children":["实皆王国末代君主",["$","span",null,{"className":"person-hero__alt","children":[" · ","Thihapate"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"风暴尽头的末代王"}],["$","p",null,{"className":"person-hero__summary","children":"他不是凭血统、而是凭一桩婚姻坐上王座的；他在位的十二年，恰逢北方掸族的铁蹄一年年南下。当他亲手把警告他的继子投入牢狱时，并不知道——那个囚徒，将是处死他、并在他王国的灰烬上建起一个新帝国的人。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","实皆",{"children":"实皆"}],["$","span","末代",{"children":"末代"}],["$","span","中缅甸",{"children":"中缅甸"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["大臣之子，公主之夫",null]}],[["$","p","0",{"className":"has-dropcap","children":"约 1305 年，底哈帕德（Thihapate，又称敏标·底哈帕德 Minbyauk Thihapate）出生。关于他的早年与家世，史册记载寥寥——只知他是蒲甘太后蒲娑（Pwa Saw）之姊的外孙，因而身上流着一缕蒲甘王室的血。他的父亲，是实皆宫廷里的一位大臣；据学者推断，这位大臣，很可能正是当时实皆真正的掌权者——权臣南达·帕坚（Nanda Pakyan）本人。"}],["$","p","1",{"children":"那是一个王座轻如鸿毛的年代。自苏云身后，实皆的朝政便落入南达·帕坚之手；从十四世纪三十年代到五十年代，这位权臣接连扶立、操纵着一个又一个软弱的君主，实皆的国王，不过是他棋盘上的过客。"}],["$","p","2",{"children":"1351 年末至 1352 年初，底哈帕德迎娶了刚刚守寡的苏敏公主（Soe Min Kodawgyi）——实皆开国之君苏云的女儿。几乎在同时，苏敏之弟、年仅二十五岁的国王多罗钵耶二世（Tarabya II）猝然离世，膝下无嗣。王位悬空，群臣无人可继，于是推举底哈帕德继位（一说为摄政）。他与苏敏的这桩婚姻，多半本就是这场推举的一环。"}],["$","p","3",{"children":"就这样，底哈帕德不是凭着自己的血脉，而是凭着一桩与公主的联姻，坐上了实皆的王座。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["暴风雨前的宁静",null]}],[["$","p","0",{"className":"has-dropcap","children":"登基之初的几年，是相对太平的。"}],["$","p","1",{"children":"底哈帕德延续前朝的方略，与隔江相望的宿敌彬牙维持着和睦。表面看去，这个小邦总算迎来了喘息之机。"}],["$","p","2",{"children":"可这不过是暴风雨前的宁静。"}],["$","p","3",{"children":"就在实皆的视线之外，北方的群山之中，一股新的力量正在崛起。掸族的孟卯（Mong Mao，明代汉籍称之为“麓川”）部，在其雄主思可法（Si Kefa）的统领下，自十四世纪四十年代起便屡屡抗拒蒙古（元朝）的征讨，并连挫元军三度征伐。到 1355 年前后，孟卯已实质上挣脱了蒙古的羁縻，转而将贪婪的目光，投向了富庶的伊洛瓦底江流域。"}],["$","p","4",{"children":"风暴，正从北方压来。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["联姻与背弃",null]}],[["$","p","0",{"className":"has-dropcap","children":"1356 至 1357 年的旱季，掸军第一次大举袭掠实皆北境。这一回，实皆的防线勉强守住了；但底哈帕德与苏敏都已敏锐地察觉到：来犯之敌，绝非寻常的劫掠者，而是一个志在南下的强敌。"}],["$","p","1",{"children":"为求自保，他们转向南方的彬牙，谋求更紧密的同盟。1357 年前后，他们将苏敏的长女、底哈帕德的继女信苏吉公主（Shin Saw Gyi），远嫁给彬牙王觉苏瓦二世，以联姻缔结攻守之盟。"}],["$","p","2",{"children":"然而，这场同盟没能带来任何实质的庇护。彬牙的觉苏瓦二世，自己也号令不出皎施的核心区域，既无力北援实皆，又要勉力弹压南方的属邦。1358 至 1359 年，掸军卷土重来；彬牙南方的属国东吁趁机反叛，从背后袭击彬牙——南北夹击之下，掸族的铁骑长驱直入，将实皆与彬牙的疆土一并踏破。觉苏瓦二世死于这场兵燹之中。彬牙的新王那罗都（Narathu），见势不妙，索性退出了同盟。"}],["$","p","3",{"children":"实皆，被孤零零地抛在了风暴的正中央。"}]]]}]]}],["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["太公的失守",null]}],[["$","p","0",{"className":"has-dropcap","children":"孤立无援的底哈帕德，把北境最后的屏障，托付给了一个少年。"}],["$","p","1",{"children":"1360 年前后，他任命继子达多敏标（Thado Minbya）为太公（Tagaung）总督——那是实皆最北端的领土，直面掸族兵锋的第一道门户。可一个十几岁的王子，又怎挡得住这倾国而来的铁蹄？掸军不仅踏破了太公，更在 1362 至 1363 年间，一路南掠，直抵彬牙。"}],["$","p","2",{"children":"更致命的是，此时的彬牙，竟掉转身来，与孟卯结盟，两国约定合击实皆——彬牙甘为偏师，封锁实皆的江港。次年旱季，掸军再度淹没太公，达多敏标仅以身免，狼狈逃回。"}],["$","p","3",{"children":"而在实皆的王宫里，等待这位继子的，不是慰藉，而是雷霆之怒。底哈帕德为太公的失守而震怒，根本听不进达多敏标的警告——这少年极力陈说：今岁来犯之敌远胜往年，王都本身已危在旦夕，国王需要他留下来共守实皆。底哈帕德不为所动，反将他投入加卡瓦亚（Kya-Khat-Wa-Ya）的牢狱——那是实皆以南、伊洛瓦底江畔的一座小城。"}],["$","p","4",{"children":"他把唯一能为他死战的人，亲手关进了大牢。"}]]]}]]}],["$","section","4",{"className":"life-stage","id":"stage-5","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"5"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["三面围城",null]}],[["$","p","0",{"className":"has-dropcap","children":"底哈帕德所预料的，是又一轮席卷乡野的劫掠；他万万没有想到的，是一场针对王都本身的围城。"}],"$La","$Lb","$Lc"]]}]]}],"$Ld"]}]}],"$Le"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","属信史（与权威学术资料相符者）：底哈帕德约生于 1305 年、卒于 1364 年（约 5 月）；家世记载稀少，为蒲甘太后蒲娑之姊（即蒲甘王后、那罗梯诃波帝之妃）的外孙，其父为实皆朝廷大臣；约 1352 年因迎娶寡居的苏敏公主（苏云之女）、并值国王多罗钵耶二世无嗣而亡，被群臣推举即位（一说摄政）；在位前期与彬牙维持和平；1355 年前后孟卯（麓川）在思可法统领下脱离蒙古、转而南侵；1356—57 年实皆首遭掸军袭掠，遂以联姻（信苏吉嫁彬牙觉苏瓦二世）结盟，然同盟无功，1358—59 年觉苏瓦二世死、彬牙退盟；1360 年前后任继子达多敏标为太公总督，旋因太公失守而怒囚之；1364 年 4 月掸军",{"children":"属信史（与权威学术资料相符者）：底哈帕德约生于 1305 年、卒于 1364 年（约 5 月）；家世记载稀少，为蒲甘太后蒲娑之姊（即蒲甘王后、那罗梯诃波帝之妃）的外孙，其父为实皆朝廷大臣；约 1352 年因迎娶寡居的苏敏公主（苏云之女）、并值国王多罗钵耶二世无嗣而亡，被群臣推举即位（一说摄政）；在位前期与彬牙维持和平；1355 年前后孟卯（麓川）在思可法统领下脱离蒙古、转而南侵；1356—57 年实皆首遭掸军袭掠，遂以联姻（信苏吉嫁彬牙觉苏瓦二世）结盟，然同盟无功，1358—59 年觉苏瓦二世死、彬牙退盟；1360 年前后任继子达多敏标为太公总督，旋因太公失守而怒囚之；1364 年 4 月掸军"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$Lf",null,{"href":"/people/sawyun","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"星"}],"苏云"]}]]}],["$","$Lf",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$Lf",null,{"href":"/people/thadominbya","children":[["$","span",null,{"children":[["$","em",null,{"children":"魔术师"}],"多敏帕"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+a:["$","p","1",{"children":"掸军三面合围，将实皆死死困住；彬牙则依约封锁江港——尽管那封锁松弛而漏洞百出。1364 年 4 月，掸军终于破城而入。当惊惶的实皆百姓纷纷渡过伊洛瓦底江、奔向对岸的彬牙求生之际，底哈帕德与王室一行，悄悄登舟，顺流南遁，逃向加卡瓦亚。"}]
+b:["$","p","2",{"children":"那座他用来囚禁继子的小城，如今成了他自己最后的避难之所。"}]
+c:["$","p","3",{"children":"可命运早已在那里，为他备下了一个无法回避的结局。"}]
+d:["$","section","5",{"className":"life-stage","id":"stage-6","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"6"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["嫁衣",["$","span",null,{"className":"life-stage__sub","children":"实皆的终局"}]]}],[["$","p","0",{"className":"has-dropcap","children":"当底哈帕德的船抵达加卡瓦亚时，达多敏标正在那里等着他。"}],["$","p","1",{"children":"那位被他投入大牢的继子，早已被一批暗中拥戴他的朝臣放出。少年王子下令处死了自己的继父，夺取了王位——时约 1364 年 5 月。立国近五十年的实皆王国，连同它最后一位君主，就此画上了句点。"}],["$","p","2",{"children":"而历史的反讽，还远不止于此。"}],["$","p","3",{"children":"那支踏破实皆的孟卯大军，因不满彬牙封锁江港时的敷衍，掉头渡江，将彬牙也一并洗劫，掳走了彬牙王那罗都与无数财货。上缅甸的两座王城，在同一年里相继化为焦土。废墟之上，正是底哈帕德昔日的阶下囚、苏云的外孙、底哈都的曾外孙达多敏标，趁乱而起。1364 年 9 月，他攻取彬牙，自立为南北两国之君；翌年，他在伊洛瓦底江与米界河的交汇处——也就是当年底哈都曾相中、却终未启用的那块要地——建起了阿瓦（Inwa）王国。"}],["$","p","4",{"children":"此后两百年，阿瓦将雄踞上缅甸，成为缅甸历史新的重心。"}],["$","p","5",{"children":"这便是底哈帕德的宿命。他不是凭血统、而是凭一桩婚姻登上王座；他在位的整整后半段，都被北方的铁蹄追着奔逃；他最大的错，是在最危急的关头，把唯一能救他的人推开、囚禁——而那个人，最终成了终结他、也终结他王国的人。"}],["$","p","6",{"children":"实皆五十年的国祚，到他这里耗尽；可正是从他的覆灭里，升起了一个统御缅甸两个世纪的帝国。他像一位浑然不觉的裁缝，用自己王国的最后一缕丝线，为他人缝就了一袭崭新的王袍——那袭王袍，名叫阿瓦。"}]]]}]]}]
+e:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lf","sawyun",{"href":"/people/sawyun","children":[["$","strong",null,{"children":"苏云"}],["$","span",null,{"children":"实皆王统的开创者"}]]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lf","athinkhaya",{"href":"/people/athinkhaya","children":[["$","strong",null,{"children":"阿辛迦耶"}],["$","span",null,{"children":"中缅甸敏象长兄与无冠奠基者"}]]}],["$","$Lf","yazathingyan",{"href":"/people/yazathingyan","children":[["$","strong",null,{"children":"亚扎丁坚"}],["$","span",null,{"children":"敏象三兄弟中的沉默支轴"}]]}],["$","$Lf","thihathu",{"href":"/people/thihathu","children":[["$","strong",null,{"children":"底哈都"}],["$","span",null,{"children":"蒲甘的掘墓人与继承者"}]]}],["$","$Lf","kyawswa-i",{"href":"/people/kyawswa-i","children":[["$","strong",null,{"children":"觉苏瓦一世"}],["$","span",null,{"children":"彬牙中兴之主"}]]}],["$","$Lf","sawyun",{"href":"/people/sawyun","children":[["$","strong",null,{"children":"苏云"}],["$","span",null,{"children":"实皆王国开创者"}]]}]]}]]}]]}]
+12:null

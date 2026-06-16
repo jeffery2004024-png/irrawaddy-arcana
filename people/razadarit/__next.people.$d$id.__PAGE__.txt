@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+e:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+f:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+3:T17fe,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：战车 · 罗娑陀利">
+
+<defs>
+  <linearGradient id="razadarit_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#2B395E"/><stop offset=".58" stop-color="#9A322D"/><stop offset="1" stop-color="#151A31"/>
+  </linearGradient>
+  <linearGradient id="razadarit_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#E9C46A"/>
+  </linearGradient>
+  <radialGradient id="razadarit_glow" cx=".5" cy=".45" r=".62">
+    <stop offset="0" stop-color="#FFEFC0" stop-opacity=".48"/><stop offset="1" stop-color="#FFEFC0" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="razadarit_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="razadarit_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="razadarit_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  
+  <g id="razadarit_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+<g clip-path="url(#razadarit_win)">
+<rect x="58" y="100" width="304" height="470" fill="url(#razadarit_sky)"/>
+<circle cx="210" cy="318" r="154" fill="url(#razadarit_glow)"/>
+
+  <g>
+    <rect x="58" y="470" width="304" height="100" fill="#263D36"/>
+    <path d="M58 472 Q146 462 178 504 Q204 538 164 570 L112 570 Q158 530 138 504 Q116 478 58 494 Z" fill="#3A6D9B" opacity=".95"/>
+    <path d="M150 492 q11 4 18 12" stroke="#DCEAF1" stroke-opacity=".7" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <path d="M154 528 q9 5 12 14" stroke="#DCEAF1" stroke-opacity=".62" stroke-width="2" stroke-linecap="round" fill="none"/>
+  </g>
+<g fill="#E9C46A" stroke="#A8772B" stroke-width=".7"><path d="M86 206 q22 -12 42 0 q-14 14 -42 0z"/><path d="M332 206 q-22 -12 -42 0 q14 14 42 0z"/></g>
+<g><line x1="98" y1="370" x2="98" y2="514" stroke="#6B4A22" stroke-width="3"/><path d="M98 374 L144 386 L98 402 Z" fill="#8E2F23" stroke="#C98E2E"/><line x1="322" y1="370" x2="322" y2="514" stroke="#6B4A22" stroke-width="3"/><path d="M322 374 L276 386 L322 402 Z" fill="#8E2F23" stroke="#C98E2E"/></g>
+
+  <g>
+    <line x1="248" y1="462" x2="284" y2="332" stroke="#ECE6D4" stroke-width="5" stroke-linecap="round"/><rect x="240" y="452" width="28" height="7" rx="2" fill="#E9C46A" stroke="#A8772B"/>
+    <path d="M180 556 L186 452 Q210 438 234 452 L240 556 Z" fill="#8E2F23" stroke="#4A1A14" stroke-width="1.5"/>
+    <path d="M190 470 Q210 462 230 470" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 488 Q210 480 230 488" stroke="#E9C46A" stroke-width="2" fill="none" opacity=".85"/>
+    <path d="M190 464 Q172 478 166 496" stroke="#8E2F23" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="164" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <path d="M230 464 Q248 478 254 496" stroke="#8E2F23" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="256" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="204" y="423" width="12" height="12" fill="#E9BA8E"/>
+    <circle cx="210" cy="405" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="195" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <rect x="195" y="386" width="30" height="8" rx="2" fill="#E9C46A" stroke="#A8772B"/><polygon points="201,386 219,386 212,352 208,352" fill="url(#razadarit_gold)" stroke="#A8772B"/><use href="#razadarit_star" x="210" y="346" fill="#FFF6DC"/>
+    <path d="M202 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M212 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    
+    <path d="M206 415 q4 3 8 0" stroke="#6E4226" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <path d="M202 417 q8 8 16 0 q-3 10 -8 10 q-5 0 -8 -10z" fill="#2A1710" opacity=".55"/>
+  </g>
+</g>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#razadarit_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#razadarit_kan" transform="translate(34,34)"/>
+<use href="#razadarit_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#razadarit_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#razadarit_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#razadarit_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#razadarit_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">VII</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7.0">战车</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#razadarit_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5.0">罗娑陀利</text>
+  <text x="210" y="649" font-size="11" letter-spacing="1.4" fill="#F3E5C3" opacity=".9">RAZADARIT · 汉达瓦底王国 · 1384–1421</text>
+  <text x="210" y="677" font-size="13" letter-spacing="1.8" fill="#D8B56A">「江水两岸，尽是他的回声」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1368 – 1421"}],["$","h1",null,{"children":"罗娑陀利"}],["$","p",null,{"className":"person-hero__role","children":["汉达瓦底君主（王中之王）",["$","span",null,{"className":"person-hero__alt","children":[" · ","Razadarit / 宾尼亚·内 / Binnya Nwe"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"他为逃避复仇而杀子，却以这一杀，亲手为自己铸成了那个差点将他葬送的天敌。"}],["$","p",null,{"className":"person-hero__summary","children":"舌带法轮而生的“王中之王”，以子叛父、又亲手杀子，在四十年缅孟战火中独力撑起孟人王国。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","汉达瓦底",{"children":"汉达瓦底"}],["$","span","四十年战争",{"children":"四十年战争"}],["$","span","以子叛父",{"children":"以子叛父"}],["$","span","统一者",{"children":"统一者"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["舌上的轮回印",null]}],[["$","p","0",{"className":"has-dropcap","children":"公元1368年1月28日，伐丽流家族的血脉传到了东温——这一回降生的男婴，名叫宾尼亚·内（Binnya Nwe）。论世系，他正是开国之君伐丽流的直系后裔：伐丽流之弟昆劳的曾孙、伐丽流的曾侄孙。八十年的光阴，让那个象厩平民的家族，绕了一圈又回到了它最初崛起的土地。据《罗娑陀利传》记载，这孩子生而异相：舌头上天生带着一个法轮（chakra）形状的胎记，因而被取了一个占星之名，意为“舌带法轮者”。在那个笃信因果与轮回的世界里，这样的胎记是吉是凶，无人说得清——但它仿佛从一开始就在暗示：这是一个被某种宿命亲手标记过的孩子，他的一生，注定要与“轮回”二字纠缠不清。"}],["$","p","1",{"children":"然而上天给他的开局，却是接连的剥夺。生母在产下他后不久便溘然长逝，他被父亲的姊妹、大光（Dagon，今仰光）的摩诃黛维（Maha Dewi）公主收养。据传，当幼小的内被带回宫中拜见父亲时，久病的国王宾尼亚·乌（Binnya U）一见之下竟大为错愕，说这孩子与自己毫不相像。父子之间，不知为何，自始便亲近不起来。尽管身为长子，内却没能成为王储：父亲偏爱另一位宠妃所出的王子巴安蒙（Baw Ngan-Mohn），有意立其为嗣。在父亲眼中，这个长子粗野、桀骜、心狠手辣；这位久病缠身的国王，甚至明明白白地告诉妹妹：内，绝不可继承王位。"}],["$","p","2",{"children":"一个被生母之死夺去温情、被父亲当面嫌弃、被排除在王座之外的长子。命运一面在他舌上刻下轮回的印记，一面又把他狠狠推向边缘——而被逼到墙角的猛兽，往往最是危险。这孩子心里淤积的怨与狠，终有一天，会以整个王朝都为之震动的方式，喷薄而出。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["以子叛父，十六岁的王中之王",null]}],[["$","p","0",{"className":"has-dropcap","children":"宾尼亚·内一旦有了力量，便以同样的桀骜回敬了父亲。1382至1383年间，这个十四岁的少年做下了一桩令病中老王勃然震怒的事：他与自己同父异母的妹妹达拉米道（Tala Mi Daw）私奔。小情侣旋即被擒，国王盛怒，将内打入大牢；多亏养母摩诃黛维一再向兄长求情，才放他出来，并准许这对少年完婚。可这桩婚事丝毫没能修补父子的裂痕。更糟的是，内听信了大臣泽比（Zeik-Bye）的挑唆，认定已然大权独揽的养母摩诃黛维，正图谋将自己的情夫扶上王座——养母，也成了他眼中的祸患。"}],["$","p","1",{"children":"1383年5月5日，宾尼亚·内抛下新婚且已怀有身孕的妻子，仅带三十人逃往大光，一举夺占了那里的总督府。起初无人当真，都以为这不过是个躁动少年的胡闹，很快便会如往常一样被擒回。可内一面写来措辞恭顺的书信，声称三月之内便归，一面却在暗中四处招揽地方头领，悄然壮大自己的羽翼。等到勃固方面终于发觉这是一场叛乱、勉强派出三路大军（来自勃固、马都八、缪妙）讨伐时，他已布下了周密的算计。"}],["$","p","2",{"children":"这场对决，最见这少年的枭雄本色。他深知三路大军合力则己必败，于是再施分化之策：他遣使分别游说马都八与缪妙两营，宣称这场仗“只是他与母亲之间的家事”。缪妙的劳比亚（Laukpya）一盘算，觉得勃固内乱正合自己半独立的心意，竟掉头退兵；马都八一军随后也得出同样结论，撤了。三路大军，转眼只剩勃固一路。1383年11月19日，内向勃固先锋发起突袭，对方主将一见泽比的后军按兵不动，顿时丧胆而逃。一场小小的接触战，竟让这个昔日不被看好的庶子，骤然成了王座最有力的竞逐者。"}],["$","p","3",{"children":"僵局，以父亲之死告终。1384年1月2日，宾尼亚·乌驾崩。两天后，泽比主导的朝廷把大权交到了内的手中——而此时，他刚满十六岁四天。次日，1384年1月5日，他登基为王，号“罗娑陀利”（Razadarit，巴利语意为“王中之王”)。唯一的不和谐音，来自他的发妻达拉米道：她刚为他诞下头生子，却因怨恨他不但将自己弃于勃固、还在大光另纳新欢，拒绝出席加冕。内毫不动摇，径自换了另一位妃子完成大典。登基之后，他雷厉风行地铲除异己：处死了养母的情夫，囚禁继而处死了异母兄巴安蒙，又在数年后诛杀了另一位同母异父之兄。一个十六岁的少年，就这样以叛父之身、铁血之手，坐稳了王中之王的宝座。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["杀子者与他亲手铸成的天敌",null]}],[["$","p","0",{"className":"has-dropcap","children":"王座虽得，国土却未必。他即位之初，号令所及不过勃固一隅，三大孟人区域中，三角洲与马都八皆公然抗命。然而恰在此时，北方崛起的缅族阿瓦（Ava）王国登场了——三角洲的劳比亚为除掉罗娑陀利，竟向阿瓦求援，愿以藩属之礼献出勃固。志在重建蒲甘帝国的阿瓦王苏瓦·梭基（Swa Saw Ke）欣然应允。一场绵延近半个世纪、史称“四十年战争”的缅孟血斗，就此拉开序幕。"}],["$","p","1",{"children":"战争的头几年（约1385—1391），阿瓦大军一波波南下，罗娑陀利凭着坚城死守，一次次将其耗退。而每当阿瓦因北方掸邦战事而无暇南顾，他便抓住空隙，反手收拾内部的叛藩。短短数年之间，凭着钢铁般的意志与卓越的军事才能，他不但顶住了阿瓦的第一轮猛攻，更接连攻克了父亲当年（1364—1371）穷尽心力也未能拿下的马都八，又荡平了劳比亚的三角洲，把分崩离析的三大孟人区域，第一次真正捏合为一。为铭记这统一的伟业，他在勃固举行了第二次、也更为隆重的加冕。"}],["$","p","2",{"children":"然而，恰恰是在这荣耀的顶点，他做下了一生中最黑暗、也最招致宿命反噬的两件事。第二次加冕时，他与发妻达拉米道再起激烈争执，竟夺走她从父王宾尼亚·乌处所得的传家之物——十二枚戒指，转赐给了新立的王后。悲愤交加、心碎欲绝的达拉米道，自尽身亡。而这还不算完：罗娑陀利竟下令处死他与达拉米道所生的独子——宝劳坚道（Bawlawkyantaw）。据《罗娑陀利传》记载，他的理由冷酷得令人战栗：既然他自己当年能起兵叛父，那么这孩子长大之后，也必定会为母报仇。他要以杀戮，斩断那条复仇的因果之链。"}],"$La","$Lb"]]}]]}],"$Lc"]}]}],"$Ld"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","生卒、即位、四十年战争、世系等核心史实，主要依16世纪《罗娑陀利传》及缅甸四大编年史与现代学术考订写成。",{"children":"生卒、即位、四十年战争、世系等核心史实，主要依16世纪《罗娑陀利传》及缅甸四大编年史与现代学术考订写成。"}],["$","li","舌上法轮之相、宝劳坚道临终毒誓与转世为明耶觉苏瓦之说等为传说，已与信史区分。",{"children":"舌上法轮之相、宝劳坚道临终毒誓与转世为明耶觉苏瓦之说等为传说，已与信史区分。"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$Le",null,{"href":"/people/wareru","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"正义"}],"伐丽流"]}]]}],["$","$Le",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$Le",null,{"href":"/people/shin-sawbu","children":[["$","span",null,{"children":[["$","em",null,{"children":"女皇"}],"信修浮"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+a:["$","p","3",{"children":"可命运偏要让这斩链之举，成为铸链之始。据传，那孩子临死之前，高呼自己清白无辜，并立下一个流传千古的毒誓——愿来世投生为阿瓦的王子，回来与父亲为敌、做父亲的灾星。罗娑陀利听闻此誓，心神剧震、惶恐不安。而约莫一年之后，阿瓦王子的妃子诞下一子——据传说，那正是宝劳坚道转世投胎之身。那个孩子的名字，叫明耶觉苏瓦（Minye Kyawswa）。"}]
+b:["$","p","4",{"children":"一个为逃避复仇而杀子的父亲，竟以这一杀，亲手为自己铸成了那个差点将他与他的王国一同葬送的天敌。轮回的法轮，自他舌上转起，如今开始向他自己碾来。"}]
+c:["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["四十年战争与绳索上的落幕",null]}],[["$","p","0",{"className":"has-dropcap","children":"统一之后的罗娑陀利，已是名副其实的一方霸主，连暹罗的阿瑜陀耶（Ayutthaya）都遣使送象、以平等之礼相待。他本可安享太平，却在野心驱使下，于1401年趁阿瓦王位更迭、主动挥师北伐，甚至妄图一举吞并阿瓦京城。这一仗劳而无功，反招来阿瓦新王敏盖一世（Minkhaung I）更猛烈的反扑。此后的岁月里，缅孟之间杀得难解难分：罗娑陀利数度以惊世骇俗的方式羞辱对手——攻陷阿拉干后，他处死阿瓦所立的傀儡之王，公然将敏盖的女儿纳为己妃；又在击退敏盖的进犯后，把俘获的敌国王后也一并收入后宫。他甚至三度遣人行刺敏盖，皆功亏一篑；而在达亚瓦底（Tharrawaddy），两位国王曾在象背上正面相搏，罗娑陀利亲手将敏盖逐出战场。"}],["$","p","1",{"children":"但真正把勃固逼到亡国边缘的，是那个被诅咒之名所标记的人——阿瓦太子明耶觉苏瓦。1410年，他接掌了阿瓦兵权。这位太子骁勇绝伦、用兵如神，且怀着一桩刻骨的私愤：罗娑陀利的后宫里，同时囚着他的母亲与姊妹。他一反前人强攻坚城的旧策，专挑防备薄弱的三角洲与阿拉干下手，连年猛攻，势不可挡。为了在这头猛虎面前活下去，罗娑陀利不得不远结掸邦的兴威（Hsenwi）与北方的明朝为援——明廷甚至册封他为勃固的“宣慰使”——以多线战火牵制阿瓦。即便如此，明耶觉苏瓦仍屡屡得手：他击溃援兵，攻城略地，到1414至1415年间，已夺占大光、横扫三角洲，逼得罗娑陀利一度弃守勃固、退保马都八。那个他亲手杀死的孩子，仿佛真的化作了这员战神，回来索命。"}],["$","p","2",{"children":"宿命的高潮，落在1415年3月13日。是役在达拉-端德（Dala-Twante）爆发，乃缅甸军事史上最著名的战役之一。这一回，亲自督战的罗娑陀利，终于在战场上击倒了那个缠斗他多年的宿敌——明耶觉苏瓦身负致命之伤（孟人编年史称他伤重而亡，缅人编年史则称他被处决；据孟人记载，罗娑陀利下令以王礼厚葬了他）。敏盖一世闻讯，亲率大军南下，掘出爱子的遗体，将其郑重地沉入了端德附近的江水之中，而后罢兵北返。"}],["$","p","3",{"children":"至此，那个被诅咒的轮回，在两端同时圆满：被杀的孩子转世为阿瓦的灾星，长成了几乎毁灭罗娑陀利的战神；而这战神，最终又倒在了他转世投胎、誓要毁灭的那位父亲的战场之上。斩链者铸下了锁链，铸链者又亲手将它斩断——一切，仿佛只是为了让那舌上的法轮，转满它注定的一周。"}],["$","p","4",{"children":"此后，战火渐渐平息。1421年前后，缠斗了大半生的老对手敏盖一世辞世。当朝臣问罗娑陀利是否要趁机重燃战火时，他却拒绝了，反而为敏盖之死哀悼，说自己失去了一位“王弟”。两个为孟缅两族的命运厮杀了四十年的死敌，到头来，竟生出了一种近乎兄弟的惺惺相惜。"}],["$","p","5",{"children":"而仅仅在敏盖死后两个月，约1421年12月，这位身经百战、于刀山箭雨中安然走过四十载的王中之王，却以一种近乎荒诞的方式谢幕：他在勃固以北的勃固山（Pegu Yoma）麓捕捉野象时，一条腿被绳索缠住，受了致命之伤，死在了归途之上，享年五十三。那个从未被任何一位敌国君主在战场上真正击败的人，最终被一根捕象的绳索夺去了性命——仿佛宿敌一去，命运便对他再无所求，悄然松开了手中的绳。"}],["$","p","6",{"children":"他身后未立明确的储君，三个儿子为王位相争，阿瓦也趁乱再度南侵，那场四十年战争，直到1424年方才真正落幕。他的女儿信梭布（Shin Sawbu）日后将成为汉达瓦底罕有的女王，把这个由他以血与火独力撑起的王国，带入又一段黄金岁月。"}],["$","p","7",{"children":"后世铭记罗娑陀利，称他为“统一者罗娑陀利”。史家昂图说，若没有他那“超凡的纪律、军事才能与政治意志”，这个王朝“恐怕撑不过他父亲那一代”。他是一位力挽狂澜、保全国祚的雄主，是一位将分裂之邦整合为一的能臣，却也是一位猜忌而残忍的君王——逼死初恋、诛杀亲子、清洗手足。伊洛瓦底江依旧不舍昼夜地向南奔流，它见证过蒲甘佛王的成佛祈愿，也见证过这位孟王舌上的轮回印——见证一个人如何以杀戮去逃避命运，又如何被自己所造的命运，一步步逼至那条捕象绳索的尽头。"}]]]}]]}]
+d:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Le","shin-sawbu",{"href":"/people/shin-sawbu","children":[["$","strong",null,{"children":"信修浮"}],["$","span",null,{"children":"父与女 · 他以血撑起、她以金光承续的王国"}]]}],["$","$Le","wareru",{"href":"/people/wareru","children":[["$","strong",null,{"children":"伐丽流"}],["$","span",null,{"children":"他的王朝奠基者"}]]}],["$","$Le","minkhaung-i",{"href":"/people/minkhaung-i","children":[["$","strong",null,{"children":"明康一世"}],["$","span",null,{"children":"四十年战争的北方宿敌"}]]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Le","wareru",{"href":"/people/wareru","children":[["$","strong",null,{"children":"伐丽流"}],["$","span",null,{"children":"汉达瓦底开国君主"}]]}],["$","$Le","shin-sawbu",{"href":"/people/shin-sawbu","children":[["$","strong",null,{"children":"信修浮"}],["$","span",null,{"children":"汉达瓦底王国女王"}]]}],["$","$Le","dhammazedi",{"href":"/people/dhammazedi","children":[["$","strong",null,{"children":"达摩悉提"}],["$","span",null,{"children":"汉达瓦底君主"}]]}]]}]]}]]}]
+11:null

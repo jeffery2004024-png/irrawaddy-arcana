@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+11:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+12:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+3:T2109,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：战车 · 江喜陀">
+<defs>
+  <linearGradient id="k_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#2C3F74"/><stop offset="1" stop-color="#101737"/>
+  </linearGradient>
+  <radialGradient id="k_moonG" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#F6EFD8" stop-opacity=".55"/><stop offset="1" stop-color="#F6EFD8" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="k_glow" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#FBF3DA" stop-opacity=".5"/><stop offset="1" stop-color="#FBF3DA" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="k_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="k_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="k_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  <g id="k_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+
+<g clip-path="url(#k_win)">
+  <rect x="58" y="100" width="304" height="470" fill="url(#k_sky)"/>
+  <g fill="#EAF0FA" opacity=".9">
+    <use href="#k_star" x="96" y="128" transform="scale(1)"/><use href="#k_star" x="156" y="108"/>
+    <use href="#k_star" x="252" y="120"/><use href="#k_star" x="318" y="146"/>
+    <use href="#k_star" x="338" y="212"/><use href="#k_star" x="80" y="236"/><use href="#k_star" x="286" y="92"/>
+  </g>
+  <circle cx="118" cy="168" r="48" fill="url(#k_moonG)"/>
+  <circle cx="118" cy="168" r="21" fill="#F2EAD0"/>
+  <circle cx="112" cy="162" r="4" fill="#C9BFA0" opacity=".25"/>
+  <circle cx="124" cy="174" r="3" fill="#C9BFA0" opacity=".2"/>
+
+  <rect x="58" y="440" width="304" height="130" fill="#111B3D"/>
+  <rect x="58" y="508" width="304" height="62" fill="#0B1230"/>
+  <line x1="58" y1="440" x2="362" y2="440" stroke="#5B6FA8" stroke-opacity=".4" stroke-width="1"/>
+
+  <!-- Ananda Temple -->
+  <circle cx="301" cy="386" r="62" fill="url(#k_glow)"/>
+  <rect x="258" y="414" width="86" height="26" fill="#ECE5D2" stroke="#B9AD8C" stroke-width="1"/>
+  <path d="M274 440 v-9 q0 -6 6 -6 q6 0 6 6 v9 z" fill="#2F2B49"/>
+  <path d="M295 440 v-9 q0 -6 6 -6 q6 0 6 6 v9 z" fill="#2F2B49"/>
+  <path d="M316 440 v-9 q0 -6 6 -6 q6 0 6 6 v9 z" fill="#2F2B49"/>
+  <rect x="268" y="396" width="66" height="18" fill="#ECE5D2" stroke="#B9AD8C" stroke-width="1"/>
+  <rect x="278" y="380" width="46" height="16" fill="#ECE5D2" stroke="#B9AD8C" stroke-width="1"/>
+  <path d="M288 380 Q288 328 301 320 Q314 328 314 380 Z" fill="#F1EAD8" stroke="#B9AD8C" stroke-width="1"/>
+  <path d="M295 376 Q294 348 297 334" stroke="#CFC5A6" stroke-width="1.4" fill="none"/>
+  <path d="M301 374 Q301 344 301 326" stroke="#CFC5A6" stroke-width="1.4" fill="none"/>
+  <path d="M307 376 Q308 348 305 334" stroke="#CFC5A6" stroke-width="1.4" fill="none"/>
+  <polygon points="297,320 305,320 301,304" fill="#E9C46A"/>
+  <line x1="301" y1="304" x2="301" y2="295" stroke="#E9C46A" stroke-width="1.4"/>
+  <use href="#k_star" x="301" y="291" fill="#FFE9B0"/>
+
+  <!-- Irrawaddy river -->
+  <path d="M58 452 Q150 462 178 500 Q198 528 166 566 L116 566 Q158 528 140 502 Q118 472 58 478 Z" fill="#3A5C99" opacity=".95"/>
+  <path d="M148 482 q9 3 14 9" stroke="#DCE6F4" stroke-opacity=".85" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M158 512 q7 4 9 11" stroke="#DCE6F4" stroke-opacity=".85" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M134 540 q7 4 7 11" stroke="#DCE6F4" stroke-opacity=".85" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- Kyansittha -->
+  <g>
+    <path d="M186 556 L193 468 Q212 458 231 468 L238 556 Z" fill="#2F4B41" stroke="#1B2D26" stroke-width="1.6"/>
+    <line x1="212" y1="512" x2="212" y2="554" stroke="#1B2D26" stroke-width="1"/>
+    <path d="M190 544 H234" stroke="#B99B5E" stroke-width="1.4"/>
+    <path d="M197 472 Q212 464 227 472" stroke="#E9C46A" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <path d="M189 504 L235 496 L235 508 L189 516 Z" fill="#8E2F23" stroke="#5C1810" stroke-width="1"/>
+    <line x1="152" y1="562" x2="264" y2="372" stroke="#8A6A3C" stroke-width="5" stroke-linecap="round"/>
+    <path d="M264 372 Q277 349 290 332 Q283 357 270 377 Z" fill="#DFE4EE" stroke="#98A3BB" stroke-width="1"/>
+    <circle cx="264" cy="373" r="4" fill="#E9C46A" stroke="#A8772B" stroke-width=".8"/>
+    <path d="M258 384 L246 396 M258 384 L252 400" stroke="#8E2F23" stroke-width="2" stroke-linecap="round"/>
+    <path d="M197 476 L191 493" stroke="#2F4B41" stroke-width="11" stroke-linecap="round" fill="none"/>
+    <path d="M226 476 Q229 460 230 434" stroke="#2F4B41" stroke-width="11" stroke-linecap="round" fill="none"/>
+    <circle cx="191" cy="496" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <circle cx="230" cy="430" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <circle cx="212" cy="438" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <path d="M198 432 Q198 419 212 418 Q226 419 226 432 Q212 425 198 432 Z" fill="#241509"/>
+    <circle cx="212" cy="413" r="6" fill="#241509"/>
+    <rect x="200" y="429" width="24" height="5" rx="2" fill="#E9C46A" stroke="#A8772B" stroke-width=".8"/>
+    <path d="M203 440 Q207 443 211 440" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M213 440 Q217 443 221 440" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <line x1="208" y1="449" x2="216" y2="449" stroke="#6E4226" stroke-width="1.4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Cut rope -->
+  <path d="M178 560 Q162 564 166 574 Q170 582 182 578 Q190 575 188 568" stroke="#C9A36A" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M166 576 l-7 7 M171 580 l-4 9" stroke="#C9A36A" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Lotus -->
+  <g transform="translate(322,556)">
+    <ellipse cx="0" cy="4" rx="16" ry="5" fill="#27424E" opacity=".9"/>
+    <g fill="#E8B6C0" stroke="#C2879A" stroke-width=".6">
+      <path d="M0 -16 Q5 -8 0 -1 Q-5 -8 0 -16 Z" transform="rotate(-40)"/>
+      <path d="M0 -16 Q5 -8 0 -1 Q-5 -8 0 -16 Z" transform="rotate(-20)"/>
+      <path d="M0 -16 Q5 -8 0 -1 Q-5 -8 0 -16 Z"/>
+      <path d="M0 -16 Q5 -8 0 -1 Q-5 -8 0 -16 Z" transform="rotate(20)"/>
+      <path d="M0 -16 Q5 -8 0 -1 Q-5 -8 0 -16 Z" transform="rotate(40)"/>
+    </g>
+    <circle cx="0" cy="-3" r="2" fill="#E9C46A"/>
+  </g>
+</g>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#k_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#k_kan" transform="translate(34,34)"/>
+<use href="#k_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#k_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#k_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#k_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#k_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">VII</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7">战车</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#k_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5">江喜陀</text>
+  <text x="210" y="649" font-size="11" letter-spacing="2" fill="#F3E5C3" opacity=".9" dx="-1">KYANSITTHA · 蒲甘王朝 · 约1030–1112</text>
+  <text x="210" y="677" font-size="13" letter-spacing="2" fill="#D8B56A" dx="-1">「神矛掷出时，命运松了绑」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1030 – 1112/13"}],["$","h1",null,{"children":"江喜陀"}],["$","p",null,{"className":"person-hero__role","children":["蒲甘王朝第三代君王",["$","span",null,{"className":"person-hero__alt","children":[" · ","Kyansittha / 敏骚之子"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"神矛掷出的那一刻，没有取走他的命，只割断了捆住他的绳。"}],["$","p",null,{"className":"person-hero__summary","children":"被父亲怀疑血统的弃儿，历尽放逐、情劫与流亡，终以“调和者”之姿登上蒲甘王座。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","蒲甘王朝",{"children":"蒲甘王朝"}],["$","span","调和者",{"children":"调和者"}],["$","span","阿难陀寺",{"children":"阿难陀寺"}],["$","span","妙齐提碑",{"children":"妙齐提碑"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["疑云中的血脉",null]}],[["$","p","0",{"className":"has-dropcap","children":"一〇三〇年七月，一个男孩降生在实皆一带名为帕雷玛的地方。这本该是个寻常的王室诞辰，可他从落地的那一刻起，身份就笼着一层洗不去的疑云——他甚至没能拥有一个流传下来的本名。"}],["$","p","1",{"children":"他的母亲宾莎迦罗耶尼（Pyinsa Kalayani），是来自西方卫沙离的一位公主。当年她被许配北上，而那时的阿奴律陀，还只是苏格底朝中一位尚未登顶的亲王。不知出于怎样的谗言或猜忌，阿奴律陀认定这位女子并非纯正的王族血脉，竟在她身怀六甲之际，将她贬逐到了僻远的乡野。更耐人寻味的是，连缅甸的史书都悄声留下一笔猜测：这孩子真正的生父，或许并非阿奴律陀，而是当年一路护送公主入境的那位官员雅扎达曼。"}],["$","p","2",{"children":"于是命运给这个婴儿派发的第一张牌，便是“存疑”二字。他是王子，却不被父亲承认；他有血脉，那血脉却被人当众质疑。按缅甸的习俗，婚内所生即为夫之子，这才勉强保住了他名义上的王子身份；可那道怀疑的阴影，将像胎记一样跟随他大半生。"}],["$","p","3",{"children":"这疑云背后，藏着一种残酷的轮回：他的父亲阿奴律陀，自己便是篡位者的嫡子，在异姓兄长的环伺中熬过了被夺、被疑的半生；如今轮到他做父亲，却又亲手把同样的怀疑与放逐，加诸自己的骨肉。被怀疑的人，转身成了怀疑别人的人——这道暗影，将从阿奴律陀传到江喜陀，再从江喜陀传到他日后那个被遗忘的儿子身上，纠缠三代而不散。一个连姓名与出身都站不稳脚跟的人，要如何在这世上挣得一席之地？这道难题，从他出生那天起，就摆在了一个尚不会言语的婴儿面前。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["乡野弃儿与战场之名",null]}],[["$","p","0",{"className":"has-dropcap","children":"他在放逐中长大，远离蒲甘的宫墙与权力的中心。乡野的风沙里，没有人把他当作天潢贵胄；他更像一个被父亲随手丢弃在角落、几乎要被遗忘的孩子。"}],["$","p","1",{"children":"缅甸的史传还为他的降生添上了一段传奇色彩：相传阿奴律陀曾从星象师口中听到预言——这一年里将有一个新生儿，日后会登上王座；惊惧之下，国王竟下令杀尽当年出生的婴孩。（后世史家指出，这段记载在年代上其实经不起推敲，阿奴律陀当时尚未称王，多半是后人为这位传奇君王附会的故事。）然而无论真伪，这则传说都精准地道出了他童年的处境：他是一个仿佛从一开始就不被这世界所容、却又奇迹般活了下来的孩子。"}],["$","p","2",{"children":"被遗弃，反倒成了一种磨砺。远离了宫廷的锦衣玉食与勾心斗角，他在粗粝的乡间长出了一副结实的筋骨与一颗不畏艰险的心。他不知道自己究竟算不算王子，也无人为他规划前程；他唯一能依靠的，是自己的胆识与力气。山野教会他的，是宫墙里的王子们一生都学不到的东西：如何在没有人庇护的世界里活下去，如何与最底层的百姓同呼吸，如何把孤独熬成坚韧。这些，日后都将成为他治国安邦、体恤万民的本钱。"}],["$","p","3",{"children":"这个连名字都尚未拥有的孩子并不知道：命运把他抛得越远，日后给他的反弹就越是惊人。它正在用最冷酷的方式，替一个未来的君王做着最艰苦的预备。那道“父疑其子”的裂痕，此刻看来是无尽的委屈，却也悄悄塑造了一个比任何含着金匙出生的王子都更懂人间冷暖的灵魂。"}],["$","p","4",{"children":"约莫到了少年时代，阿奴律陀终于将这个被自己放逐的儿子召回了蒲甘。回到宫廷的他，不过是个活在异母兄长萨鲁阴影下的小王子——没有显赫的母族，没有父亲毫无保留的信任，他能依靠的依旧只有自己。"}],["$","p","5",{"children":"但战场认得出真正的猛士。父亲很快察觉了他过人的才干。一〇五七年征讨直通时，年纪轻轻的他已位列统兵的四员大将之一——在那个唯有王族才能在如此年轻时执掌兵权的时代，这一任命本身，就等于父亲默认了他的血脉。此后他南征丹那沙林，与“四骁将”一道大破高棉之军，把那片土地纳入蒲甘版图；他又随军北上，远征南诏。刀光剑影里，他一次次从必死之地全身而退，仿佛有神灵在暗中庇护。"}],["$","p","6",{"children":"正是这份在战场上九死一生的本领，为他赢得了那个将伴随他一生的名号——阿奴律陀赐他名“江喜陀”，意为“最后仍屹立不倒的士兵”（也有史家考证，此名本意更近于“军中之官”）。这名字的分量非同寻常：别的王子，名字是与生俱来的荣耀；而他的名字，是用自己的血与命，在尸山血海里一刀一枪挣来的。"}],["$","p","7",{"children":"在军中，他与另外三位猛将并称“四骁将”，名震遐迩。传说中的他身形魁伟、力大无穷，一杆长矛在手便所向披靡；每逢苦战，旁人尽数倒下，唯有他仍能浴血而立——这正是“江喜陀”之名的由来。蒲甘的少年们传唱他的事迹，敌人闻其名而胆寒。曾经那个在乡野里无人问津的弃儿，如今成了整个王国最锋利的一把剑。"}],["$","p","8",{"children":"然而锋芒之下，他的处境其实始终微妙。他战功越盛、声望越高，便越发衬出他那可疑的出身与无依的母族；他赢得了万民的爱戴，却未必赢得宫廷的安心。一个出身存疑的弃儿，硬是凭着一杆长矛，把自己从被遗忘的角落，砍杀到了万众瞩目的将台之上——可命运给得越多，往往也意味着它将索取得越狠。功高之人最易招祸，这道埋伏，正静静等在他前路上。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["神矛断绳",["$","span",null,{"className":"life-stage__sub","children":"旧情、流放与逃亡"}]]}],[["$","p","0",{"className":"has-dropcap","children":"命运的下一个转折，藏在一桩看似寻常的护送任务里。一〇七〇年代初，江喜陀奉命南下，击退进犯勃固的清迈劫掠者。作为谢礼，勃固之主把自己的女儿钦乌（Khin U，即日后的摩尼山陀）连同珠宝与珍贵的佛发舍利，一同献给蒲甘的阿奴律陀，作为进贡的新娘。"}],["$","p","1",{"children":"北上蒲甘的长路漫漫。钦乌端坐于垂帘的轿中，而护送的重任，恰恰落在了江喜陀肩上——他策马行于轿旁，朝夕相伴，走过一程又一程的山水。每一日，轿帘的缝隙里漏出一点身影与低语；每一夜，他们在同一片星空下扎营。日子久了，情意便在这朝朝暮暮的相伴中悄然滋长，竟爱得如此剧烈、如此无法自抑，以至于这桩私情终究瞒不住，被一路报到了阿奴律陀的面前。一个是君王看中的贡品新娘，一个是君王麾下最倚重的猛将——这是一桩从开始就注定要付出代价的爱。命运给了他赫赫战功，转手却用一场无法克制的心动，亲手拆毁了他用半生挣来的一切。这，也是他戎马生涯的终点。"}],"$La","$Lb","$Lc"]]}]]}],"$Ld","$Le","$Lf"]}]}],"$L10"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","生卒、征伐、即位与营建等史实依缅甸史传及现代史家考订写成。",{"children":"生卒、征伐、即位与营建等史实依缅甸史传及现代史家考订写成。"}],["$","li","如神矛断绳、阿难陀寺工匠遭诛等情节，属编年传统中的传奇，难以逐一确证，已特别标明。",{"children":"如神矛断绳、阿难陀寺工匠遭诛等情节，属编年传统中的传奇，难以逐一确证，已特别标明。"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$L11",null,{"href":"/people/anawrahta","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"皇帝"}],"阿奴律陀"]}]]}],["$","$L11",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$L11",null,{"href":"/people/alaungsithu","children":[["$","span",null,{"children":[["$","em",null,{"children":"命运之轮"}],"阿朗悉都"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+a:["$","p","2",{"children":"接下来的一幕，是缅甸戏台上百演不衰的传奇。阿奴律陀盛怒之下，命人将五花大绑的江喜陀押至阶前，百般折辱、反复诘问，怒火越烧越旺，终于抄起那柄传说中的神矛阿雷因达玛，朝他狠狠掷去。然而——他命不该绝。矛锋擦着他的皮肉掠过，竟鬼使神差地斩断了捆缚他全身的绳索！那一刻，本该取他性命的兵器，反倒成了替他松绑、放他生路的恩物。命运在此处仿佛轻轻眨了眨眼。他一把抄起那柄神矛，趁乱夺路狂奔，从此亡命天涯，翻山越岭，再未回头。"}]
+b:["$","p","3",{"children":"逃亡的岁月里，这位曾经的王子与名将，沦落到以替人牧马为生。他一路西行，餐风露宿，昔日万众景仰的“四骁将”之一，如今成了荒野上一个隐姓埋名的逃人。这一段翻山越岭、九死一生的逃亡，连同此前那场惊心动魄的掷矛断绳，至今仍是缅甸戏台上百演不衰的好戏——艺人们一遍遍把它搬演给后世，因为没有什么比这更能道尽命运的无常：一个人前一刻还是将台上的英雄，后一刻便成了亡命的草寇；而那道本该结束他的矛锋，偏偏又是放他生路的恩典。"}]
+c:["$","p","4",{"children":"他最终栖身于实皆的高布（Kaungbyu），娶了当地寺院住持的侄女丹布拉（Thanbula）为妻。其时他已年过三十。曾经的刀光与情劫都暂时沉寂了下来，他在这僻静之地住下，仿佛认命般地过起了寻常人的日子，牧马、耕作、与僧人相伴——一直住到一〇七七年，住到那个将再次搅动他命运的消息，从蒲甘传来。那些看似平静的年月，其实只是命运给他的一段中场喘息；它从未真正放开他，只是在等一个更大的盘局摆开。"}]
+d:["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["萨鲁之乱",["$","span",null,{"className":"life-stage__sub","children":"王座被命运清空"}]]}],[["$","p","0",{"className":"has-dropcap","children":"一〇七七年，阿奴律陀离奇身亡，长子萨鲁继位。这位新王素来把战功赫赫、深得民心的异母兄长江喜陀视作心腹大患；可朝局动荡，他终究架不住僧王信阿罗汉的力劝，极不情愿地把江喜陀从放逐中召回，让他协理国政。江喜陀把怀着身孕的丹布拉留在了高布——他不会想到，那个即将出世的孩子，多年后会以一种他意想不到的方式重新走进他的生命。"}],["$","p","1",{"children":"然而旧情难灭。一回到蒲甘，他竟与如今已是萨鲁王后的摩尼山陀（钦乌）旧情复燃。这一次，等待他的是更远的流放——他被逐往南方的达拉（今仰光）。命运似乎执意要把他一次次抛离权力的中心。"}],["$","p","2",{"children":"转机来自一场灾祸。一〇八二年，萨鲁与发小、勃固总督亚曼坎在一局骰戏中起了嫌隙；萨鲁口出戏言：“你既这般聪明，何不干脆造反？”——这句玩笑竟成了谶语，亚曼坎当真反了。叛军溯伊洛瓦底江而上，萨鲁走投无路，只得再度召回江喜陀，把全军交到他手中。江喜陀劝王持重，萨鲁却急于求成，不顾劝阻贸然出击，结果在马圭附近一败涂地，本人沦为阶下囚。"}],["$","p","3",{"children":"最令人扼腕的一幕在此刻上演。江喜陀冒死潜入敌营，要把萨鲁救出来；萨鲁却拒绝了——他做了一生中最致命的误判：他以为，这位被自己猜忌、流放了一辈子的兄长，会趁机杀了他以夺取王位；而他那位发动叛乱的发小，反倒不会害他。他赌错了。亚曼坎为绝后患，亲手害死了这位“娃娃王”。具有讽刺意味的是：那个被他防备了半生的人，是唯一肯舍命来救他的人；而他托付信任的发小，才是真正取他性命的人。猜忌蒙蔽了他的眼睛，让他在生死关头错认了忠奸——而这份猜忌，原是父亲阿奴律陀留给两个儿子的遗产，最终却要了其中一个的命。"}],["$","p","4",{"children":"不久，亚曼坎也被一位名叫雅辛的猎人一箭射杀于乱军之中。挡在江喜陀与王座之间的人，就这样一个接一个地，被命运亲手清空了。耐人寻味的是：江喜陀从未主动伸手去夺这王座——是放逐、是叛乱、是旁人的猜忌与死亡，一步步把他推到了它的面前。仿佛冥冥之中早有定数：这个被父亲弃绝的弃儿，终将以一种他自己都未曾谋求的方式，坐上那个曾将他驱逐千里的王座。"}]]]}]]}]
+e:["$","section","4",{"className":"life-stage","id":"stage-5","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"5"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["和解之治",["$","span",null,{"className":"life-stage__sub","children":"阿难陀寺与蒲甘黄金时代"}]]}],[["$","p","0",{"className":"has-dropcap","children":"一〇八四年，那个出身存疑、被放逐半生、连王位都是踩着旁人的死亡才轮到的弃儿，终于登上了蒲甘的王座，是为第三代君王。他在位长达二十八年，几乎不动干戈——一个一生都在颠沛与征战中度过的人，却给他的国家带来了难得的太平。"}],["$","p","1",{"children":"或许正因为自己身上一半流着被质疑的孟族血脉，他格外珍视族群之间的和解。他是孟族文化的倾慕者，对南方的孟人施以怀柔，在宫廷里大力扶持孟族的语言与文化。在他的治下，缅人、孟人、骠人与佛教的传统第一次真正熔铸成熟，凝成一种崭新的缅甸文明；缅文也开始与骠文、孟文、巴利文并行铭刻于碑石之上。蒲甘因农耕与贸易而日益富庶，更被遥远的中国宋朝与印度朱罗王朝承认为对等的主权之邦——一个曾被父亲弃于乡野的孩子，如今让自己的国家在整个亚洲的版图上拥有了堂堂的姓名。"}],["$","p","2",{"children":"他本人也成了缅甸史上备受敬仰的明君之一。那个出身存疑、半生流离的弃儿，最终竟以“调和者”的姿态被后人铭记：他用自己破碎而多元的血脉，亲手织就了一个民族交融的盛世。曾经被怀疑“血统不纯”的污点，反倒成了他治国的天赋——唯有真正尝过被排斥之苦的人，才会如此珍视让不同的人和睦共处的可贵。"}],["$","p","3",{"children":"他完成了父亲未竟的瑞喜宫塔，又亲手缔造出自己一生的巅峰之作——阿难陀寺（Ananda）。这座庙宇的由来，本身就是一则缥缈的传说：相传有八位云游的高僧来到他面前化缘，向他描述了他们曾在喜马拉雅山中修行的“难陀牟利窟”，并以神通在他眼前显现出那座圣窟的景象。国王被深深震撼，遂命这几位僧人依照圣窟的模样，在蒲甘平原的正中建起一座清凉宏伟的庙宇，取名“无尽的智慧”。然而传说还有一个森冷的结尾：庙成之后，他竟下令将这几位建寺的僧匠尽数处死——只为让这座举世无双的杰作，永远无法在别处被复制。一位以慈悲与和解著称的君王，在这里露出了执念的另一面：有些美，他宁可用血来独占。"}]]]}]]}]
+f:["$","section","5",{"className":"life-stage","id":"stage-6","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"6"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["妙齐提碑",["$","span",null,{"className":"life-stage__sub","children":"迟来的父子和解"}]]}],[["$","p","0",{"className":"has-dropcap","children":"一一一二/一一一三年，在位二十八载、年逾八旬的老王，缠绵于病榻之上，迎来了他一生最后、也最动人的一笔。"}],["$","p","1",{"children":"当年被他遗忘在高布的那个孩子——丹布拉所生的儿子雅扎古马（Yazakumar）——回到了垂死父亲的身边。江喜陀曾在攀向王座的路上将这对母子彻底抛在脑后；而如今，这个被父亲遗忘的儿子，却不计前嫌地守在了他的榻前。出于对父亲深沉的爱与敬，雅扎古马为他铸造了一尊金佛，又立下一方石碑铭志——那便是举世闻名的妙齐提碑（Myazedi），以骠文、孟文、缅文、巴利文四种文字，刻下同一段铭文。"}],["$","p","2",{"children":"这方石碑的命运，远比立碑人所能想象的更为深远。数百年后，正是借着碑上四语对照的文字，学者们才得以破译早已死去、无人能识的骠语；它因此被誉为“缅甸的罗塞塔石碑”，并被联合国列入“世界记忆名录”，成为这片土地上最珍贵的文字遗产之一。而碑文所讲述的，归根结底只是一个父亲与一个儿子的故事——在那些古老的字句之间，没有怨怼，没有控诉，只有一份迟到了一生、却终究抵达的爱。"}],["$","p","3",{"children":"命运在此处合上了一个意味深长的圆环：江喜陀的一生，始于一个父亲对他血脉的怀疑与放逐；而他的一生，终于一个被他放逐过的儿子，以血脉之爱为他立碑送终。那道纠缠了三代人的“父疑子、子离父”的宿命，最终竟以最温柔的方式，被一方四语石碑永远定格、彻底化解。这位老王没有把王位传给这个儿子，而是传给了自己的外孙阿隆悉都；但他留给后世的，远不止一座王座——他留下了一个民族交融而成的文明，一座无与伦比的庙宇，和一块让失落的语言重新开口说话的石头。一一一二年，他阖然长逝，传奇落幕，而碑上的字，至今未曾褪色。"}]]]}]]}]
+10:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L11","anawrahta",{"href":"/people/anawrahta","children":[["$","strong",null,{"children":"阿奴律陀"}],["$","span",null,{"children":"弃儿与父亲 · 一矛断绳的恩怨"}]]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L11","shin-arahan",{"href":"/people/shin-arahan","children":[["$","strong",null,{"children":"信阿罗汉"}],["$","span",null,{"children":"蒲甘王朝国师（历四朝）"}]]}],["$","$L11","anawrahta",{"href":"/people/anawrahta","children":[["$","strong",null,{"children":"阿奴律陀"}],["$","span",null,{"children":"蒲甘王朝奠基者"}]]}],["$","$L11","alaungsithu",{"href":"/people/alaungsithu","children":[["$","strong",null,{"children":"阿朗悉都"}],["$","span",null,{"children":"蒲甘王朝君主"}]]}],["$","$L11","narathihapate",{"href":"/people/narathihapate","children":[["$","strong",null,{"children":"那罗梯诃波帝"}],["$","span",null,{"children":"蒲甘末代君主"}]]}]]}]]}]]}]
+14:null

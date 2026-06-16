@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+b:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+c:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T17d8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：教皇 · 敏东王">
+
+<defs>
+  <linearGradient id="mindonmin_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#7FA3A8"/><stop offset=".56" stop-color="#5C715F"/><stop offset="1" stop-color="#171916"/>
+  </linearGradient>
+  <linearGradient id="mindonmin_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#E9C46A"/>
+  </linearGradient>
+  <radialGradient id="mindonmin_glow" cx=".5" cy=".43" r=".62">
+    <stop offset="0" stop-color="#FFF0C8" stop-opacity=".48"/><stop offset="1" stop-color="#FFF0C8" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="mindonmin_vig" cx=".5" cy=".48" r=".75">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".45"/>
+  </radialGradient>
+  <clipPath id="mindonmin_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="mindonmin_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  <g id="mindonmin_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+<g clip-path="url(#mindonmin_win)">
+<rect x="58" y="100" width="304" height="470" fill="url(#mindonmin_sky)"/>
+<circle cx="210" cy="318" r="154" fill="url(#mindonmin_glow)"/>
+<g><rect x="58" y="470" width="304" height="100" fill="#223E3C"/><rect x="88" y="426" width="244" height="52" fill="#8C653C" stroke="#4A3525"/><path d="M110 426 L130 390 L150 426 Z M270 426 L290 390 L310 426 Z" fill="#B98545" stroke="#6B4A22"/><path d="M190 478 v-28 q0 -18 20 -18 q20 0 20 18 v28 z" fill="#1B2423" stroke="#E9C46A"/></g>
+<g fill="#ECE2C6" stroke="#9D8D62" opacity=".95"><rect x="78" y="488" width="34" height="52" rx="8"/><rect x="306" y="488" width="34" height="52" rx="8"/><path d="M95 500 h0 M323 500 h0" stroke="#9D8D62"/></g>
+<circle cx="320" cy="160" r="22" fill="#E9C46A" stroke="#9A6E2D" stroke-width="2"/><text x="320" y="166" text-anchor="middle" font-family="serif" font-size="18" fill="#4C321B">ငွေ</text>
+<g stroke="#E9C46A" stroke-width="2" opacity=".8"><line x1="82" y1="168" x2="176" y2="210"/><line x1="82" y1="168" x2="82" y2="250"/><line x1="176" y1="210" x2="176" y2="284"/></g>
+<path d="M210 536 q-22 -18 0 -42 q22 24 0 42 M210 536 q-36 -12 -34 -40 q28 4 34 40 M210 536 q36 -12 34 -40 q-28 4 -34 40" fill="#E8D6A3" stroke="#6A8A65" opacity=".9"/>
+
+  <g>
+    <g transform="translate(252,458)"><rect x="-14" y="-42" width="28" height="54" rx="8" fill="#EEE3C8" stroke="#9D8D62"/><path d="M0 -32 v34" stroke="#9D8D62" stroke-width="1.2"/></g>
+    <path d="M180 556 L186 452 Q210 438 234 452 L240 556 Z" fill="#316A69" stroke="#321812" stroke-width="1.5"/>
+    <path d="M190 474 Q210 466 230 474" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 466 Q172 480 166 498" stroke="#316A69" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M230 466 Q248 480 254 498" stroke="#316A69" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <circle cx="164" cy="500" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <circle cx="256" cy="500" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="204" y="424" width="12" height="12" fill="#E9BA8E"/>
+    <circle cx="210" cy="405" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="195" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <rect x="195" y="386" width="30" height="8" rx="2" fill="#E9C46A" stroke="#A8772B"/><polygon points="201,386 219,386 212,342 208,342" fill="url(#mindonmin_gold)" stroke="#A8772B"/><use href="#mindonmin_star" x="210" y="336" fill="#FFF6DC"/>
+    <path d="M202 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M212 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M206 415 q4 3 8 0" stroke="#6E4226" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  </g>
+</g>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#mindonmin_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#mindonmin_kan" transform="translate(34,34)"/>
+<use href="#mindonmin_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#mindonmin_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#mindonmin_kan" transform="translate(386,686) scale(-1,-1)"/>
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#mindonmin_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#mindonmin_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">V</text>
+  <text x="210" y="88" font-size="23" letter-spacing="8" fill="#E9C46A" font-weight="700" dx="-4">教皇</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#mindonmin_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5">敏东王</text>
+  <text x="210" y="649" font-size="9.7" letter-spacing="1" fill="#F3E5C3" opacity=".9">MINDON MIN · 贡榜 · 1853–1878</text>
+  <text x="210" y="677" font-size="12.6" letter-spacing=".8" fill="#D8B56A">「失海之后，他在曼德勒刻下石经」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1853 – 1878"}],["$","h1",null,{"children":"敏东王"}],["$","p",null,{"className":"person-hero__role","children":["贡榜改革君主",["$","span",null,{"className":"person-hero__alt","children":[" · ","Mindon Min / 敏东"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"曼德勒的建城者"}],["$","p",null,{"className":"person-hero__summary","children":"失去下缅甸后迁建曼德勒新都、主持第五次佛教结集、厉行改革的温和之君，在殖民阴影下为王朝争取最后的时间。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","贡榜王朝",{"children":"贡榜王朝"}],["$","span","曼德勒",{"children":"曼德勒"}],["$","span","第五次结集",{"children":"第五次结集"}],["$","span","改革",{"children":"改革"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["失海之后的王",null]}],[["$","p","0",{"className":"has-dropcap","children":"敏东王继位时，缅甸已经失去了海。"}],["$","p","1",{"children":"一八五二年，第二次英缅战争爆发。前王蒲甘王昏暴失政，英国人以贸易纠纷和领事冲突为由出兵，占领下缅甸。伊洛瓦底三角洲、仰光、勃固、海口、稻米平原与柚木资源，纷纷落入英方手中。贡榜王朝从阿朗帕耶时代起用血汗缝合的上下缅甸，再一次被撕开；而这一次撕开它的，不是孟人复国，不是暹罗反击，也不是清廷大军，而是一个以商业公司、印度总督与海军炮舰合成的殖民体系。就在战争阴影中，敏东与弟弟加囊发动政变，取代蒲甘王。一八五三年，敏东登基。他不是在盛世中接过王冠，而是在失败之后接过残余。他面对的缅甸，比波道帕耶时代小得多，也危险得多：南方海口尽失，国家被切断与印度洋贸易的直接联系，富庶稻区与重要柚木林落入英方，王国只剩上缅甸内陆。对一个依赖河流与海贸的国家来说，这不是割地而已，几乎是被切断了呼吸。"}],["$","p","2",{"children":"6敏东很快求和，并试图同英国谈判勃固地位。他没有能力夺回下缅甸，只能接受一个缩小的王国。这种接受不是软弱，而是清醒。贡榜曾经习惯用战争回答危机，可敏东知道，继续战争只会让曼德勒之前的王冠更早落地。他要做的，不是再烧一次阿瑜陀耶，也不是再越过若开山脉，而是在一片被削去海岸的土地上，重新寻找一个国家存活的方式。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["曼德勒与佛陀预言",null]}],[["$","p","0",{"className":"has-dropcap","children":"一八五七年，敏东开始兴建新都曼德勒。相传佛陀曾预言，在佛历二千四百年之际，曼德勒山麓将出现一座佛法兴盛的大城。这个传说无从作为政治决策的唯一解释，却极适合敏东的处境：当现实世界的海口、关税、外交与军力都在英国压力下日益逼仄时，他需要把王国重新安放在一个更宏大的神圣时间里。曼德勒不是单纯的都城，它是敏东给缅甸人的一种安慰：王国虽失去海洋，却仍能在佛法中心重新站立。"}],["$","p","1",{"children":"新城方整，宫城居中，城墙、壕沟、金殿、僧院与佛塔依次展开。敏东把传统王权的礼仪空间重新布置了一遍，仿佛要在地图上证明：缅甸并未亡，贡榜仍有王，佛法仍有护持者。曼德勒因此成为缅甸最后一座王都，也是最像挽歌的一座王都。它从诞生那天起，便带着夕阳的颜色。前代国王建都，是为了彰显扩张后的权力；敏东建都，却是在失地之后，为剩下的国家搭起最后的屋脊。"}],["$","p","2",{"children":"他的宗教事业同样恢宏。一八七一年，敏东在曼德勒召集第五次佛教结集，诵读、校订并净化巴利三藏。二千四百名僧侣与会，历时数月。更早在一八六〇年至一八六八年间，三藏经文被刻写在七百二十九块大理石碑上，后来由结集认可，安置于固都陶佛塔周围。后世称之为“世界最大的书”。这些石碑并不只是宗教功德，它们也是敏东对时间的抵抗：纸会焚毁，棕榈叶会腐烂，王朝会败亡，殖民者会进入宫城；可石头上的经文，或许能比王冠活得更久。"}],["$","p","3",{"children":"7"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["改革的清晨",null]}],[["$","p","0",{"className":"has-dropcap","children":"敏东并非只会修塔诵经。他也是缅甸近代化最重要的改革君主之一。"}],["$","p","1",{"children":"他推行“他他美达”税制，试图以评估土地与人口的方式稳定财政；他给官员发放固定薪俸，希望削弱官吏任意盘剥百姓的旧习；他统一度量衡，铺筑道路，架设电报，发行缅甸本位货币，使银币成为王权与市场之间的新媒介。他签订商业条约，派遣钦温明吉吴刚等使臣出访伦敦、巴黎、罗马，试图让欧洲列强承认缅甸仍是独立国家，也试图在英法之间寻得一线平衡。"}],["$","p","2",{"children":"在这些改革背后，加囊王子是最锋利的一只手。加囊是敏东的弟弟，也是王储，被后世缅甸人记为“近代化之父”式的人物。传闻中，他常在寒冷清晨披毯前往工厂，同工匠与机械师谈论机器运转；他派人出国学习技术，组织兵工、船坞、铸币与军器制造，试图为缅甸造出能抵御炮舰的现代力量。这些细节有些来自后世追忆，难免带有英雄化色彩；但加囊确曾是敏东改革中最积极、最有行动力的核心人物。"}],["$","p","3",{"children":"然而改革不是写在诏书上便能成真的魔法。上缅甸土地有限，财政薄弱，官僚与地方势力盘根错节；保守派恐惧西法，僧团与王室也未必都赞成机器、工厂和新军。更致命的是，一八六六年宫廷政变中，加囊被敏东诸子中的叛乱者杀害。那一天，贡榜近代化最锋利的一把刀，在曼德勒宫中折断。敏东本人幸免于难，却再也无法完全恢复改革的锐气。"}]]]}]]}],["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["温和者的困局",null]}],[["$","p","0",{"className":"has-dropcap","children":"敏东的伟大，在于他看见了旧王朝必须改变；敏东的悲剧，在于他所能改变的，远远不够抵挡世界的改变。"}],["$","p","1",{"children":"8他不像波道帕耶那样以征服开疆，也不像辛标信那样以两线战火证明天命。他更像一个在洪水来临前修堤的人：每一块石头都真实，每一道堤线都有意义，可洪水太大，堤身太短，背后的人心又并不一致。他向英国让步，避免了在位期间被吞并；他向欧洲派使，想让缅甸进入国际秩序；他改革财政、货币与行政，想把宫廷国家变成更可治理的近代国家；他建曼德勒、刻三藏、召集结集，又想把这一切改革包裹在佛法护国的传统之中。"}],["$","p","2",{"children":"于是敏东的时代，常被后世称为缅甸文化与宗教生活的最后黄金时代。可黄金之所以耀眼，往往是因为它照在黄昏里。一八七八年十月，敏东在曼德勒去世。他留下宫城、佛塔、石经、银币、电报与未完成的制度，也留下一个最危险的问题：谁来继承这一切？他子嗣众多，继承安排却在病榻前变得模糊。宫廷派系、后妃势力、王子竞争与英国的远处注视，共同挤在曼德勒金殿的门外。敏东辛苦搭起的最后屋脊，在他死后，很快便要迎来一场血雨。"}]]]}]]}]]}]}],"$La"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","据缅甸编年史、哈维《缅甸史》、霍尔《缅甸》、丹敏乌《现代缅甸的形成》、Candier 贡榜晚期改革研究及《大英百科》等互校写成。",{"children":"据缅甸编年史、哈维《缅甸史》、霍尔《缅甸》、丹敏乌《现代缅甸的形成》、Candier 贡榜晚期改革研究及《大英百科》等互校写成。"}],["$","li","凡仅见于王家传闻、地方传说或殖民回忆者，已以“相传”“传闻”“据后世记述”标明，以与可核信史区分。",{"children":"凡仅见于王家传闻、地方传说或殖民回忆者，已以“相传”“传闻”“据后世记述”标明，以与可核信史区分。"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$Lb",null,{"href":"/people/bodawpaya","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"高塔"}],"波道帕耶"]}]]}],["$","$Lb",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$Lb",null,{"href":"/people/thibaw","children":[["$","span",null,{"children":[["$","em",null,{"children":"倒吊人"}],"锡袍王"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+a:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lb","thibaw",{"href":"/people/thibaw","children":[["$","strong",null,{"children":"锡袍王"}],["$","span",null,{"children":"他的儿子 · 末代国王"}]]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lb","alaungpaya",{"href":"/people/alaungpaya","children":[["$","strong",null,{"children":"阿朗帕耶"}],["$","span",null,{"children":"贡榜王朝创立者"}]]}],["$","$Lb","hsinbyushin",{"href":"/people/hsinbyushin","children":[["$","strong",null,{"children":"辛标信"}],["$","span",null,{"children":"贡榜君主"}]]}],["$","$Lb","bodawpaya",{"href":"/people/bodawpaya","children":[["$","strong",null,{"children":"波道帕耶"}],["$","span",null,{"children":"贡榜君主"}]]}],["$","$Lb","thibaw",{"href":"/people/thibaw","children":[["$","strong",null,{"children":"锡袍王"}],["$","span",null,{"children":"缅甸末代国王"}]]}]]}]]}]]}]
+e:null

@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+3:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"斯瓦绍凯 · 正义 | 伊洛瓦底的王冠"}],["$","meta","1",{"name":"description","content":"蒲甘崩塌已近百年，上缅甸在战火与饥荒中四分五裂。一个在异国长大的学者王子，用三十二年的耐心与隐忍，一寸一寸地，把秩序、田亩与中心，重新还给了这片土地。阿瓦真正的根基，是他扎下的。名义上的开国者是流星般的多敏帕，可真正缔造那个王国的人，是他。"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}

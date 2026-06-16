@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+10:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+11:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+3:T1a34,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：教皇 · 达摩悉提">
+
+<defs>
+  <linearGradient id="dhammazedi_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#F0D8A2"/><stop offset=".58" stop-color="#936B48"/><stop offset="1" stop-color="#3A3424"/>
+  </linearGradient>
+  <linearGradient id="dhammazedi_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#E9C46A"/>
+  </linearGradient>
+  <radialGradient id="dhammazedi_glow" cx=".5" cy=".45" r=".62">
+    <stop offset="0" stop-color="#FFEFC0" stop-opacity=".48"/><stop offset="1" stop-color="#FFEFC0" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="dhammazedi_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="dhammazedi_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="dhammazedi_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  
+  <g id="dhammazedi_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+<g clip-path="url(#dhammazedi_win)">
+<rect x="58" y="100" width="304" height="470" fill="url(#dhammazedi_sky)"/>
+<circle cx="210" cy="318" r="154" fill="url(#dhammazedi_glow)"/>
+<rect x="58" y="468" width="304" height="102" fill="#3A3424"/>
+
+  <g opacity="0.95" transform="translate(210,462) scale(0.85) translate(-210,-468)">
+    <rect x="154" y="452" width="112" height="13" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+    <rect x="166" y="440" width="88" height="12" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+    <rect x="178" y="428" width="64" height="12" fill="#B07F2E" stroke="#6E4A14" stroke-width="1"/>
+    <path d="M182 428 Q182 378 210 364 Q238 378 238 428 Z" fill="url(#dhammazedi_gold)" stroke="#8A5C18" stroke-width="1"/>
+    <polygon points="204,364 216,364 212,296 208,296" fill="url(#dhammazedi_gold)" stroke="#8A5C18" stroke-width=".8"/>
+    <line x1="205" y1="348" x2="215" y2="348" stroke="#8A5C18" stroke-width="1"/>
+    <line x1="206" y1="332" x2="214" y2="332" stroke="#8A5C18" stroke-width="1"/>
+    <line x1="207" y1="316" x2="213" y2="316" stroke="#8A5C18" stroke-width="1"/>
+    <path d="M204 296 H216 L210 286 Z" fill="#E9C46A"/>
+    <line x1="210" y1="286" x2="210" y2="270" stroke="#E9C46A" stroke-width="1.6"/>
+    <use href="#dhammazedi_star" x="210" y="264" fill="#FFF6DC"/>
+  </g>
+<circle cx="210" cy="330" r="132" fill="#FFF0B8" opacity=".18"/>
+<g transform="translate(282,480)"><rect x="-30" y="-18" width="60" height="38" rx="5" fill="#E8D6A3" stroke="#9B7A45"/><line x1="-20" y1="-5" x2="20" y2="-5" stroke="#8A6A3C"/><line x1="-20" y1="6" x2="18" y2="6" stroke="#8A6A3C"/></g>
+
+  <g>
+    <g transform="translate(260,462)"><rect x="-26" y="-18" width="52" height="34" rx="4" fill="#E8D6A3" stroke="#9B7A45"/><line x1="-17" y1="-5" x2="18" y2="-5" stroke="#8A6A3C"/><line x1="-17" y1="6" x2="15" y2="6" stroke="#8A6A3C"/></g>
+    <path d="M180 556 L186 452 Q210 438 234 452 L240 556 Z" fill="#B45C2D" stroke="#172820" stroke-width="1.5"/>
+    <path d="M190 470 Q210 462 230 470" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 488 Q210 480 230 488" stroke="#E9C46A" stroke-width="2" fill="none" opacity=".85"/>
+    <path d="M190 464 Q172 478 166 496" stroke="#B45C2D" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="164" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <path d="M230 464 Q248 478 254 496" stroke="#B45C2D" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="256" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="204" y="423" width="12" height="12" fill="#E9BA8E"/>
+    <circle cx="210" cy="405" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="195" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <rect x="195" y="386" width="30" height="7" rx="2" fill="#E9C46A" stroke="#A8772B"/><polygon points="202,386 218,386 212,352 208,352" fill="url(#dhammazedi_gold)" stroke="#A8772B"/>
+    <path d="M202 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M212 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    
+    <path d="M206 415 q4 3 8 0" stroke="#6E4226" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <path d="M201 418 Q210 432 219 418 Q214 438 210 438 Q206 438 201 418 Z" fill="#D9D3C8" opacity=".85"/>
+  </g>
+</g>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#dhammazedi_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#dhammazedi_kan" transform="translate(34,34)"/>
+<use href="#dhammazedi_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#dhammazedi_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#dhammazedi_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#dhammazedi_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#dhammazedi_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">V</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7.0">教皇</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#dhammazedi_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5.0">达摩悉提</text>
+  <text x="210" y="649" font-size="11" letter-spacing="1.4" fill="#F3E5C3" opacity=".9">DHAMMAZEDI · 汉达瓦底王国 · 1471–1492</text>
+  <text x="210" y="677" font-size="13" letter-spacing="1.8" fill="#D8B56A">「僧袍换作王袍，法度仍在掌心」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"约1409 – 1492"}],["$","h1",null,{"children":"达摩悉提"}],["$","p",null,{"className":"person-hero__role","children":["汉达瓦底君主",["$","span",null,{"className":"person-hero__alt","children":[" · ","Dhammazedi / 毕多迦罗 / Pitakahara / 罗摩提钵帝"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"一只随机递出的钵把他送上王座，而他铸下的巨钟，带着他的名字沉入江底，五百年不曾再响。"}],["$","p",null,{"className":"person-hero__summary","children":"阿瓦寺中的孟族僧人，因钵中之签还俗登基，开创孟人最后的黄金时代，净化僧伽、铸下沉入江底的世间最大之钟。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","汉达瓦底",{"children":"汉达瓦底"}],["$","span","黄金时代",{"children":"黄金时代"}],["$","span","迦梨耶尼戒坛",{"children":"迦梨耶尼戒坛"}],["$","span","达摩悉提大钟",{"children":"达摩悉提大钟"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["阿瓦的孟僧",null]}],[["$","p","0",{"className":"has-dropcap","children":"十五世纪初，缅甸被一道无形的界线劈成两半。北方的阿瓦（Inwa）由缅族王朝统御，南方的下缅甸属于讲孟语的汉达瓦底王国，也就是史册上的勃固（Pegu）。两国之间，刚刚熬过一场绵延四十年的战争。"}],["$","p","1",{"children":"孟王罗娑陀利（Razadarit）曾是这片土地上最强悍的君主。可他身后，王室子嗣自相倾轧、彼此毒杀，昔日的强盛迅速碎裂成一连串短命的统治——兄弟弑兄弟，堂亲杀堂亲，勃固的王座几乎成了催命的符咒。"}],["$","p","2",{"children":"就在这样的乱世里，一个孟族青年遁入空门。他自幼好学，后来北上，在敌国阿瓦研习三藏经典，僧名毕多迦罗（Pitakahara）。与他同在阿瓦修行的，还有另一位孟族高僧达摩耶那（Dhammanyana）；两人栖身于萨甘（Sagaing）附近的一座僧院。他们当时并不知道，自己日后的命运，会与一位流落异乡的公主死死缠在一起。"}],["$","p","3",{"children":"那位公主，名唤信修浮（Shin Sawbu），是孟王罗娑陀利之女。下缅甸内乱时，她的兄长为向阿瓦求和，把她献给了阿瓦王作妃。她因此远离故土、抛下儿女，困居北国。两度守寡之后，她在异国的深宫里成了一只笼中之鸟——而毕多迦罗与达摩耶那，正是她在阿瓦岁月里供养、亲近的两位法师。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["钵中之签",null]}],[["$","p","0",{"className":"has-dropcap","children":"约公元 1429 年前后，信修浮决意出逃。据缅甸编年史记载，她在两位孟族僧人的协助下，秘密逃离阿瓦，一路南返，回到勃固。兄长以厚礼相迎。那一年，她约三十五岁。"}],["$","p","1",{"children":"命运随后开始它漫长而残酷的清场。在接下来的二十多年里，勃固王室的男性继承者，或病殁，或被刺，一个接一个地凋零殆尽。到 1454 年，竟已无一位男丁可继大统。于是，这位历经丧夫、流亡、归国的女子，以花甲之龄登上王座，成为汉达瓦底罕见的女王，世称“庇尼陶”（Binnya Thau），意即“老女王”。"}],["$","p","2",{"children":"她并不眷恋权柄。执政约七年后，她决意退位，归隐于达贡（Dagon）的大金塔旁，只想以余生侍奉佛陀。可她膝下无子继位，这片江山，该交到谁的手里？"}],["$","p","3",{"children":"此处，史书与传说交汇成一段缅甸最著名的故事。**相传**，女王想在当年助她出逃的两位僧人之中择一为嗣，却不愿以己意定夺，而要把抉择交给天意。一日清晨，僧人持钵前来受食，她悄悄在其中一只钵里，藏入一件俗世男子的筒裙（pahso）与五件王权信物的微缩模型，默祷“愿此签落于更堪当大任者”，而后将钵一一奉还。"}],["$","p","4",{"children":"那只藏着王权之物的钵，落到了毕多迦罗手中。"}],["$","p","5",{"children":"他遂还俗离寺，娶女王幼女米帕迦丁（Mi Pakahtaw）为妻，受封名号“达摩悉提”（Dhammazedi），被立为储君。**传闻**另一位僧人达摩耶那因落选而心怀怨望，举止启人疑窦，终在达贡以北的邦林（Paunglin）被处死。一只随机递出的钵，就这样分开了两个修行者的生死。"}],["$","p","6",{"children":"约在 1457 至 1460 年间，年近半百的达摩悉提还俗成婚、渐掌朝纲；1460 年女王退隐，他以摄政之名总揽国事；1471 年信修浮辞世，他正式即位，称号罗摩提钵帝（Ramadhipati）。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["罗摩提钵帝",["$","span",null,{"className":"life-stage__sub","children":"黄金时代"}]]}],[["$","p","0",{"className":"has-dropcap","children":"达摩悉提的统治，在缅甸历史上是一段罕有的太平岁月。"}],["$","p","1",{"children":"与北方那个常年陷于刀兵与残杀的阿瓦截然不同，他治下的孟人之国宁静、富庶。他生性温和，以智慧著称，绝少诉诸武力；对北面的云南，他维持着友善的往来，从不轻启边衅。英国史家霍尔（D. G. E. Hall）称他是“最优秀的那一类佛教君主，一心致力于宗教的净化”——在他治下，文明昌盛，孟人之国的安宁，恰与阿瓦王国的混乱与野蛮，形成刺目的对照。"}],["$","p","2",{"children":"勃固由此成为远近闻名的通商之都。它扼守下缅甸的出海口，商旅云集，声名远播海外：约在 1470 年游历东方的俄罗斯商人尼基廷（Nikitin），便在行纪中提到了这座城市。来自四方的货船、僧侣与使节，使勃固既是贸易枢纽，也是上座部佛教的圣地。"}],["$","p","3",{"children":"达摩悉提也是一位精于治理的君主。他亲自裁断的一批判例，被后人辑为《达摩悉提判牍》（Dhammazedi Phyat-htome），流传至今，成为后世孟人法律与王道的圭臬。一个出身僧侣、本该远离俗务的人，却把一个动荡的王国治理得井井有条。"}]]]}]]}],["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["迦梨耶尼",["$","span",null,{"className":"life-stage__sub","children":"净化僧伽"}]]}],[["$","p","0",{"className":"has-dropcap","children":"然而，在达摩悉提心中，真正的志业不在疆土，而在佛法。"}],["$","p","1",{"children":"他登基之时，下缅甸——经籍中称之为“罗摩那提舍”（Ramannadesa），又名“金地”（Suvarnabhumi）——的佛教已然衰微。僧团门派林立、彼此攻讦，戒律松弛，早已远离最初的清净。身为还俗的僧人，他比任何人都更清楚这腐坏的根源。他在碑文中自陈心迹，要效法历史上那些伟大的护法之君：蒲甘的阿奴律陀（Anawrahta）、那罗波帝悉都（Narapatisithu），以及锡兰的波罗迦罗摩巴忽一世（Parakramabahu I）——他们都曾涤荡僧团，使正统的上座部佛法重归清净。"}],"$La","$Lb","$Lc"]]}]]}],"$Ld","$Le"]}]}],"$Lf"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","生卒、即位、通商、佛教改革、铸钟等史实，依《琉璃宫史》《迦梨耶尼碑铭》及霍尔、哈维等学者著述写成。",{"children":"生卒、即位、通商、佛教改革、铸钟等史实，依《琉璃宫史》《迦梨耶尼碑铭》及霍尔、哈维等学者著述写成。"}],["$","li","女王以钵择嗣、落选僧人被诛、星象师警告与巨钟喑哑等为编年史传说，已与信史区分。",{"children":"女王以钵择嗣、落选僧人被诛、星象师警告与巨钟喑哑等为编年史传说，已与信史区分。"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$L10",null,{"href":"/people/shin-sawbu","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"女皇"}],"信修浮"]}]]}],["$","$L10",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$L10",null,{"href":"/people/athinkhaya","children":[["$","span",null,{"children":[["$","em",null,{"children":"力量"}],"阿辛迦耶"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+a:["$","p","2",{"children":"1476 年，他做了一件影响深远的事。他遴选二十二位高僧及其弟子，远渡重洋，前往锡兰（今斯里兰卡），在凯拉尼耶大寺（Kelaniya Raja Maha Vihara）、于凯拉尼河（即迦梨耶尼河）畔重新受戒，以接续那一脉被视为最纯正的僧统。**据碑文所载**，使团乘两船而往，一船平安抵岸，另一船则在哥伦坡（Kalambu）外触礁失事——求法之路，从来都要以风险为代价。"}]
+b:["$","p","3",{"children":"诸僧载着清净的戒法归国后，达摩悉提在勃固城外建起一座戒坛，以那条遥远的圣河命名，称“迦梨耶尼戒坛”（Kalyani Sima），于 1476 年 11 月落成开光。此后，全国僧侣皆在此重新受戒，荡涤积弊，僧伽为之一新。"}]
+c:["$","p","4",{"children":"为铭记这桩伟业，他于 1476 至 1479 年间，以孟文与巴利文，在十方石碑上刻下长篇铭文，史称《迦梨耶尼碑铭》（Kalyani Inscriptions）。这组碑刻不仅是他宗教改革的丰碑，更成为后世研究缅甸与斯里兰卡佛教交流史最重要的史料。他还重启了向印度菩提伽耶（Buddhagaya）派遣朝圣使团的传统。他点燃的这场宗教复兴，日后蔓延至整个缅甸，余响绵长。"}]
+d:["$","section","4",{"className":"life-stage","id":"stage-5","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"5"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["铸钟",["$","span",null,{"className":"life-stage__sub","children":"星象的警告"}]]}],[["$","p","0",{"className":"has-dropcap","children":"1484 年，达摩悉提决意铸造一口前所未有的大钟，献于达贡的大金塔。"}],["$","p","1",{"children":"然而，**相传**在开炉之前，王的星象师曾力谏择日另铸：那是“鳄鱼宫”当值的不祥之时，如此铸成的钟，将发不出声音。达摩悉提没有听从。1484 年 2 月 5 日，巨钟铸成。而**传闻**那口钟果真音色喑哑，叩之不扬——仿佛冥冥之中，有什么早已写定。"}],["$","p","2",{"children":"钟悬于大金塔旁，静静度过了一个多世纪。1583 年，威尼斯珠宝商加斯帕罗·巴尔比（Gasparo Balbi）途经此地，在日记里记下了这口巨钟：钟身自上而下满刻文字，环绕一周，而当世竟无一国之人能够读懂。"}]]]}]]}]
+e:["$","section","5",{"className":"life-stage","id":"stage-6","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"6"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["江底之钟",["$","span",null,{"className":"life-stage__sub","children":"宿命的回响"}]]}],[["$","p","0",{"className":"has-dropcap","children":"1492 年，达摩悉提辞世，享年约八十余岁。孟人将他奉为圣者，在他的遗骨之上建塔供奉。王位传给了他的长子班雅然二世（Binnya Ran II）。一个由钵中之签开启的传奇，似乎就此圆满落幕。"}],["$","p","1",{"children":"可那口钟的故事，才刚刚要走向它真正的结局。"}],["$","p","2",{"children":"达摩悉提去世一百一十六年后，下缅甸已几度易主。1608 年，一个名叫菲利普·德·布里托（Filipe de Brito e Nicote）的葡萄牙雇佣兵——缅人称之为“昂金卡”——盘踞于沙廉（Syriam，今丹林），自立为一方之主。为铸造火炮、守住他抢来的地盘，他需要金属；而那口巨钟，正是一块现成的、庞大无比的金属。"}],["$","p","3",{"children":"他率众拆下大钟，从圣山坡上一路滚下，以大象拖曳，运向河边，缚于战船，顺流而下。然而钟身之重，远超他与工匠的预料。船行至勃固河与仰光河交汇之处，木筏在重压下崩解，船身倾覆——那口据信为世间最大的钟，轰然没入浑浊的江水，沉至河床，从此再未现身。"}],["$","p","4",{"children":"德·布里托本人也未得善终。五年之后，他兵败被擒，被处以穿刺之刑而死。"}],["$","p","5",{"children":"四百余年来，寻钟者络绎不绝——潜水、声呐、勘探，一次又一次。可那口钟，始终静卧在勃固河口的淤泥深处，守口如瓶。"}],["$","p","6",{"children":"一位还俗的僧人，在乱世里以智慧与虔信，为孟人赢得了最后的黄金时代；他净化了僧伽，刻下了不朽的碑文，铸造了人间最大的钟。最终，疆土易手，王朝倾覆，唯有他的名字，随着那口喑哑的巨钟，一同沉进了流水——既被遗忘，又永不被打捞起来。"}],["$","p","7",{"children":"仿佛那位星象师在五百年前的低语，终究还是应验了。"}]]]}]]}]
+f:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L10","shin-sawbu",{"href":"/people/shin-sawbu","children":[["$","strong",null,{"children":"信修浮"}],["$","span",null,{"children":"以钵中之签将他送上王座的老女王"}]]}],["$","$L10","shin-arahan",{"href":"/people/shin-arahan","children":[["$","strong",null,{"children":"信阿罗汉"}],["$","span",null,{"children":"同以佛法重塑王权的僧人"}]]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L10","wareru",{"href":"/people/wareru","children":[["$","strong",null,{"children":"伐丽流"}],["$","span",null,{"children":"汉达瓦底开国君主"}]]}],["$","$L10","razadarit",{"href":"/people/razadarit","children":[["$","strong",null,{"children":"罗娑陀利"}],["$","span",null,{"children":"汉达瓦底君主（王中之王）"}]]}],["$","$L10","shin-sawbu",{"href":"/people/shin-sawbu","children":[["$","strong",null,{"children":"信修浮"}],["$","span",null,{"children":"汉达瓦底王国女王"}]]}]]}]]}]]}]
+13:null

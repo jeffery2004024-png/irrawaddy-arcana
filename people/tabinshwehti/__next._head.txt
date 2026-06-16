@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+3:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"德彬瑞蒂 · 太阳 | 伊洛瓦底的王冠"}],["$","meta","1",{"name":"description","content":"他生时武库里的刀剑通体放光，相传他是那位被父亲处死的汉达瓦底王子转世，注定要做孟人王国的克星。十八岁，他打破父亲偏安一隅的遗训，挥师南下；他用一条反间计，兵不血刃地夺下了富庶的勃固，又借孟人的财富与葡萄牙人的火炮，把缅甸重新攥…"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}

@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+10:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+11:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+3:T190d,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：世界 · 孟罗阇基">
+
+<defs>
+  <linearGradient id="minrazagyi_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#343D63"/><stop offset=".58" stop-color="#B56C3C"/><stop offset="1" stop-color="#181B31"/>
+  </linearGradient>
+  <linearGradient id="minrazagyi_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#E9C46A"/>
+  </linearGradient>
+  <radialGradient id="minrazagyi_glow" cx=".5" cy=".45" r=".62">
+    <stop offset="0" stop-color="#FFEFC0" stop-opacity=".48"/><stop offset="1" stop-color="#FFEFC0" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="minrazagyi_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="minrazagyi_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="minrazagyi_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  
+  <g id="minrazagyi_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+<g clip-path="url(#minrazagyi_win)">
+<rect x="58" y="100" width="304" height="470" fill="url(#minrazagyi_sky)"/>
+<circle cx="210" cy="318" r="154" fill="url(#minrazagyi_glow)"/>
+
+  <g>
+    <rect x="58" y="468" width="304" height="102" fill="#18495D"/>
+    <path d="M58 498 q40 13 86 0 t86 0 t86 0 t86 0" stroke="#DCEAF1" stroke-opacity=".55" stroke-width="3" fill="none"/>
+    <path d="M58 532 q40 11 86 0 t86 0 t86 0 t86 0" stroke="#DCEAF1" stroke-opacity=".38" stroke-width="2.4" fill="none"/>
+  </g>
+
+  <g transform="translate(286,488) scale(0.88)">
+    <path d="M-44 20 Q-4 38 42 20 L30 42 H-30 Z" fill="#7A3F25" stroke="#3E2117" stroke-width="1.2"/>
+    <line x1="-4" y1="18" x2="-4" y2="-52" stroke="#6B4A22" stroke-width="3"/>
+    <path d="M0 -46 Q34 -24 12 6 L0 6 Z" fill="#E8D6A3" stroke="#9B7A45" stroke-width="1"/>
+    <path d="M-8 -40 Q-32 -20 -18 8 L-8 8 Z" fill="#C89A50" stroke="#8A6A3C" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(288,486) scale(0.92)">
+    <rect x="-28" y="-10" width="56" height="13" rx="4" fill="#333338" stroke="#121218" stroke-width="1.2" transform="rotate(-12)"/>
+    <circle cx="-18" cy="12" r="8" fill="#4A3424" stroke="#21150F" stroke-width="1"/>
+    <circle cx="22" cy="12" r="8" fill="#4A3424" stroke="#21150F" stroke-width="1"/>
+    <path d="M30 -18 q14 -6 24 2" stroke="#FFD36A" stroke-width="3" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <g>
+    <g transform="translate(256,462)"><circle cx="0" cy="0" r="15" fill="#D9AE54" stroke="#A4742A"/><ellipse cx="0" cy="0" rx="15" ry="5" fill="none" stroke="#8A5C14"/><use href="#minrazagyi_star" x="0" y="-21" fill="#FFF6DC"/></g>
+    <path d="M180 556 L186 452 Q210 438 234 452 L240 556 Z" fill="#722D2A" stroke="#4A1A14" stroke-width="1.5"/>
+    <path d="M190 470 Q210 462 230 470" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 488 Q210 480 230 488" stroke="#E9C46A" stroke-width="2" fill="none" opacity=".85"/>
+    <path d="M190 464 Q172 478 166 496" stroke="#722D2A" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="164" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <path d="M230 464 Q248 478 254 496" stroke="#722D2A" stroke-width="12" stroke-linecap="round" fill="none"/><circle cx="256" cy="498" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="204" y="423" width="12" height="12" fill="#E9BA8E"/>
+    <circle cx="210" cy="405" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="195" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <rect x="195" y="386" width="30" height="8" rx="2" fill="#E9C46A" stroke="#A8772B"/><polygon points="201,386 219,386 212,341 208,341" fill="url(#minrazagyi_gold)" stroke="#A8772B"/><use href="#minrazagyi_star" x="210" y="336" fill="#FFF6DC"/>
+    <path d="M202 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M212 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    
+    <path d="M206 415 q4 3 8 0" stroke="#6E4226" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    
+  </g>
+</g>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#minrazagyi_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#minrazagyi_kan" transform="translate(34,34)"/>
+<use href="#minrazagyi_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#minrazagyi_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#minrazagyi_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#minrazagyi_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#minrazagyi_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">XXI</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7.0">世界</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#minrazagyi_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5.0">孟罗阇基</text>
+  <text x="210" y="649" font-size="11" letter-spacing="1.4" fill="#F3E5C3" opacity=".9">MIN RAZAGYI · 妙乌王朝 · 1593–1612</text>
+  <text x="210" y="677" font-size="13" letter-spacing="1.8" fill="#D8B56A">「潮声最大时，王冠也最沉」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1593 – 1612"}],["$","h1",null,{"children":"孟罗阇基"}],["$","p",null,{"className":"person-hero__role","children":["妙乌全盛之巅的君主",["$","span",null,{"className":"person-hero__alt","children":[" · ","Min Razagyi"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"焚城者与海上落日"}],["$","p",null,{"className":"person-hero__summary","children":"他把宿敌东吁帝国六十年积攒的财富洗劫一空，一把火烧掉了莽应龙的金宫；他的舰队称霸孟加拉湾，掌控着一千六百公里的海岸线。可成就他霸业的那柄利刃——葡萄牙雇佣兵——最终也反噬了他。他在妙乌的落日里，眼睁睁看着自己亲手扶起的人，把他苦心经营的…"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","妙乌",{"children":"妙乌"}],["$","span","若开",{"children":"若开"}],["$","span","全盛",{"children":"全盛"}],["$","span","焚城",{"children":"焚城"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["兄妹之子",null]}],[["$","p","0",{"className":"has-dropcap","children":"约 1557 年，一个男婴生于若开（Arakan）北部的西丹丁（Sittantin）——他的父亲帕劳（Phalaung）当时正任此地总督。这便是日后的孟罗阇基（Min Razagyi）。"}],["$","p","1",{"children":"他的血脉，带着一种古老王室特有的紧致：父亲帕劳与母亲苏弥道（Saw Mi Taw），本是亲兄妹，皆为那位若开黄金时代的缔造者孟彬（Min Bin）之子女。循着这条血缘上溯，孟罗阇基正是孟彬的嫡孙（出自一桩王室的兄妹联姻——这在当时的妙乌宫廷，是维系王统纯正的惯例），同时也是开国之君孟苏孟的玄侄孙。祖父孟彬以石墙、炮火与海，把妙乌锻造成了孟加拉湾的霸主；而这份霸业，将在这个孙子手中，攀上它最眩目的顶点。"}],["$","p","2",{"children":"1572 年，父亲帕劳继承了堂兄孟塞迦罗（Sekkya）的王位，旋即立年仅十五岁的长子孟罗阇基为储君，授以“多·达摩·罗阇”的尊号；加冕大典上，又为他迎娶了塞迦罗之女南德帕（Nan Htet Phwa）。而循着祖父辈传下的那套世界主义传统，孟罗阇基也有了一个波斯文的名号——萨利姆沙（Salim Shah），以孟加拉苏丹的身份，通行于孟加拉湾的商业世界。一个未来的雄主，就这样在父王的羽翼下，开始了他漫长的等待。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["父王麾下的将才",null]}],[["$","p","0",{"className":"has-dropcap","children":"在父亲帕劳长达二十一年的治世里，孟罗阇基始终是一名忠诚而能干的臣子。"}],["$","p","1",{"children":"据若开编年史， 他在此期间最耀眼的一笔功绩，是 1575 年那场远征特里普拉（Tripura）之役。他亲率一支装备精良的水陆大军，在葡萄牙雇佣兵与火器的助阵下，轻取了特里普拉的都城；此后，特里普拉俯首纳贡。这场胜利，让世人第一次见识了这位王子的将才——以及那支自孟彬之世起便构成若开军魂的力量：成群的葡萄牙雇佣兵与他们的火枪舰炮。在那个火器初临亚洲的年代，谁能驾驭葡人的炮火，谁便能在群雄逐鹿中占尽先机；而年轻的孟罗阇基，早早就把这股力量，攥进了自己的手心。这份与葡萄牙人的因缘，将贯穿他的一生——既铸就他的辉煌，也埋下他的祸根。"}],["$","p","2",{"children":"然而，父王的恩宠，并非全然系于他一身。晚年的帕劳，渐渐倚重起次子多敏绍（Thado Minsaw）——这位王子被擢为军中统帅，更被封为“孟加拉之王”，坐镇北方重镇吉大港（Chittagong）。一个手握重兵、又据守财源滚滚的北疆的弟弟，就这样成了孟罗阇基问鼎王座的最大对手。王室的兄弟之间，那道无形的裂痕，早在父王在世时，便已悄然裂开。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["兄弟阋墙",null]}],[["$","p","0",{"className":"has-dropcap","children":"1593 年 7 月 4 日，老王帕劳辞世，孟罗阇基毫无阻碍地继承了王位。这位三十五岁的新君，取“罗阇”为王号，以追念其高祖、那位 1502 至 1513 年在位的拉扎一世（Raza I）。登基之初，他展现了难得的气度：他重新确认了弟弟多敏绍“孟加拉之王”的封号，让他继续以副王的身份，统辖吉大港、诺阿卡利（Noakhali）、蒂佩拉（Tippera）等北方诸territory。"}],["$","p","1",{"children":"可兄弟间的和睦，终究没能维持。1595 年，多敏绍在吉大港起兵反叛，背后有特里普拉等北方诸邦的撑腰。然而决定胜负的，是人心：王国其余各地，连同绝大多数的葡萄牙雇佣兵，都坚定地站在了孟罗阇基这一边。雨季一过，孟罗阇基亲率大军，浩浩荡荡北上吉大港。多敏绍未战先怯，不战而降。孟罗阇基的兵锋随即扫荡北方诸territory与特里普拉，到 1596 年二月，已重新牢牢掌控了全局。"}],["$","p","2",{"children":"至此，孟罗阇基成了一个富庶而强盛的王国当之无愧的主人——它的疆土，自西北的孙德尔本斯（Sundarbans），一直绵延到南方的内格莱斯角（Cape Negrais）。这是一片祖父孟彬一手奠定、又经父亲帕劳稳固下来的基业；而孟罗阇基要做的，是把这份基业，推向一个连他的祖辈都不曾抵达的高度。一个属于他的、空前辉煌的时代，正缓缓拉开帷幕。"}]]]}]]}],["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["东向的野心",null]}],[["$","p","0",{"className":"has-dropcap","children":"恰在此时，命运为孟罗阇基掀开了一个千载难逢的缺口——他那个不可一世的宿敌，东吁帝国（Toungoo Empire），正摇摇欲坠。"}],["$","p","1",{"children":"东吁，曾在 1545 至 1547 年、1580 至 1581 年两度大举入侵妙乌（前者正是其祖父孟彬开闸放水、淹退强敌的那一战）。可如今，盘踞勃固（Pegu）的东吁皇帝难陀·勃因（Nanda Bayin），已只剩下大半个下缅甸，四面叛乱蜂起，连王朝的龙兴之地东吁城（Toungoo）都反了。"}],["$","p","2",{"children":"孟罗阇基敏锐地嗅到了这股衰败的气息。1597 年，他一口应允了与东吁城的叛将明耶梯诃都（Minye Thihathu）结盟，相约合击这个奄奄一息的帝国。这是一个重大的转向——自十六世纪五十年代以来，历代若开之王都谨守着不插手缅甸本土事务的祖训；而孟罗阇基，却要主动把手，伸进伊洛瓦底江的漩涡。这份胆魄，源于他对实力的自信：经过祖父孟彬与父亲帕劳两代人的经营，妙乌已不再是那个只能据城死守、开闸放水以自保的滨海小邦，而是一个手握强大水陆之师、足以远征千里的区域强权。他要做的，不再是抵御来自伊洛瓦底江的强敌，而是反过来，去那片土地上逐鹿。他下令在全国总动员，自北方的恒河三角洲、特里普拉，到南方的丹兑（Thandwe），倾尽举国之力。到 1598 年末，他已集结起一支水陆并进的庞大远征军，兵力之众，或可高达三万。"}],"$La"]]}]]}],"$Lb","$Lc","$Ld","$Le"]}]}],"$Lf"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","属信史（与权威学术资料相符者）：孟罗阇基（王号罗阇，又称拉扎二世）约生于 1557 年、卒于 1612 年 7 月 4 日；为孟帕劳与苏弥道（二人为亲兄妹、皆孟彬之子女）之子，故为孟彬之嫡孙、孟苏孟之玄侄孙；1572 年父继位、立其为储，1575 年率军征服特里普拉；1593 年继位，1595 年平定弟弟多敏绍于吉大港之叛；1597 年与东吁叛将明耶梯诃都结盟、1598 年 11 月发兵，1599 年取沙廉、围勃固，十二月难陀·勃因出降；瓜分东吁六十年之积财、焚毁勃固城与莽应龙金宫、掳三千户北归；1600 年截击暹罗纳黎萱之军、致其惨败（暹罗末次入侵缅甸本土）；1600—1603 年以强大水师",{"children":"属信史（与权威学术资料相符者）：孟罗阇基（王号罗阇，又称拉扎二世）约生于 1557 年、卒于 1612 年 7 月 4 日；为孟帕劳与苏弥道（二人为亲兄妹、皆孟彬之子女）之子，故为孟彬之嫡孙、孟苏孟之玄侄孙；1572 年父继位、立其为储，1575 年率军征服特里普拉；1593 年继位，1595 年平定弟弟多敏绍于吉大港之叛；1597 年与东吁叛将明耶梯诃都结盟、1598 年 11 月发兵，1599 年取沙廉、围勃固，十二月难陀·勃因出降；瓜分东吁六十年之积财、焚毁勃固城与莽应龙金宫、掳三千户北归；1600 年截击暹罗纳黎萱之军、致其惨败（暹罗末次入侵缅甸本土）；1600—1603 年以强大水师"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$L10",null,{"href":"/people/min-bin","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"战车"}],"孟彬"]}]]}],["$","$L10",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$L10",null,{"href":"/people/maha-thammada","children":[["$","span",null,{"children":[["$","em",null,{"children":"高塔"}],"摩诃达玛达"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+a:["$","p","3",{"children":"1598 年 11 月 10 日，大军自妙乌启程。孟罗阇基亲统陆师，命长子兼储君孟卡茂（Min Khamaung）率领那支三百艘战船的水师；而在孟卡茂麾下效力的，正是以菲利佩·德·布里多（Filipe de Brito e Nicote，缅人称“雅辛伽”）为首的葡萄牙雇佣兵。"}]
+b:["$","section","4",{"className":"life-stage","id":"stage-5","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"5"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["焚烧勃固",null]}],[["$","p","0",{"className":"has-dropcap","children":"大军行至丹兑分道：陆师翻越若开山脉的隘口、直扑勃固，水师则绕过内格莱斯角，奔向下缅甸的要港沙廉（Syriam，今丹林）——1599 年三月，水师一举夺取了沙廉。四月，若开陆师抵达勃固城下，与东吁城的叛军会师，合围这座帝国的都城。围城一直持续到十二月，难陀·勃因终于出降。"}],["$","p","1",{"children":"胜利者们涌入勃固，瓜分了这座城——以及它作为东吁帝国国都、六十年间积攒下的惊人财富。黄金、白银、宝石，被均分而尽；若开所分得的，还包括数门巨型铜炮、三十尊高棉青铜造像，以及一头白象（孟罗阇基更纳难陀之女钦玛瑙公主 Khin Ma Hnaung 为后）。1600 年二月，东吁城的叛军载着他们的那份战利品撤回了东吁，把这座空城，留给了若开人。"}],["$","p","2",{"children":"接下来，孟罗阇基做出了一个冷酷而精明的决定。他深知自己没有足够的人力长据下缅甸，可他要让下缅甸，在此后很长一段时间里，都一蹶不振。于是他下令：将三千户人家掳往若开，再放一把大火，把整座勃固城——连同莽应龙（Bayinnaung）那座举世闻名的金宫——付之一炬。 一代雄主莽应龙苦心经营的帝国心脏，就这样在若开人的火光里，化为了灰烬。"}],["$","p","3",{"children":"这把火，烧掉的远不止一座城。莽应龙曾以勃固为都，缔造了东南亚有史以来最庞大的帝国，兵锋西抵曼尼普尔、东达澜沧；而如今，这个帝国的都城与宫阙，竟被一个昔日只能仰其鼻息、被它两度挥师来犯的滨海小邦，焚成了白地。孟罗阇基掳走的那三千户人家，被分置于乌里当、马尤河沿岸与丹兑——这正是他“釜底抽薪”之策的精髓：摧毁下缅甸腹地的城郭与人力，自己则只扼守几处紧要的海港。一座帝国的陨落与一个王国的登顶，在勃固冲天的火光里，定格成了同一个画面。焚城之后，他移师南下，据守要港沙廉，留兵戍卫。"}]]]}]]}]
+c:["$","section","5",{"className":"life-stage","id":"stage-6","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"6"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["暹罗退兵与海上帝国",null]}],[["$","p","0",{"className":"has-dropcap","children":"就在若开大军行将班师之际，一支暹罗（Siam）军队，在国王纳黎萱（Naresuan）的率领下，赶到了勃固——迎接他们的，却是一座被洗劫一空、烧成白地的废城。纳黎萱不甘，又追往东吁城，于 1600 年四月将其围住。身为东吁城的盟友，孟罗阇基下令水陆并进，截断暹罗军的粮道：若开水师拦截暹罗的运粮船，陆师则切断其余补给线。5 月 6 日，纳黎萱狼狈撤军，沿途屡遭若开军的伏击，损失惨重，最终只有一小股残部逃回了马都八（Martaban）。这，竟成了暹罗最后一次入侵缅甸本土。"}],["$","p","1",{"children":"在沙廉，孟罗阇基把这座要港的戍卫之责，交给了他水师中的葡萄牙雇佣兵首领德布里多，自己则由海路班师还朝。（忠心耿耿的老相摩诃宾雅觉 Maha Pyinnya Kyaw，在归途中溘然长逝。）"}],["$","p","2",{"children":"1600 至 1603 年，是妙乌霸业的巅峰：凭着那支强大的水师，孟罗阇基的王国，掌控了自孙德尔本斯直到马都八湾、绵延一千六百余公里的孟加拉湾海岸线。一个滨海王国，把半个孟加拉湾，都纳入了自己的势力范围。"}],["$","p","3",{"children":"这片海上帝国的繁华，是建立在贸易与劫掠之上的。妙乌的港口，云集着葡萄牙、荷兰的商船；而它最为人侧目的一桩生意，是奴隶——若开的舰队与受其庇护的葡萄牙海盗，年复一年地劫掠孟加拉沿海，把成千上万的俘虏掳回若开贩卖，连远道而来的荷兰商人，都成了妙乌奴隶市场的主顾。掠夺来的人力，被用以开垦稻田、充实丁口，反过来又供养着这个滨海强权的兵戈。这是一个建立在海洋、商船与刀剑之上的帝国，富庶、强悍，却也潜伏着深深的不安。然而，这座辉煌的海上帝国，有一个致命的软肋——它的水师，深深地依赖着那些葡萄牙雇佣兵；而这些人的忠诚，从来都靠不住。"}]]]}]]}]
+d:["$","section","6",{"className":"life-stage","id":"stage-7","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"7"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["葡萄牙人的反噬",null]}],[["$","p","0",{"className":"has-dropcap","children":"成也葡人，败也葡人。1600 年六月，孟罗阇基委任德布里多为沙廉总督——他把一座扼守下缅甸门户的要港，连同一支舰队，托付给了一个异乡的雇佣兵；可仅仅三年之后，1603 年三月，德布里多便在葡属果阿（Goa）总督的支持下，悍然反叛，宣布沙廉脱离若开而自立。"}],["$","p","1",{"children":"孟罗阇基的反扑，撞上了一连串的灾难。1603 年末，他遣储君孟卡茂率水师讨伐沙廉，水师却在内格莱斯角附近的兴吉岛遭四艘葡船伏击，孟卡茂本人竟被生擒。孟罗阇基亲率另一支三百艘战船的水师、联合东吁军合围沙廉，却始终攻不破其防线。1604 年，万般无奈之下，他只得以五万杜卡特金币（ducats）的赎金赎回储君，并默认沙廉沦为葡萄牙的殖民地。"}],["$","p","2",{"children":"经此一败，孟罗阇基开始疑惧起其余葡人的忠诚。他唯恐德布里多further夺取吉大港对岸的战略要岛迪安加（Dianga），竟下令屠杀了岛上六百名葡萄牙居民，仅有寥寥数人逃脱。1608 年，他甚至向荷兰东印度公司开出条件，许其通商筑垒，以换取荷人助他驱逐葡萄牙——可荷兰人因别处事务缠身，婉拒了。1609 年，迪安加的一名逃亡者塞巴斯蒂昂·贡萨尔维斯·蒂巴乌（Sebastian Gonzales Tibao），竟带着四百名武装葡人卷土重来，夺取了扼守雅鲁藏布江与恒河出海口的战略要港桑迪普岛（Sandwip），将岛上三千余名阿富汗海盗屠戮殆尽——这是一个惨重的损失。更糟的是，吉大港总督、孟罗阇基的胞弟，竟在与兄长口角之后，叛投了蒂巴乌（这位总督后来暴卒，多半是中了毒，蒂巴乌随即吞没了他的全部财宝）。"}],["$","p","3",{"children":"孟罗阇基怒不可遏，可他面前还有一个更紧迫的威胁：莫卧儿（Mughal）的孟加拉总督，正图谋进攻恒河口的诺阿卡利。为腾出手来，他不得不与蒂巴乌结盟，又于 1609 年十二月遣使东吁王阿那毕隆（Anaukpetlun）的朝廷，以安后方。1610 年，他派水师去抵御莫卧儿的侵犯；可在桑迪普，蒂巴乌竟悍然背盟——“用一个最简单的法子：在一次军议上，把若开水师的船长们尽数杀掉”，一举夺走了整支舰队。此后，蒂巴乌一伙公然劫掠若开海岸，一度沿黎妙河（Lemro）长驱直入，连国王那艘黄金象牙打造的御舟，都被掳了去。"}]]]}]]}]
+e:["$","section","7",{"className":"life-stage","id":"stage-8","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"8"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["落日",null]}],[["$","p","0",{"className":"has-dropcap","children":"在内忧外患的缠斗之中，孟罗阇基也不曾忘了佛事。他扩建了安多登戒堂（Andaw-thein），以供奉他从锡兰（Ceylon）朝圣带回的一颗佛牙舍利；1609 年初，又在摩诃牟尼（Mahamuni）圣寺新建了一座戒堂。一手挥刀焚城、一手虔诚礼佛——这位君主的身上，并存着那个时代东南亚君王最典型的两副面孔。"}],["$","p","1",{"children":"然而，葡萄牙人的劫掠，他终其一生，也未能根除。1612 年 7 月 4 日，孟罗阇基溘然长逝——那一天，恰是他登基整整十九年的同一个日子，仿佛命运早已为他的一生，画好了一个工整得近乎残酷的句点。他由长子孟卡茂继位，是为孟卡茂王。"}],["$","p","2",{"children":"这便是孟罗阇基的宿命，一个登峰造极、却又盛极而衰的悖论。他把妙乌的霸业，推上了三百五十年国祚中最眩目的顶点：他洗劫了宿敌东吁六十年的财富，一把火烧掉了莽应龙的金宫，逼退了纳黎萱的暹罗大军，让自己的舰队称霸了半个孟加拉湾。可成就他这一切的那柄利刃——葡萄牙雇佣兵与他们的火炮——却也正是反噬他、最终把他的海上帝国一寸寸夺回去的那只手。他驾驭着炮火登上了顶峰，又被同样的炮火，推下了落日。"}],["$","p","3",{"children":"这中间，还藏着一个意味深长的回环：那个被他一手扶起、又终于背叛了他的葡人头目德布里多——正是日后于 1608 年，盗走勃固那口巨大的达摩悉提大钟、想运回沙廉熔铸火炮、却在勃固河中失手将其沉没的同一个人。一个滨海帝国的辉煌与隐患，竟都系于这同一群亦友亦敌的异乡人身上。孟罗阇基的落日，照见的不只是一位雄主的迟暮，更是一整个时代的隐喻：当一个王国的强盛，过度地依赖于他人手中的刀剑时，那刀剑迟早会调转过来，指向它自己。他的儿子孟卡茂将继续与葡萄牙人周旋，妙乌的辉煌也还将延续大半个世纪；可那道在孟罗阇基晚年悄然西沉的落日，已然预示了这个海上帝国终将面对的黄昏——它崛起于葡人的炮火，也终将困顿于这柄它再也无法完全掌控的双刃之剑。"}]]]}]]}]
+f:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[null,["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L10","min-saw-mon",{"href":"/people/min-saw-mon","children":[["$","strong",null,{"children":"孟苏孟"}],["$","span",null,{"children":"妙乌王朝开创者"}]]}],["$","$L10","min-bin",{"href":"/people/min-bin","children":[["$","strong",null,{"children":"孟彬"}],["$","span",null,{"children":"若开黄金时代的缔造者"}]]}],["$","$L10","maha-thammada",{"href":"/people/maha-thammada","children":[["$","strong",null,{"children":"摩诃达玛达"}],["$","span",null,{"children":"妙乌王朝末代君主"}]]}]]}]]}]]}]
+13:null

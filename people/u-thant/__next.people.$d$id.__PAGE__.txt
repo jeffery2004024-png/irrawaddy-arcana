@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+f:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+10:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+3:T24d6,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：节制 · 吴丹">
+<defs>
+  <linearGradient id="t_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E8F1F6"/><stop offset=".55" stop-color="#B7CDDD"/><stop offset="1" stop-color="#6E8FA9"/>
+  </linearGradient>
+  <linearGradient id="t_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#CF9437"/>
+  </linearGradient>
+  <linearGradient id="t_stream" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#E0A93C"/><stop offset=".5" stop-color="#FFDE8A"/><stop offset="1" stop-color="#E0A93C"/>
+  </linearGradient>
+  <radialGradient id="t_vig" cx=".5" cy=".46" r=".72">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".42"/>
+  </radialGradient>
+  <clipPath id="t_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="t_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  <g id="t_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+
+<g clip-path="url(#t_win)">
+  <rect x="58" y="100" width="304" height="470" fill="url(#t_sky)"/>
+  <rect x="58" y="500" width="304" height="70" fill="#31506B"/>
+  <line x1="58" y1="500" x2="362" y2="500" stroke="#D9E4EC" stroke-opacity=".5" stroke-width="1"/>
+
+  <!-- Globe -->
+  <circle cx="210" cy="330" r="118" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".4" stroke-width="1.6"/>
+  <ellipse cx="210" cy="330" rx="46" ry="118" fill="none" stroke="#FFFFFF" stroke-opacity=".25" stroke-width="1.2"/>
+  <ellipse cx="210" cy="330" rx="92" ry="118" fill="none" stroke="#FFFFFF" stroke-opacity=".25" stroke-width="1.2"/>
+  <ellipse cx="210" cy="330" rx="118" ry="38" fill="none" stroke="#FFFFFF" stroke-opacity=".3" stroke-width="1.2"/>
+
+  <!-- Dove with olive branch -->
+  <g transform="translate(188,142)">
+    <path d="M14 -6 Q20 -18 34 -20 Q30 -10 22 -6 Z" fill="#FDFDFA" stroke="#C5D2DC" stroke-width=".8"/>
+    <path d="M0 0 Q10 -8 22 -7 Q34 -6 40 0 Q34 2 28 2 Q36 6 38 12 Q28 12 20 7 Q12 12 2 10 Q8 6 6 2 Q2 2 0 0 Z" fill="#FDFDFA" stroke="#C5D2DC" stroke-width=".8"/>
+    <polygon points="40,-1 46,1 40,3" fill="#D9A441"/>
+    <circle cx="34" cy="-2" r="1" fill="#44505C"/>
+    <path d="M46 2 q10 3 16 9" stroke="#5E7D4A" stroke-width="1.6" fill="none"/>
+    <ellipse cx="51" cy="3" rx="3.6" ry="1.7" fill="#6F9457" transform="rotate(-12 51 3)"/>
+    <ellipse cx="56" cy="6" rx="3.6" ry="1.7" fill="#6F9457" transform="rotate(32 56 6)"/>
+    <ellipse cx="60" cy="9" rx="3.6" ry="1.7" fill="#6F9457" transform="rotate(8 60 9)"/>
+  </g>
+
+  <!-- East: Shwedagon / West: tower -->
+  <circle cx="96" cy="474" r="30" fill="#F6DFA6" opacity=".35"/>
+  <rect x="78" y="492" width="36" height="8" fill="#D9B35E"/>
+  <path d="M84 492 Q84 470 96 464 Q108 470 108 492 Z" fill="#D9B35E"/>
+  <polygon points="92,464 100,464 97,430 95,430" fill="#D9B35E"/>
+  <use href="#t_star" x="96" y="426" fill="#EFD58E"/>
+  <rect x="320" y="430" width="22" height="70" fill="#44617C"/>
+  <line x1="331" y1="430" x2="331" y2="412" stroke="#44617C" stroke-width="1.5"/>
+  <line x1="325" y1="436" x2="325" y2="494" stroke="#9FB6C8" stroke-width="1" opacity=".55"/>
+  <line x1="331" y1="436" x2="331" y2="494" stroke="#9FB6C8" stroke-width="1" opacity=".55"/>
+  <line x1="337" y1="436" x2="337" y2="494" stroke="#9FB6C8" stroke-width="1" opacity=".55"/>
+
+  <!-- U Thant -->
+  <g>
+    <path d="M180 556 L186 488 H234 L240 556 Z" fill="#27435F" stroke="#16293C" stroke-width="1.4"/>
+    <line x1="210" y1="492" x2="210" y2="554" stroke="#16293C" stroke-width="1"/>
+    <line x1="183" y1="548" x2="237" y2="548" stroke="#3E5F80" stroke-width="1.2"/>
+    <path d="M184 492 L188 432 Q210 423 232 432 L236 492 Z" fill="#F5F2EA" stroke="#C9CFD2" stroke-width="1.3"/>
+    <line x1="210" y1="434" x2="210" y2="490" stroke="#DDD9CE" stroke-width="1"/>
+    <circle cx="210" cy="446" r="1.4" fill="#B9BFC2"/><circle cx="210" cy="460" r="1.4" fill="#B9BFC2"/><circle cx="210" cy="474" r="1.4" fill="#B9BFC2"/>
+    <path d="M190 440 Q172 452 166 466" stroke="#F5F2EA" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M230 440 Q248 452 254 466" stroke="#F5F2EA" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <circle cx="164" cy="468" r="6.5" fill="#C79A72" stroke="#8A5E3C" stroke-width=".8"/>
+    <circle cx="256" cy="468" r="6.5" fill="#C79A72" stroke="#8A5E3C" stroke-width=".8"/>
+    <path d="M150 460 h26 l-5 13 h-16 z" fill="#CFD9E4" stroke="#93A3B4" stroke-width="1.2"/>
+    <rect x="161" y="473" width="4" height="9" fill="#CFD9E4" stroke="#93A3B4" stroke-width="1"/>
+    <rect x="155" y="482" width="16" height="4" rx="2" fill="#CFD9E4" stroke="#93A3B4" stroke-width="1"/>
+    <path d="M244 460 h26 l-5 13 h-16 z" fill="url(#t_gold)" stroke="#A4742A" stroke-width="1.2"/>
+    <rect x="255" y="473" width="4" height="9" fill="#D9AE54" stroke="#A4742A" stroke-width="1"/>
+    <rect x="249" y="482" width="16" height="4" rx="2" fill="#D9AE54" stroke="#A4742A" stroke-width="1"/>
+    <path d="M256 458 Q210 410 164 458" stroke="url(#t_stream)" stroke-width="4.6" stroke-linecap="round" fill="none" opacity=".95"/>
+    <use href="#t_star" x="210" y="412" fill="#FFF6DC"/>
+    <circle cx="186" cy="436" r="2" fill="#FFE9B0"/><circle cx="234" cy="436" r="2" fill="#FFE9B0"/>
+    <circle cx="195" cy="406" r="3" fill="#C79A72" stroke="#8A5E3C" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#C79A72" stroke="#8A5E3C" stroke-width=".6"/>
+    <circle cx="210" cy="404" r="14" fill="#C79A72" stroke="#8A5E3C" stroke-width="1"/>
+    <circle cx="203.5" cy="404" r="5.6" fill="#FFFFFF" fill-opacity=".12" stroke="#2F2A26" stroke-width="1.5"/>
+    <circle cx="216.5" cy="404" r="5.6" fill="#FFFFFF" fill-opacity=".12" stroke="#2F2A26" stroke-width="1.5"/>
+    <line x1="209.1" y1="404" x2="210.9" y2="404" stroke="#2F2A26" stroke-width="1.5"/>
+    <line x1="197.9" y1="403" x2="195" y2="404" stroke="#2F2A26" stroke-width="1.2"/>
+    <line x1="222.1" y1="403" x2="225" y2="404" stroke="#2F2A26" stroke-width="1.2"/>
+    <path d="M206 414 q4 2.6 8 0" stroke="#6E4A30" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <path d="M193 398 Q191 374 210 370 Q229 374 227 398 Q210 388 193 398 Z" fill="#EFE0C4" stroke="#C8AB7C" stroke-width="1.2"/>
+    <path d="M196 392 Q210 382 224 392" stroke="#C8AB7C" stroke-width="1" fill="none"/>
+    <path d="M227 390 L247 377 L244 392 Z" fill="#EFE0C4" stroke="#C8AB7C" stroke-width="1"/>
+  </g>
+
+  <!-- Laurel sprigs -->
+  <path d="M148 560 Q176 546 198 549" stroke="#6F9457" stroke-width="2" fill="none"/>
+  <ellipse cx="156" cy="556" rx="5" ry="2" fill="#7DA164" transform="rotate(-30 156 556)"/>
+  <ellipse cx="166" cy="551" rx="5" ry="2" fill="#7DA164" transform="rotate(-20 166 551)"/>
+  <ellipse cx="177" cy="548" rx="5" ry="2" fill="#7DA164" transform="rotate(-10 177 548)"/>
+  <ellipse cx="188" cy="547" rx="5" ry="2" fill="#7DA164"/>
+  <path d="M272 560 Q244 546 222 549" stroke="#6F9457" stroke-width="2" fill="none"/>
+  <ellipse cx="264" cy="556" rx="5" ry="2" fill="#7DA164" transform="rotate(30 264 556)"/>
+  <ellipse cx="254" cy="551" rx="5" ry="2" fill="#7DA164" transform="rotate(20 254 551)"/>
+  <ellipse cx="243" cy="548" rx="5" ry="2" fill="#7DA164" transform="rotate(10 243 548)"/>
+  <ellipse cx="232" cy="547" rx="5" ry="2" fill="#7DA164"/>
+</g>
+
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#t_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#t_kan" transform="translate(34,34)"/>
+<use href="#t_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#t_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#t_kan" transform="translate(386,686) scale(-1,-1)"/>
+
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#t_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#t_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">XIV</text>
+  <text x="210" y="88" font-size="23" letter-spacing="14" fill="#E9C46A" font-weight="700" dx="-7">节制</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#t_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5">吴丹</text>
+  <text x="210" y="649" font-size="11" letter-spacing="2" fill="#F3E5C3" opacity=".9" dx="-1">U THANT · 联合国第三任秘书长 · 1909–1974</text>
+  <text x="210" y="677" font-size="13" letter-spacing="2" fill="#D8B56A" dx="-1">「风暴中央，他只是轻声说话」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1909 – 1974"}],["$","h1",null,{"children":"吴丹"}],["$","p",null,{"className":"person-hero__role","children":["第三任联合国秘书长",["$","span",null,{"className":"person-hero__alt","children":[" · ","U Thant"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"风暴正在世界的正中央咆哮，而他只是闭上眼，轻声说话。"}],["$","p",null,{"className":"person-hero__summary","children":"来自三角洲的乡村教师，以“节制”之心在古巴导弹危机的悬崖边，替整个人类轻声说话。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","联合国",{"children":"联合国"}],["$","span","中立外交",{"children":"中立外交"}],["$","span","古巴导弹危机",{"children":"古巴导弹危机"}],["$","span","佛教徒",{"children":"佛教徒"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["三角洲的孩子",["$","span",null,{"className":"life-stage__sub","children":"书香、无常与中道"}]]}],[["$","p","0",{"className":"has-dropcap","children":"一九〇九年一月，一个男婴降生在伊洛瓦底三角洲的小镇班达瑙（Pantanaw）。那时的缅甸还是大英帝国治下的一块殖民地，而班达瑙不过是三角洲上千百个被河汊纵横切割、雨季里动辄泛滥的寻常村镇之一。他是家中四个儿子里的长子，父亲吴坡尼（U Po Hnit）通晓英文、博学好学，是当地少有的读书人；母亲名叫杜南通。"}],["$","p","1",{"children":"缅甸人没有姓氏，“吴”只是一个表示尊敬的敬称，“丹”才是他真正的名字——一个极简单、极朴素的名字，恰如他日后那种不事张扬的性情。在这片低平、潮湿、年复一年与洪水周旋的土地上，人们学会的是顺应、是隐忍、是在无常的水势里寻一份内心的安稳。命运把这个孩子放在世界一个极不起眼的角落，给了他一个最普通的名字、一份最普通的出身；谁也不会想到，半个多世纪之后，这个三角洲小镇上的男孩，会站到整个人类命运的中枢，在核战的悬崖边上，替这颗星球轻声说话。"}],["$","p","2",{"children":"更耐人寻味的是这片土地本身。三角洲的水患年年如约而至，淹了又退，退了又淹；生在这里的人，骨子里都懂得一个道理——有些力量你无法对抗，只能与之共处，在涨落无常之间，守住自己内心的那条水平线。这份对“平衡”与“中道”的体悟，仿佛随着三角洲的河水，一早就渗进了他的血脉。日后世人将用塔罗牌中“节制”的意象来理解他：不偏不倚，调和水火，在极端之间寻一份恰到好处的安稳。而这份气质的源头，或许正是这座潮湿、低平、教会他顺应无常的三角洲故乡。命运在落子之初，就为他这一生的角色，埋下了最初的底色。"}],["$","p","3",{"children":"幼年的吴丹是个安静而早慧的孩子。父亲的家中藏书颇丰，英文的、缅文的、佛典与史册，构成了他童年最初的世界；他不爱喧闹的游戏，却痴迷于书本与沉思，小小年纪便被同伴们半是戏谑、半是敬佩地唤作“哲学家”。那份与生俱来的沉静与思辨，仿佛预示着他这一生都将是一个旁观者、一个调停者，而非一个争抢者。"}],["$","p","4",{"children":"然而命运的第一道阴影，早早便落了下来。父亲在他还年少时便撒手人寰，这个原本殷实的读书人家，骤然失去了顶梁柱，家道随之中落。身为长子，他过早地尝到了责任与失去的滋味——他必须为弟弟们着想，为这个失怙的家庭分忧。优渥的求学之路，就此蒙上了变数。一个本该在书斋里安心做学问的少年，被命运推着，提前学会了承担。也正是这份少年时的磨砺，在他温文的外表下，悄悄锻出了一种不动声色的坚韧：他不抱怨，不张扬，只是默默地接住命运抛来的每一份重量，再稳稳地把它扛起来。"}],["$","p","5",{"children":"父亲的早逝，也把佛法更深地推入了他的生命。在那个以佛教立身的国度，面对至亲的骤然离去与家境的滑落，年少的他没有沉溺于怨怼，而是从佛家“无常”与“放下”的教诲里，寻得了安顿身心的力量。他学会了在变故面前不慌不乱，学会了把情绪收敛于内、把分寸守在心里。这种自幼养成的、近乎修行般的自持，日后将成为他最鲜明的标志——多少年后，当全世界的记者都在镜头前等着捕捉这位秘书长的喜怒时，他们看到的，始终是一张平静无波的脸。那份平静的根，早在班达瑙那个失去父亲的少年身上，就已经深深扎下了。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["讲台上的命运预备",null]}],[["$","p","0",{"className":"has-dropcap","children":"家道的中落，逼得他不得不中断在仰光大学的学业——他只读了约莫两年，便被迫返回故乡谋生。然而命运在仰光的校园里，也悄悄为他埋下了一颗影响深远的种子：正是在那里，他结识了一位志同道合的挚友——日后将成为缅甸独立后首任总理的德钦努（即吴努，U Nu）。这段始于早年结下的情谊，将在二十多年后，把这个三角洲的乡村教师，一路引向世界舞台的中央。"}],["$","p","1",{"children":"回到班达瑙的他，成了一名教师。一九三二年，他与杜登町（Daw Thein Tin）成婚，组建了自己的家庭，育有子女（他的孙辈中，后来出了一位享誉国际的历史学家丹敏吴）。一九三五年，年仅二十六岁的他，便出任班达瑙国立中学的校长。他一面教书育人，一面提笔写作，热心于教育改革与文化事业，过着一个内陆小镇知识分子安宁而充实的生活。彼时的他，俨然已认定自己这一生的舞台，便是这座小镇、这所学校、这片他生于斯长于斯的三角洲。他并不知道，命运为他准备的剧本，远比这辽阔得多；那个看似已经写定的、平静的教书匠人生，不过是一场更大风暴来临前的序章。"}],["$","p","2",{"children":"如今回望，这段乡村教师的岁月，恰恰是命运对他最深的预备。讲台教会他的，是如何把复杂的道理讲得平和而清晰，如何在众声喧哗中保持耐心；校长的位子教会他的，是如何在分歧中斡旋、在有限的资源里求取共识。这些看似琐碎的本领，日后竟一一成了他在联合国斡旋大国的看家功夫。更重要的是，那份三角洲式的沉静始终未变——无论身处讲台还是日后的风暴中心，他都带着一种近乎僧侣的从容。命运没有让他在书斋里终老，而是把他在小镇上默默打磨出的全部品性，留待一个更大的舞台去验证。一个人年轻时认定的“终点”，有时不过是命运埋下的起点。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["从独立缅甸到联合国",null]}],[["$","p","0",{"className":"has-dropcap","children":"一九四八年，缅甸挣脱殖民统治，宣告独立。新生的国家百废待兴，求贤若渴；而他青年时代的挚友吴努，恰恰成了这个国家的首任总理。命运的丝线就此收紧——吴努把这位沉稳可靠、文笔出众的老友，从三角洲的小镇召入了政府的中枢。"}],["$","p","1",{"children":"他的仕途由此一路上升：他先后执掌新闻署与国家广播，又出任总理府的项目秘书，成为吴努身边最得力的助手之一，多次随总理出访各国。一九五二年，他作为缅甸代表出席联合国大会；一九五五年，又参与了那场象征亚非新兴国家集体觉醒的万隆会议。在国际舞台上，他那种不偏不倚、温和持重的气质，渐渐为各国所瞩目。一九五七年，他被正式任命为缅甸常驻联合国代表，远赴纽约。一个三角洲小镇的教书匠，就这样一步步走出国门，走向了那个汇聚着全世界目光与纷争的殿堂。他温文尔雅，却立场鲜明；他来自一个弱小的中立国，恰恰因此，成了大国之间最能被各方接受的那种人。命运正不动声色地，把他往一个谁也不曾预料的高位上推送。"}],"$La"]]}]]}],"$Lb","$Lc","$Ld"]}]}],"$Le"]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","古巴导弹危机斡旋、撤离西奈维和部队、反对越战等均依史料写成。",{"children":"古巴导弹危机斡旋、撤离西奈维和部队、反对越战等均依史料写成。"}],["$","li","身后在缅甸的葬礼风波，据当时报道与回忆整理，细节或有出入。",{"children":"身后在缅甸的葬礼风波，据当时报道与回忆整理，细节或有出入。"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$Lf",null,{"href":"/people/thibaw","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"倒吊人"}],"锡袍王"]}]]}],["$","$Lf",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$Lf",null,{"href":"/people","children":["人物总览",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-layout-grid","aria-hidden":"true","children":[["$","rect","1g98yp",{"width":"7","height":"7","x":"3","y":"3","rx":"1"}],["$","rect","6d4xhi",{"width":"7","height":"7","x":"14","y":"3","rx":"1"}],["$","rect","nxv5o0",{"width":"7","height":"7","x":"14","y":"14","rx":"1"}],["$","rect","1bb6yr",{"width":"7","height":"7","x":"3","y":"14","rx":"1"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+a:["$","p","2",{"children":"这是一种属于“小国”与“中道”的独特力量。在冷战那个非黑即白、阵营分明的年代，大国的代表往往带着鲜明的立场与算计；而他，一个来自既不属于西方、也不倒向东方的新兴中立国的外交官，反倒因这份“无所属”，赢得了各方罕有的信任。他不需要为谁的利益代言，便也没有谁需要防备他。多年的中立修养、佛家的不偏不倚、加上他与生俱来的温和，让他成了那个时代最稀缺的一种人物——一个所有人都愿意坐下来与之交谈的人。命运挑中他，并非偶然：它需要的，正是这样一个不站队、不张扬、却让人安心的灵魂，去接住一个濒临失控的世界。"}]
+b:["$","section","3",{"className":"life-stage","id":"stage-4","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"4"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["冷战风暴眼",["$","span",null,{"className":"life-stage__sub","children":"被世界选中的折中人"}]]}],[["$","p","0",{"className":"has-dropcap","children":"一九六一年九月，联合国秘书长哈马舍尔德在一场空难中骤然殒命。其时正值冷战最剑拔弩张的年月，美苏两大阵营在继任人选上僵持不下，互不相让。最终，各方的目光都落到了这位立场中立、性情温和、来自缅甸的代表身上——他成了那个唯一能被对立双方共同接受的折中人选。十一月，他出任代理秘书长，临危受命，接过了这个被各方撕扯的烫手职位。"}],["$","p","1",{"children":"这是一个谁都不羡慕的位置。前任死于非命，组织群龙无首，而冷战双方都把这个职位视作必须牢牢看住、绝不能让对方占了便宜的棋眼。他这个“折中人选”，说得好听是各方都能接受，说得难听便是各方都不甚满意、只是暂且容忍——他从一开始，就站在一个四面受力、动辄得咎的钢丝上。换了性子刚烈或热衷站队的人，这位子怕是一天也坐不安稳。可偏偏是他这种不偏不倚、宠辱不惊的性情，让他在这根钢丝上站住了脚：他不与任何一方为敌，也不向任何一方献媚，只把自己当作一个居中传话、努力不让局面崩盘的人。命运把他放在这个最难的位置上，仿佛早就算准了——能在两座随时可能相撞的冰山之间，稳稳泊住一叶小舟的，唯有这样一颗修过“节制”的心。"}],["$","p","2",{"children":"而他上任后所面对的第一场惊涛骇浪，便是足以毁灭人类文明的古巴导弹危机。一九六二年十月，当世界距离核战争只有一步之遥，他分别致信美国总统肯尼迪与苏联领导人赫鲁晓夫，写下了那句撼动人心的话：他确信，两位领导人都不愿被历史记住——倘若届时还有历史幸存下来的话——是他们联手终结了整个人类文明。随后，他提出了一个为双方留足体面的方案：美国解除对苏联船只的海上封锁，苏联则调头撤回运载导弹的船队、并撤除已部署的导弹。他为这两个怒目相对、谁也不肯先低头的超级大国，递上了一架可以体面退场的梯子，让他们得以从灾难的悬崖边各自后撤；紧接着，他又亲自飞往古巴，安抚怒火中烧的卡斯特罗。这位佛教徒以一种近乎“节制”的智慧，在世界最疯狂的时刻保持了清醒——他不偏袒任何一方，只一心想着如何把所有人从深渊边上拉回来。事后，他低调而关键的斡旋，被广泛认为对化解这场危机居功至伟。一九六二年十一月，他正式当选秘书长，成为联合国历史上第一位来自亚洲的掌舵人。"}]]]}]]}]
+c:["$","section","4",{"className":"life-stage","id":"stage-5","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"5"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["节制之道",["$","span",null,{"className":"life-stage__sub","children":"和平、失误与大国裂痕"}]]}],[["$","p","0",{"className":"has-dropcap","children":"在此后近十年的任期里，他始终站在世界冲突的风暴眼中。他调停刚果的内战，部署塞浦路斯的维和力量，斡旋一九六五年的印巴战争；他更不顾大国的压力，公开反对旷日持久的越南战争，力主以谈判代替杀戮。他像一根定海神针，一次次试图在剑拔弩张的世界里，维系住那一线脆弱的和平。"}],["$","p","1",{"children":"然而，身处那样一个位置，没有谁能全身而退。一九六七年，他应埃及的要求，撤走了部署在西奈半岛的联合国维和部队；此举事后被许多人指责，认为它间接为第三次中东战争的爆发埋下了导火索——这成了他一生中备受争议、也最令他痛心的一笔。他是一个不偏不倚的中立主义者，对东西两大阵营的傲慢与冷酷都直言批评，也因此常常两面不讨好。可即便在最艰难的时刻，他也极少动怒——同僚们说，几乎从没见过他失态。他是一位虔诚的佛教徒，每日清晨打坐冥想，把佛法中“超然”与“专注”的修养，带进了国际政治的惊涛骇浪。那份令人安心的沉静，正是他化解冲突最深的底气；他真正信奉的，是节制、是平衡、是在一切极端之间守住中道。"}],["$","p","2",{"children":"回望他的一生，“节制”二字几乎是最贴切的注脚。身处一个被仇恨、意识形态与核武器撕扯的时代，他既不被狂热裹挟，也不被绝望击垮；他像三角洲里那条看不见的水平线，任凭两岸的洪流如何汹涌，自己始终保持着不偏不倚的平静。他清楚地知道自己手中权柄的限度——联合国秘书长既无军队，也无强权，唯一的武器，便是道义、耐心，与让对立双方都肯坐下来的那份信任。他从不幻想自己能“战胜”什么，只是一次次地，把濒临失控的局面，轻轻拉回到可以对话的那条线上。这或许算不上轰轰烈烈的英雄主义，却是一种更难得的、属于“节制”的勇气。一九七一年底，他卸下重任，退隐之后仍著书立说、四处奔走，为一个更紧密、更和睦的人类共同体呼号不息。一九七四年十一月二十五日，他因肺癌病逝于纽约，享年六十五岁。"}]]]}]]}]
+d:["$","section","5",{"className":"life-stage","id":"stage-6","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"6"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["归葬风波",["$","span",null,{"className":"life-stage__sub","children":"人民记忆与金塔余光"}]]}],[["$","p","0",{"className":"has-dropcap","children":"然而，命运为这位一生奉献于和平的人，准备了一个最不平静的身后结局。彼时的缅甸，已落入奈温将军的军政府之手——这个军人在一九六二年发动政变，推翻了正是吴丹挚友吴努的民选政府。奈温既嫉妒吴丹享誉世界的崇高声望，又厌恶他与那个被自己推翻的民主政权之间的旧谊，于是下令：不给这位“人民的秘书长”任何官方的礼遇与哀荣。"}],["$","p","1",{"children":"当吴丹的灵柩从纽约运抵仰光机场时，没有一名仪仗，没有一位高官前来迎接——一个让全世界肃然起敬的人，在自己的祖国，却被刻意冷落。然而人民没有忘记他。十二月五日出殡那天，数万民众自发涌上仰光街头，为他送行。悲愤交加的仰光大学学生们，当街截下了他的灵柩，将它抬回校园，为他举行了一场属于人民自己的葬礼，并把他安葬在仓促筑起的陵墓之中。十二月十一日，军警动用武力强行夺回了遗体，将他另行下葬，并以混凝土封死了墓穴。随之而来的骚乱席卷全城：据官方统计，至少十八人在冲突中丧生，数千人被捕，全国陷入戒严。一个毕生都在为世界平息纷争的人，他的离去，竟在自己的故土掀起了一场血与火的风暴——这是命运最后的、也最苦涩的一重反讽。"}],["$","p","2",{"children":"而最终，当一切尘埃落定，他长眠的地方，是仰光大金塔的脚下。历史在此处轻轻合上了一个跨越五个世纪的圆环：那座金塔，正是早他五百年的女王信修浮，以自己等身的黄金一片片贴成的圣地。一位用黄金称量慈悲的孟族女王，与一位用沉静守护和平的现代缅甸人，最终在同一片金光的庇荫之下安息。从阿奴律陀立国时竖起的第一座佛塔，到信修浮倾注一生的大金塔，再到吴丹魂归的塔影之下——这片土地上一代又一代的灵魂，无论帝王将相，还是和平的使者，兜兜转转，最终都归向了同一片不灭的金光。命运的丝线绕了整整一千年，在大金塔的脚下，悄然系成了一个温柔的结。"}]]]}]]}]
+e:["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],"命运回环"]}],["$","div",null,{"className":"relationship-web","children":[["$","$Lf","shin-sawbu",{"href":"/people/shin-sawbu","children":[["$","strong",null,{"children":"信修浮"}],["$","span",null,{"children":"大金塔下 · 跨五百年的金光"}]]}]]}]]}],null]}]
+12:null

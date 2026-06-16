@@ -1,0 +1,91 @@
+1:"$Sreact.fragment"
+2:I[23422,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],"ReadingProgress"]
+11:I[22016,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js","/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js"],""]
+12:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+3:T174b,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-label="塔罗牌：魔术师 · 阿朗帕耶">
+
+<defs>
+  <linearGradient id="alaungpaya_sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#D9A05B"/><stop offset=".56" stop-color="#8E3B2E"/><stop offset="1" stop-color="#1B1715"/>
+  </linearGradient>
+  <linearGradient id="alaungpaya_gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#F0C45C"/>
+  </linearGradient>
+  <radialGradient id="alaungpaya_glow" cx=".5" cy=".43" r=".62">
+    <stop offset="0" stop-color="#FFF0C8" stop-opacity=".48"/><stop offset="1" stop-color="#FFF0C8" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="alaungpaya_vig" cx=".5" cy=".48" r=".75">
+    <stop offset=".62" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".45"/>
+  </radialGradient>
+  <clipPath id="alaungpaya_win">
+    <path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z"/>
+  </clipPath>
+  <path id="alaungpaya_star" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z"/>
+  <g id="alaungpaya_kan" fill="none" stroke="#E9C46A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M0 0 Q24 1 32 13 Q38 23 30 31 Q22 37 15 31 Q10 26 14 20 Q17 15 23 17"/>
+    <path d="M2 9 Q15 11 21 21"/>
+  </g>
+</defs>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="#261307" stroke="#A8772B" stroke-width="1.5"/>
+<g clip-path="url(#alaungpaya_win)">
+<rect x="58" y="100" width="304" height="470" fill="url(#alaungpaya_sky)"/>
+<circle cx="210" cy="318" r="154" fill="url(#alaungpaya_glow)"/>
+<circle cx="210" cy="226" r="58" fill="#F6C865" opacity=".72"/>
+<rect x="58" y="480" width="304" height="90" fill="#173C55"/><path d="M58 512 q42 12 88 0 t88 0 t88 0" stroke="#DCEAF1" stroke-opacity=".45" stroke-width="3" fill="none"/><path d="M58 542 q42 10 88 0 t88 0 t88 0" stroke="#DCEAF1" stroke-opacity=".28" stroke-width="2.4" fill="none"/>
+<g><rect x="70" y="436" width="280" height="44" fill="#5C3726"/><g fill="#8A5A36" stroke="#3B2117"><path d="M82 436 l10 -42 l10 42z"/><path d="M124 436 l10 -42 l10 42z"/><path d="M166 436 l10 -42 l10 42z"/><path d="M250 436 l10 -42 l10 42z"/><path d="M292 436 l10 -42 l10 42z"/><path d="M334 436 l10 -42 l10 42z"/></g></g>
+<g fill="#F2C95B" stroke="#9E3A1F" stroke-width=".8"><path d="M98 504 q18 -28 7 -54 q35 24 18 58 q-10 22 -25 -4z"/><path d="M322 506 q-15 -30 2 -52 q18 30 12 50 q-5 18 -14 2z"/></g>
+
+  <g>
+    <line x1="250" y1="468" x2="286" y2="326" stroke="#EDE7D7" stroke-width="5" stroke-linecap="round"/><path d="M282 324 l10 -28 l8 30 z" fill="#E9C46A" stroke="#8E6A28"/><rect x="244" y="458" width="30" height="7" rx="2" fill="#E9C46A" stroke="#A8772B"/>
+    <path d="M180 556 L186 452 Q210 438 234 452 L240 556 Z" fill="#A34125" stroke="#321812" stroke-width="1.5"/>
+    <path d="M190 474 Q210 466 230 474" stroke="#E9C46A" stroke-width="3" fill="none"/>
+    <path d="M190 466 Q172 480 166 498" stroke="#A34125" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M230 466 Q248 480 254 498" stroke="#A34125" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <circle cx="164" cy="500" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <circle cx="256" cy="500" r="6.5" fill="#E9BA8E" stroke="#A8703F" stroke-width=".8"/>
+    <rect x="204" y="424" width="12" height="12" fill="#E9BA8E"/>
+    <circle cx="210" cy="405" r="14" fill="#E9BA8E" stroke="#A8703F" stroke-width="1"/>
+    <circle cx="195" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <circle cx="225" cy="406" r="3" fill="#E9BA8E" stroke="#A8703F" stroke-width=".6"/>
+    <rect x="195" y="386" width="30" height="8" rx="2" fill="#E9C46A" stroke="#A8772B"/><polygon points="201,386 219,386 212,342 208,342" fill="url(#alaungpaya_gold)" stroke="#A8772B"/><use href="#alaungpaya_star" x="210" y="336" fill="#FFF6DC"/>
+    <path d="M202 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M212 403 q4 -2 8 0" stroke="#3A2212" stroke-width="1.6" fill="none"/>
+    <path d="M206 415 q4 3 8 0" stroke="#6E4226" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  </g>
+</g>
+<rect x="3" y="3" width="414" height="714" rx="20" fill="url(#alaungpaya_vig)"/>
+<path d="M58 566 L58 206 Q58 168 92 154 L186 116 Q210 104 234 116 L328 154 Q362 168 362 206 L362 566 Z" fill="none" stroke="#E9C46A" stroke-width="2"/>
+<rect x="15" y="15" width="390" height="690" rx="14" fill="none" stroke="#E9C46A" stroke-width="2.4"/>
+<rect x="25" y="25" width="370" height="670" rx="9" fill="none" stroke="#A8772B" stroke-width="1" opacity=".85"/>
+<use href="#alaungpaya_kan" transform="translate(34,34)"/>
+<use href="#alaungpaya_kan" transform="translate(386,34) scale(-1,1)"/>
+<use href="#alaungpaya_kan" transform="translate(34,686) scale(1,-1)"/>
+<use href="#alaungpaya_kan" transform="translate(386,686) scale(-1,-1)"/>
+<g font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','SimSun',serif" text-anchor="middle">
+  <use href="#alaungpaya_star" x="150" y="50" fill="#A8772B"/>
+  <use href="#alaungpaya_star" x="270" y="50" fill="#A8772B"/>
+  <text x="210" y="56" font-size="15" letter-spacing="3" fill="#F3E5C3" dx="-1.5">I</text>
+  <text x="210" y="88" font-size="23" letter-spacing="8" fill="#E9C46A" font-weight="700" dx="-4">魔术师</text>
+  <path d="M120 588 H300" stroke="#A8772B" stroke-width="1" opacity=".9"/>
+  <use href="#alaungpaya_star" x="210" y="588" fill="#E9C46A"/>
+  <text x="210" y="624" font-size="30" letter-spacing="10" fill="#E9C46A" font-weight="700" dx="-5">阿朗帕耶</text>
+  <text x="210" y="649" font-size="9.7" letter-spacing="1" fill="#F3E5C3" opacity=".9">ALAUNGPAYA · 贡榜 · 1752–1760</text>
+  <text x="210" y="677" font-size="12.6" letter-spacing=".8" fill="#D8B56A">「木栅里的火，点燃第三帝国」</text>
+</g>
+</svg>
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","article",null,{"className":"detail-page person-detail","children":[["$","header",null,{"className":"person-hero","children":[["$","div",null,{"className":"person-tarot person-tarot--art","aria-hidden":"true","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5","$L6","$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
+4:["$","div",null,{"className":"person-hero__text","children":[["$","p",null,{"className":"eyebrow","children":"1714 – 1760"}],["$","h1",null,{"children":"阿朗帕耶"}],["$","p",null,{"className":"person-hero__role","children":["贡榜王朝创立者",["$","span",null,{"className":"person-hero__alt","children":[" · ","Alaungpaya / 翁齐亚 / Aung Zeya / 雍笈牙"]}]]}],["$","p",null,{"className":"person-hero__epigraph","children":"木梭村长与第三帝国的火种"}],["$","p",null,{"className":"person-hero__summary","children":"木梭村长翁齐亚，在阿瓦陷落的废墟上聚四十六村起兵，灭复兴汉达瓦底、第三次统一缅甸，开创贡榜王朝。"}],["$","div",null,{"className":"person-hero__tags","children":[["$","span","贡榜王朝",{"children":"贡榜王朝"}],["$","span","第三次统一",{"children":"第三次统一"}],["$","span","木梭·瑞波",{"children":"木梭·瑞波"}],["$","span","雍笈牙",{"children":"雍笈牙"}]]}]]}]
+5:["$","div",null,{"className":"detail-grid","children":[["$","div",null,{"className":"reader reader--life","children":["$","div",null,{"className":"life-stages","children":[["$","section","0",{"className":"life-stage","id":"stage-1","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"1"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["村寨里的王者",null]}],[["$","p","0",{"className":"has-dropcap","children":"他并非从金殿里走出来的人。"}],["$","p","1",{"children":"一七一四年，翁齐亚生于上缅甸木梭村，也就是后来的瑞波。他的出身，在史书里常被写得带有命运的光辉：据缅甸王朝叙事，他的家系被追溯到蒲甘旧王室，甚至与那罗波帝悉都王的一支血脉相连；但这种高贵谱系更多属于王权合法性的叙事。可以确知的是，在孟军北上以前，他只是木梭一带的世袭村长，熟悉田亩、粮仓、民丁，也熟悉上缅甸乡社之间那种由血亲、寺院、灌溉与武装自保织成的坚韧网络。"}],["$","p","2",{"children":"正因如此，当阿瓦陷落的消息传到北方时，最先听见它的人并不是一个王子，而是一个村长。汉达瓦底的军队押走了东吁末王，以为上缅甸已经失去脊梁；留在北方的兵力不足，火炮也不足，胜利者的眼睛又望向南方与暹罗。就在这被轻蔑的空隙里，翁齐亚聚集木梭及附近村寨，据编年史传统，号召四十六村筑栅自守。他拒绝向勃固称臣，自立为王，改木梭为瑞波，并取号阿朗帕耶。"}],["$","p","3",{"children":"这是一场带着宗教色彩的政治诞生。“阿朗帕耶”这个名号，不只是一个武夫的自矜。它把一个乡村首领的反抗，解释为前生福业成熟、佛法护持王权、乱世必有圣王应运而起的征兆。后来的御传甚至把佛陀预言、瑞相与王族血统编织在一起，仿佛瑞波城的每一根木桩，早在久远劫前便已被命运钉入大地。若按严谨史实看，这些多属王朝宣传；可若要理解十八世纪缅人的臣民为何愿意追随他，那些传说又不能全然抹去。因为在那个时代，兵力之外，人心也需要一种天命的语言。"}]]]}]]}],["$","section","1",{"className":"life-stage","id":"stage-2","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"2"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["瑞波的火，阿瓦的灰",null]}],[["$","p","0",{"className":"has-dropcap","children":"起初，阿朗帕耶面对的并不是一个完整的帝国，而是一个胜利过早、根基未稳的占领政权。汉达瓦底军队虽曾攻陷阿瓦，却没有把上缅甸彻底消化；许多缅人贵族、村社与武装残部，并不真心服从孟人统治。阿朗帕耶正是在这些裂缝中把自己铸成刀锋。他以瑞波为中心，筑栅、征粮、整编乡兵，又用惊人的速度击退前来清剿的孟军。"}],["$","p","1",{"children":"一七五三至一七五四年间，贡榜军重新夺回阿瓦。关于具体月份，诸书略有差异；但无论系于哪一年，这一战的象征意义都十分清楚：被押往南方的东吁王统已经无法复活，可上缅甸并未因此臣服于汉达瓦底。阿朗帕耶不是在替旧王复位，他是在废墟上另立一统。他把北方的恐惧改造成复仇，把村寨的木栅扩成王朝的城墙。"}],["$","p","2",{"children":"此后，他的战争不再只是防守。贡榜军沿伊洛瓦底江南下，先取卑谬，再压向三角洲。下缅甸的江河、沼泽、港口与外商火器，本来是汉达瓦底赖以自豪的根基；如今这些地方一个接一个转到阿朗帕耶手中。一七五五年，他进入达贡，将这座孟人渔村与港口扩建并改名仰光。此名常被解释为“争端止息”或“战乱终结”，它像一枚钉子，钉在孟人旧地的心口：从此，南方最重要的出海口，不再只是汉达瓦底的门户，也成了贡榜王朝通向世界的喉咙。"}],["$","p","3",{"children":"一七五六年，丹林陷落。那里有法国人与葡萄牙后裔的火器传统，也有欧洲东印度公司在孟缅战争中投下的阴影。法方与孟王宾尼亚达拉的往来，使阿朗帕耶对外商介入深怀戒心；城破之后，法军顾问德布鲁诺等人死于乱局，贡榜军又获得相当数量的枪炮与舰船。此事在后来被讲述成一个古老循环的再现：一个新缅王的崛起，必先折断盘踞海口的西洋火器之手。"}],["$","p","4",{"children":"一七五七年五月，勃固陷落。复兴汉达瓦底，这个亲手终结东吁的孟人王国，仅仅十七年便被另一个新王朝终结。宾尼亚达拉被俘，孟人的复国之梦随城火坠落。至此，阿朗帕耶完成了缅甸史上第三个大一统王朝的奠基：蒲甘之后有东吁，东吁之后有贡榜。历史的车轮没有停下，只是换了一只更强硬的手来推动。"}]]]}]]}],["$","section","2",{"className":"life-stage","id":"stage-3","children":[["$","div",null,{"className":"life-stage__rail","aria-hidden":"true","children":["$","span",null,{"className":"life-stage__num","children":"3"}]}],["$","div",null,{"className":"life-stage__body","children":[["$","h2",null,{"className":"life-stage__title","children":["未竟的东征",null]}],[["$","p","0",{"className":"has-dropcap","children":"然而，阿朗帕耶并不满足于缝合缅甸。他像所有刚刚登上绝顶的征服者一样，立刻望见了更远处的边界。北方的掸邦诸酋、西方的曼尼普尔、东方的澜纳与暹罗，都被卷入贡榜的军事视野。对于他而言，边疆不是静止的线，而是新王朝必须不断用兵去确认的威严。"}],["$","p","1",{"children":"一七五九年，他发动对暹罗的远征。此役的近因，通常系于丹那沙林海岸控制权、暹罗庇护孟人流亡者以及边境贸易冲突；而在王朝叙事里，它又被说成转轮圣王继续扫平四方的必然。贡榜军由土瓦、丹那沙林南下再折向阿瑜陀耶，一路攻取海岸与西暹诸城。随军的迈杜王子，便是后来的辛标信，他在这场未完成的战争里记住了暹罗的河道、城防、雨季与弱点。"}],["$","p","2",{"children":"一七六〇年四月，缅军抵达阿瑜陀耶城下。可是命运在这里收回了它赐给阿朗帕耶的一切。关于他的伤病，缅甸编年史多称其染疾，暹罗方面则流传他在炮击中被己方火炮炸伤；两说各有所本，至今难以完全裁断。可以确定的是，雨季将至，军中疾病蔓延，缅军被迫撤退。阿朗帕耶死在归途，卒日诸书或作四月十三日，或作五月十一日，地点多系于马都八、萨尔温江一带的金瓦附近。"}],["$","p","3",{"children":"他死时年仅四十六岁，在位不足八年。可是这八年已经足够改变缅甸的命数：他从一个村长成为国王，从木栅中建立瑞波，从阿瓦废墟中夺回北方，又踏平勃固，吞并三角洲，重建一个足以与蒲甘、东吁并列的帝国框架。他没能攻下阿瑜陀耶，却把未竟的仇恨、路线与经验，留给了那个比他更冷酷、更能用战争燃烧整个时代的儿子。"}]]]}]]}]]}]}],["$","aside",null,{"className":"detail-aside","aria-label":"人物关联信息","children":[["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles","aria-hidden":"true","children":["$La","$Lb","$Lc","$Ld","$Le","$undefined"]}],"命运回环"]}],"$Lf"]}],"$L10"]}]]}]
+6:["$","section",null,{"className":"source-boundary","aria-labelledby":"source-boundary-title","children":[["$","h2",null,{"id":"source-boundary-title","children":"史料边界"}],["$","ul",null,{"children":[["$","li","据缅甸编年史（《琉璃宫史》等）、G. E. 哈维《缅甸史》、丹敏乌《现代缅甸的形成》等近代学术考订写成。",{"children":"据缅甸编年史（《琉璃宫史》等）、G. E. 哈维《缅甸史》、丹敏乌《现代缅甸的形成》等近代学术考订写成。"}],["$","li","王族高贵谱系、瑞相与佛陀预言等多属王权合法性叙事，文中已以“据编年史”“相传”标明，以与信史区分。",{"children":"王族高贵谱系、瑞相与佛陀预言等多属王权合法性叙事，文中已以“据编年史”“相传”标明，以与信史区分。"}]]}]]}]
+7:["$","nav",null,{"className":"chapter-nav person-nav","aria-label":"人物之间","children":[["$","$L11",null,{"href":"/people/binnya-dala","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":[["$","em",null,{"children":"战车"}],"宾尼亚达拉"]}]]}],["$","$L11",null,{"className":"chapter-nav__center","href":"/","children":"人物长廊"}],["$","$L11",null,{"href":"/people/hsinbyushin","children":[["$","span",null,{"children":[["$","em",null,{"children":"战车"}],"辛标信"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+8:["$","script","script-0",{"src":"/irrawaddy-arcana/_next/static/chunks/3woejjmzshtld.js","async":true}]
+9:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+a:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+b:["$","path","1olli1",{"d":"M20 3v4"}]
+c:["$","path","1gvqau",{"d":"M22 5h-4"}]
+d:["$","path","vumght",{"d":"M4 17v2"}]
+e:["$","path","zchphs",{"d":"M5 18H3"}]
+f:["$","div",null,{"className":"relationship-web","children":[["$","$L11","binnya-dala",{"href":"/people/binnya-dala","children":[["$","strong",null,{"children":"宾尼亚达拉"}],["$","span",null,{"children":"他从其手中夺回缅甸 · 复国梦的终结者"}]]}],["$","$L11","mahadhammaza-dipadi",{"href":"/people/mahadhammaza-dipadi","children":[["$","strong",null,{"children":"摩诃达玛耶扎底"}],["$","span",null,{"children":"在他覆灭的废墟上崛起"}]]}],["$","$L11","hsinbyushin",{"href":"/people/hsinbyushin","children":[["$","strong",null,{"children":"辛标信"}],["$","span",null,{"children":"他的儿子 · 白象之主"}]]}],["$","$L11","bodawpaya",{"href":"/people/bodawpaya","children":[["$","strong",null,{"children":"波道帕耶"}],["$","span",null,{"children":"他的儿子 · 征服若开者"}]]}]]}]
+10:["$","section",null,{"children":[["$","h2",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-git-branch","aria-hidden":"true","children":[["$","line","17qcm7",{"x1":"6","x2":"6","y1":"3","y2":"15"}],["$","circle","1h7g24",{"cx":"18","cy":"6","r":"3"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","path","n2h4wq",{"d":"M18 9a9 9 0 0 1-9 9"}],"$undefined"]}],"同代之人"]}],["$","div",null,{"className":"relationship-web","children":[["$","$L11","hsinbyushin",{"href":"/people/hsinbyushin","children":[["$","strong",null,{"children":"辛标信"}],["$","span",null,{"children":"贡榜君主"}]]}],["$","$L11","bodawpaya",{"href":"/people/bodawpaya","children":[["$","strong",null,{"children":"波道帕耶"}],["$","span",null,{"children":"贡榜君主"}]]}],["$","$L11","mindon",{"href":"/people/mindon","children":[["$","strong",null,{"children":"敏东王"}],["$","span",null,{"children":"贡榜改革君主"}]]}],["$","$L11","thibaw",{"href":"/people/thibaw","children":[["$","strong",null,{"children":"锡袍王"}],["$","span",null,{"children":"缅甸末代国王"}]]}]]}]]}]
+14:null

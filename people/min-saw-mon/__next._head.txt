@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+3:I[97367,["/irrawaddy-arcana/_next/static/chunks/3rdqn8rx95pw7.js","/irrawaddy-arcana/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"孟苏孟 · 星 | 伊洛瓦底的王冠"}],["$","meta","1",{"name":"description","content":"他被一位几乎重建了蒲甘帝国的阿瓦王子逐出王都，只带着寥寥数骑，亡命异邦；他在一座信奉真主的苏丹宫廷里寄身二十四年，又借着阿富汗与孟加拉的刀剑，重返故土，亲手栽下一个将照耀孟加拉湾三个半世纪的王朝。流亡，本是绝路；可在他脚下，竟一步步走成…"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Wni7G7Y7tQdWI_49uASu3"}
